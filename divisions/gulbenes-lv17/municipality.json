@@ -1,0 +1,33 @@
+{
+  "id": "LV17",
+  "level": 1,
+  "level_name": {
+    "local": "Novads/Valstspilsēta",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Gulbenes novads",
+    "en": "Gulbenes",
+    "slug": "gulbenes-lv17"
+  },
+  "code": {
+    "id": "LV17",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "57.177",
+    "lon": "26.754"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/gulbenes-lv17/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

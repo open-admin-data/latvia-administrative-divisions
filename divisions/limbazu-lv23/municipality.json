@@ -1,0 +1,33 @@
+{
+  "id": "LV23",
+  "level": 1,
+  "level_name": {
+    "local": "Novads/Valstspilsēta",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Limbažu novads",
+    "en": "Limbazu",
+    "slug": "limbazu-lv23"
+  },
+  "code": {
+    "id": "LV23",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "57.513",
+    "lon": "24.717"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/limbazu-lv23/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

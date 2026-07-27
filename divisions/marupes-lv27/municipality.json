@@ -1,0 +1,33 @@
+{
+  "id": "LV27",
+  "level": 1,
+  "level_name": {
+    "local": "Novads/Valstspilsēta",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Mārupes novads",
+    "en": "Marupes",
+    "slug": "marupes-lv27"
+  },
+  "code": {
+    "id": "LV27",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.904",
+    "lon": "24.047"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/marupes-lv27/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

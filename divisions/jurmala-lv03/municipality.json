@@ -1,0 +1,33 @@
+{
+  "id": "LV03",
+  "level": 1,
+  "level_name": {
+    "local": "Novads/Valstspilsēta",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Jūrmala",
+    "en": "Jurmala",
+    "slug": "jurmala-lv03"
+  },
+  "code": {
+    "id": "LV03",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.968",
+    "lon": "23.77"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/jurmala-lv03/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

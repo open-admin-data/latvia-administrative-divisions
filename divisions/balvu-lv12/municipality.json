@@ -1,0 +1,33 @@
+{
+  "id": "LV12",
+  "level": 1,
+  "level_name": {
+    "local": "Novads/Valstspilsēta",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Balvu novads",
+    "en": "Balvu",
+    "slug": "balvu-lv12"
+  },
+  "code": {
+    "id": "LV12",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "57.131",
+    "lon": "27.266"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/balvu-lv12/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

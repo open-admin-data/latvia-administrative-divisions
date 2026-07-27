@@ -1,0 +1,45 @@
+{
+  "id": "LV39L019",
+  "level": 2,
+  "level_name": {
+    "local": "Apdzīvota vieta",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Ä¶ipatciems",
+    "en": "Ä¶ipatciems",
+    "slug": "a-ipatciems-lv39l019"
+  },
+  "code": {
+    "id": "LV39L019",
+    "iso": null
+  },
+  "parent": {
+    "id": "LV39",
+    "level": 1,
+    "name": {
+      "local": "Tukuma novads",
+      "en": "Tukuma",
+      "slug": "tukuma-lv39"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LV39",
+      "level": 1,
+      "name": {
+        "local": "Tukuma novads",
+        "en": "Tukuma",
+        "slug": "tukuma-lv39"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "57.333",
+    "lon": "23.059"
+  },
+  "metadata": {},
+  "source": {}
+}

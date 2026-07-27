@@ -1,0 +1,47 @@
+[
+  {
+    "id": "LV18L001",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "TÄ«reÄ¼i",
+      "en": "TÄ«reÄ¼i",
+      "slug": "ta-rea-i-lv18l001"
+    },
+    "code": {
+      "id": "LV18L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV18",
+      "level": 1,
+      "name": {
+        "local": "Jelgavas novads",
+        "en": "Jelgavas",
+        "slug": "jelgavas-lv18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV18",
+        "level": 1,
+        "name": {
+          "local": "Jelgavas novads",
+          "en": "Jelgavas",
+          "slug": "jelgavas-lv18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "56.84",
+      "lon": "23.589"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

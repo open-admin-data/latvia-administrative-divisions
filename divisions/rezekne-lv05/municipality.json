@@ -1,0 +1,33 @@
+{
+  "id": "LV05",
+  "level": 1,
+  "level_name": {
+    "local": "Novads/Valstspilsēta",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Rēzekne",
+    "en": "Rezekne",
+    "slug": "rezekne-lv05"
+  },
+  "code": {
+    "id": "LV05",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.51",
+    "lon": "27.334"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/rezekne-lv05/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

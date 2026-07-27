@@ -1,0 +1,33 @@
+{
+  "id": "LV02",
+  "level": 1,
+  "level_name": {
+    "local": "Novads/Valstspilsēta",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Jelgava",
+    "en": "Jelgava",
+    "slug": "jelgava-lv02"
+  },
+  "code": {
+    "id": "LV02",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.651",
+    "lon": "23.713"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/jelgava-lv02/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

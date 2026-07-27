@@ -1,0 +1,45 @@
+{
+  "id": "LV12L001",
+  "level": 2,
+  "level_name": {
+    "local": "Apdzīvota vieta",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "VilÌ§aka",
+    "en": "VilÌ§aka",
+    "slug": "vili-aka-lv12l001"
+  },
+  "code": {
+    "id": "LV12L001",
+    "iso": null
+  },
+  "parent": {
+    "id": "LV12",
+    "level": 1,
+    "name": {
+      "local": "Balvu novads",
+      "en": "Balvu",
+      "slug": "balvu-lv12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LV12",
+      "level": 1,
+      "name": {
+        "local": "Balvu novads",
+        "en": "Balvu",
+        "slug": "balvu-lv12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "57.185",
+    "lon": "27.672"
+  },
+  "metadata": {},
+  "source": {}
+}

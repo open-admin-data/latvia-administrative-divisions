@@ -1,0 +1,33 @@
+{
+  "id": "LV40",
+  "level": 1,
+  "level_name": {
+    "local": "Novads/Valstspilsēta",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Valkas novads",
+    "en": "Valkas",
+    "slug": "valkas-lv40"
+  },
+  "code": {
+    "id": "LV40",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "57.775",
+    "lon": "26.01"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/valkas-lv40/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

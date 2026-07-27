@@ -1,0 +1,45 @@
+{
+  "id": "LV11L001",
+  "level": 2,
+  "level_name": {
+    "local": "Apdzīvota vieta",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Lociki",
+    "en": "Lociki",
+    "slug": "lociki-lv11l001"
+  },
+  "code": {
+    "id": "LV11L001",
+    "iso": null
+  },
+  "parent": {
+    "id": "LV11",
+    "level": 1,
+    "name": {
+      "local": "Augšdaugavas novads",
+      "en": "Augsdaugavas",
+      "slug": "augsdaugavas-lv11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LV11",
+      "level": 1,
+      "name": {
+        "local": "Augšdaugavas novads",
+        "en": "Augsdaugavas",
+        "slug": "augsdaugavas-lv11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "55.937",
+    "lon": "26.644"
+  },
+  "metadata": {},
+  "source": {}
+}

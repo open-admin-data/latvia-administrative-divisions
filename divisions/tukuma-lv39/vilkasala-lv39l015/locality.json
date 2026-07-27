@@ -1,0 +1,45 @@
+{
+  "id": "LV39L015",
+  "level": 2,
+  "level_name": {
+    "local": "Apdzīvota vieta",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Vilkasala",
+    "en": "Vilkasala",
+    "slug": "vilkasala-lv39l015"
+  },
+  "code": {
+    "id": "LV39L015",
+    "iso": null
+  },
+  "parent": {
+    "id": "LV39",
+    "level": 1,
+    "name": {
+      "local": "Tukuma novads",
+      "en": "Tukuma",
+      "slug": "tukuma-lv39"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LV39",
+      "level": 1,
+      "name": {
+        "local": "Tukuma novads",
+        "en": "Tukuma",
+        "slug": "tukuma-lv39"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "57.033",
+    "lon": "23.011"
+  },
+  "metadata": {},
+  "source": {}
+}

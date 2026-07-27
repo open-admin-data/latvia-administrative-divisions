@@ -1,0 +1,47 @@
+[
+  {
+    "id": "LV14L001",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "PriekulÌ§i",
+      "en": "PriekulÌ§i",
+      "slug": "priekuli-i-lv14l001"
+    },
+    "code": {
+      "id": "LV14L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV14",
+      "level": 1,
+      "name": {
+        "local": "Cēsu novads",
+        "en": "Cesu",
+        "slug": "cesu-lv14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV14",
+        "level": 1,
+        "name": {
+          "local": "Cēsu novads",
+          "en": "Cesu",
+          "slug": "cesu-lv14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "57.315",
+      "lon": "25.361"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

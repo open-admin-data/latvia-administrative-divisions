@@ -1,0 +1,45 @@
+{
+  "id": "LV39L005",
+  "level": 2,
+  "level_name": {
+    "local": "Apdzīvota vieta",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Dzirciems",
+    "en": "Dzirciems",
+    "slug": "dzirciems-lv39l005"
+  },
+  "code": {
+    "id": "LV39L005",
+    "iso": null
+  },
+  "parent": {
+    "id": "LV39",
+    "level": 1,
+    "name": {
+      "local": "Tukuma novads",
+      "en": "Tukuma",
+      "slug": "tukuma-lv39"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LV39",
+      "level": 1,
+      "name": {
+        "local": "Tukuma novads",
+        "en": "Tukuma",
+        "slug": "tukuma-lv39"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "57.121",
+    "lon": "23.013"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,33 @@
+{
+  "id": "LV38",
+  "level": 1,
+  "level_name": {
+    "local": "Novads/Valstspilsēta",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Talsu novads",
+    "en": "Talsu",
+    "slug": "talsu-lv38"
+  },
+  "code": {
+    "id": "LV38",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "57.245",
+    "lon": "22.588"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/talsu-lv38/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

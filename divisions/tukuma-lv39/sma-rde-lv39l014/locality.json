@@ -1,0 +1,45 @@
+{
+  "id": "LV39L014",
+  "level": 2,
+  "level_name": {
+    "local": "Apdzīvota vieta",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "SmÄ�rde",
+    "en": "SmÄ�rde",
+    "slug": "sma-rde-lv39l014"
+  },
+  "code": {
+    "id": "LV39L014",
+    "iso": null
+  },
+  "parent": {
+    "id": "LV39",
+    "level": 1,
+    "name": {
+      "local": "Tukuma novads",
+      "en": "Tukuma",
+      "slug": "tukuma-lv39"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LV39",
+      "level": 1,
+      "name": {
+        "local": "Tukuma novads",
+        "en": "Tukuma",
+        "slug": "tukuma-lv39"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.954",
+    "lon": "23.337"
+  },
+  "metadata": {},
+  "source": {}
+}

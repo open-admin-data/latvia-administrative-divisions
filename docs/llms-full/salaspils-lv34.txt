@@ -1,0 +1,14 @@
+# Salaspils — Latvia Administrative Divisions
+
+> 1 localitys
+> Code: LV34
+> Coordinates: 56.861, 24.35
+> Last updated: 2026-07-27. License: CC-BY-4.0.
+
+## Localitys
+
+### Upeslejas
+
+Code: LV34L001, Coordinates: 56.924, 24.386
+
+

@@ -1,0 +1,33 @@
+{
+  "id": "LV35",
+  "level": 1,
+  "level_name": {
+    "local": "Novads/Valstspilsēta",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Saulkrastu novads",
+    "en": "Saulkrastu",
+    "slug": "saulkrastu-lv35"
+  },
+  "code": {
+    "id": "LV35",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "57.258",
+    "lon": "24.407"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/saulkrastu-lv35/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

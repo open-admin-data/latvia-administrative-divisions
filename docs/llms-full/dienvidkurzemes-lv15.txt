@@ -1,0 +1,14 @@
+# Dienvidkurzemes — Latvia Administrative Divisions
+
+> 1 localitys
+> Code: LV15
+> Coordinates: 56.354, 21.082
+> Last updated: 2026-07-27. License: CC-BY-4.0.
+
+## Localitys
+
+### Rucava
+
+Code: LV15L001, Coordinates: 56.163, 21.162
+
+

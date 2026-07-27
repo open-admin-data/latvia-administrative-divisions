@@ -1,0 +1,14 @@
+# Dobeles — Latvia Administrative Divisions
+
+> 1 localitys
+> Code: LV16
+> Coordinates: 56.625, 23.279
+> Last updated: 2026-07-27. License: CC-BY-4.0.
+
+## Localitys
+
+### TÄ“rvete
+
+Code: LV16L001, Coordinates: 56.48, 23.389
+
+

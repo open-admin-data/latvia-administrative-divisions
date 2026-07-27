@@ -1,0 +1,33 @@
+{
+  "id": "LV32",
+  "level": 1,
+  "level_name": {
+    "local": "Novads/Valstspilsēta",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ropažu novads",
+    "en": "Ropazu",
+    "slug": "ropazu-lv32"
+  },
+  "code": {
+    "id": "LV32",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.963",
+    "lon": "24.632"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/ropazu-lv32/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

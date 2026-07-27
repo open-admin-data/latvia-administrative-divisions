@@ -1,0 +1,33 @@
+{
+  "id": "LV34",
+  "level": 1,
+  "level_name": {
+    "local": "Novads/Valstspilsēta",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Salaspils novads",
+    "en": "Salaspils",
+    "slug": "salaspils-lv34"
+  },
+  "code": {
+    "id": "LV34",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.861",
+    "lon": "24.35"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/salaspils-lv34/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

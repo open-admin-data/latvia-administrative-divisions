@@ -1,0 +1,45 @@
+{
+  "id": "LV35L001",
+  "level": 2,
+  "level_name": {
+    "local": "Apdzīvota vieta",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Dunte",
+    "en": "Dunte",
+    "slug": "dunte-lv35l001"
+  },
+  "code": {
+    "id": "LV35L001",
+    "iso": null
+  },
+  "parent": {
+    "id": "LV35",
+    "level": 1,
+    "name": {
+      "local": "Saulkrastu novads",
+      "en": "Saulkrastu",
+      "slug": "saulkrastu-lv35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LV35",
+      "level": 1,
+      "name": {
+        "local": "Saulkrastu novads",
+        "en": "Saulkrastu",
+        "slug": "saulkrastu-lv35"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "57.406",
+    "lon": "24.427"
+  },
+  "metadata": {},
+  "source": {}
+}

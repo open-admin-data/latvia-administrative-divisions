@@ -1,0 +1,45 @@
+{
+  "id": "LV42L001",
+  "level": 2,
+  "level_name": {
+    "local": "Apdzīvota vieta",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "VaraklÌ§Ä�ni",
+    "en": "VaraklÌ§Ä�ni",
+    "slug": "varakli-a-ni-lv42l001"
+  },
+  "code": {
+    "id": "LV42L001",
+    "iso": null
+  },
+  "parent": {
+    "id": "LV42",
+    "level": 1,
+    "name": {
+      "local": "Varakļānu novads",
+      "en": "Varaklanu",
+      "slug": "varaklanu-lv42"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LV42",
+      "level": 1,
+      "name": {
+        "local": "Varakļānu novads",
+        "en": "Varaklanu",
+        "slug": "varaklanu-lv42"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.608",
+    "lon": "26.754"
+  },
+  "metadata": {},
+  "source": {}
+}

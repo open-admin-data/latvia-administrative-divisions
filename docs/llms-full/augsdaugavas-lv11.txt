@@ -1,0 +1,14 @@
+# Augsdaugavas — Latvia Administrative Divisions
+
+> 1 localitys
+> Code: LV11
+> Coordinates: 55.985, 26.619
+> Last updated: 2026-07-27. License: CC-BY-4.0.
+
+## Localitys
+
+### Lociki
+
+Code: LV11L001, Coordinates: 55.937, 26.644
+
+

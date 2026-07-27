@@ -1,0 +1,19 @@
+# Varaklanu — Latvia Administrative Divisions
+
+> 2 localitys
+> Code: LV42
+> Coordinates: 56.607, 26.754
+> Last updated: 2026-07-27. License: CC-BY-4.0.
+
+## Localitys
+
+### VaraklÌ§Ä�ni
+
+Code: LV42L001, Coordinates: 56.608, 26.754
+
+
+### VilÌ§Ä�ni
+
+Code: LV42L002, Coordinates: 56.553, 26.924
+
+

@@ -2,123 +2,50 @@
 
 [Home](../)
 
-**116 municipalitys**, **38 localitys**.
+**43 municipalitys**, **56 localitys**.
 
 | # | Municipality | Localitys | Coordinates | Link |
 |---|----|----|-------------|------|
-| 1 | Rucavas | 1 | 56.25, 21.255 | [Browse](rucavas-lv001/) |
-| 2 | Nicas | 0 | 56.351, 21.088 | [Browse](nicas-lv002/) |
-| 3 | Daugavpils | 2 | 55.876, 26.527 | [Browse](daugavpils-lv003/) |
-| 4 | Liepaja | 0 | 56.547, 21.035 | [Browse](liepaja-lv004/) |
-| 5 | Priekules | 0 | 56.429, 21.561 | [Browse](priekules-lv005/) |
-| 6 | Vainodes | 0 | 56.447, 21.831 | [Browse](vainodes-lv006/) |
-| 7 | Grobinas | 0 | 56.426, 21.308 | [Browse](grobinas-lv007/) |
-| 8 | Ilukstes | 0 | 55.996, 26.175 | [Browse](ilukstes-lv008/) |
-| 9 | Aknistes | 0 | 56.159, 25.775 | [Browse](aknistes-lv009/) |
-| 10 | Durbes | 1 | 56.607, 21.367 | [Browse](durbes-lv010/) |
-| 11 | Kraslavas | 0 | 55.913, 27.287 | [Browse](kraslavas-lv011/) |
-| 12 | Tervetes | 1 | 56.434, 23.369 | [Browse](tervetes-lv012/) |
-| 13 | Auces | 0 | 56.496, 23.003 | [Browse](auces-lv013/) |
-| 14 | Rundales | 1 | 56.409, 23.972 | [Browse](rundales-lv014/) |
-| 15 | Bauskas | 0 | 56.42, 24.335 | [Browse](bauskas-lv015/) |
-| 16 | Aglonas | 1 | 56.084, 27.066 | [Browse](aglonas-lv016/) |
-| 17 | Varkavas | 0 | 56.221, 26.519 | [Browse](varkavas-lv017/) |
-| 18 | Neretas | 0 | 56.295, 25.173 | [Browse](neretas-lv018/) |
-| 19 | Aizputes | 0 | 56.751, 21.543 | [Browse](aizputes-lv019/) |
-| 20 | Skrundas | 0 | 56.649, 22.01 | [Browse](skrundas-lv020/) |
-| 21 | Viesites | 0 | 56.294, 25.537 | [Browse](viesites-lv021/) |
-| 22 | Jelgava | 0 | 56.651, 23.715 | [Browse](jelgava-lv022/) |
-| 23 | Brocenu | 0 | 56.717, 22.657 | [Browse](brocenu-lv023/) |
-| 24 | Jekabpils | 0 | 56.306, 25.993 | [Browse](jekabpils-lv024/) |
-| 25 | Dagdas | 0 | 56.131, 27.638 | [Browse](dagdas-lv025/) |
-| 26 | Pavilostas | 0 | 56.793, 21.171 | [Browse](pavilostas-lv026/) |
-| 27 | Iecavas | 0 | 56.602, 24.223 | [Browse](iecavas-lv027/) |
-| 28 | Ozolnieku | 0 | 56.682, 23.888 | [Browse](ozolnieku-lv028/) |
-| 29 | Olaines | 0 | 56.699, 24.133 | [Browse](olaines-lv029/) |
-| 30 | Jaunpils | 0 | 56.756, 22.938 | [Browse](jaunpils-lv030/) |
-| 31 | Dobeles | 0 | 56.593, 23.221 | [Browse](dobeles-lv031/) |
-| 32 | Preilu | 0 | 56.174, 26.742 | [Browse](preilu-lv032/) |
-| 33 | Saldus | 0 | 56.601, 22.338 | [Browse](saldus-lv033/) |
-| 34 | Vecumnieku | 1 | 56.601, 24.487 | [Browse](vecumnieku-lv034/) |
-| 35 | Livanu | 0 | 56.391, 26.28 | [Browse](livanu-lv035/) |
-| 36 | Jaunjelgavas | 0 | 56.518, 25.392 | [Browse](jaunjelgavas-lv036/) |
-| 37 | Salas | 1 | 56.475, 25.703 | [Browse](salas-lv037/) |
-| 38 | Baldones | 0 | 56.732, 24.376 | [Browse](baldones-lv038/) |
-| 39 | Alsungas | 1 | 56.99, 21.553 | [Browse](alsungas-lv039/) |
-| 40 | Aizkraukles | 0 | 56.635, 25.24 | [Browse](aizkraukles-lv040/) |
-| 41 | Jelgavas | 1 | 56.49, 23.596 | [Browse](jelgavas-lv041/) |
-| 42 | Skriveru | 0 | 56.674, 25.105 | [Browse](skriveru-lv042/) |
-| 43 | Riebinu | 0 | 56.365, 26.83 | [Browse](riebinu-lv043/) |
-| 44 | Zilupes | 0 | 56.341, 28.088 | [Browse](zilupes-lv044/) |
-| 45 | Krustpils | 0 | 56.538, 26.129 | [Browse](krustpils-lv045/) |
-| 46 | Lielvardes | 0 | 56.727, 24.953 | [Browse](lielvardes-lv046/) |
-| 47 | Kekavas | 1 | 56.792, 24.193 | [Browse](kekavas-lv047/) |
-| 48 | Rezekne | 0 | 56.511, 27.339 | [Browse](rezekne-lv048/) |
-| 49 | Marupes | 0 | 56.894, 23.957 | [Browse](marupes-lv049/) |
-| 50 | Keguma | 0 | 56.639, 24.769 | [Browse](keguma-lv050/) |
-| 51 | Salaspils | 0 | 56.878, 24.393 | [Browse](salaspils-lv051/) |
-| 52 | IkÅ¡kiles | 0 | 56.86, 24.586 | [Browse](ika-kiles-lv052/) |
-| 53 | Kokneses | 1 | 56.705, 25.485 | [Browse](kokneses-lv053/) |
-| 54 | Babites | 0 | 56.886, 23.769 | [Browse](babites-lv054/) |
-| 55 | Jurmala | 0 | 56.949, 23.586 | [Browse](jurmala-lv055/) |
-| 56 | Stopinu | 1 | 56.944, 24.326 | [Browse](stopinu-lv056/) |
-| 57 | Ludzas | 0 | 56.406, 27.828 | [Browse](ludzas-lv057/) |
-| 58 | Kuldigas | 2 | 56.955, 21.938 | [Browse](kuldigas-lv058/) |
-| 59 | Vilanu | 1 | 56.557, 26.893 | [Browse](vilanu-lv059/) |
-| 60 | Varaklanu | 1 | 56.627, 26.666 | [Browse](varaklanu-lv060/) |
-| 61 | Plavinu | 1 | 56.695, 25.726 | [Browse](plavinu-lv061/) |
-| 62 | Kandavas | 0 | 56.928, 22.706 | [Browse](kandavas-lv062/) |
-| 63 | Riga | 2 | 56.987, 24.103 | [Browse](riga-lv063/) |
-| 64 | RopaÅ¾u | 0 | 56.975, 24.597 | [Browse](ropaa-u-lv064/) |
-| 65 | Garkalnes | 0 | 57.032, 24.403 | [Browse](garkalnes-lv065/) |
-| 66 | Ogres | 0 | 56.823, 25.182 | [Browse](ogres-lv066/) |
-| 67 | Tukuma | 1 | 57.018, 23.025 | [Browse](tukuma-lv067/) |
-| 68 | Erglu | 1 | 56.88, 25.638 | [Browse](erglu-lv068/) |
-| 69 | Ciblas | 0 | 56.594, 27.923 | [Browse](ciblas-lv069/) |
-| 70 | Rezeknes | 0 | 56.63, 27.179 | [Browse](rezeknes-lv070/) |
-| 71 | Malpils | 0 | 56.996, 24.988 | [Browse](malpils-lv071/) |
-| 72 | Engures | 8 | 56.999, 23.283 | [Browse](engures-lv072/) |
-| 73 | Carnikavas | 1 | 57.103, 24.229 | [Browse](carnikavas-lv073/) |
-| 74 | AdaÅ¾u | 0 | 57.122, 24.394 | [Browse](adaa-u-lv074/) |
-| 75 | Incukalna | 0 | 57.098, 24.623 | [Browse](incukalna-lv075/) |
-| 76 | Ventspils | 0 | 57.404, 21.597 | [Browse](ventspils-lv076/) |
-| 77 | Mersraga | 1 | 57.339, 23.042 | [Browse](mersraga-lv077/) |
-| 78 | Lubanas | 0 | 56.937, 26.764 | [Browse](lubanas-lv078/) |
-| 79 | Siguldas | 0 | 57.051, 24.825 | [Browse](siguldas-lv079/) |
-| 80 | Karsavas | 0 | 56.746, 27.628 | [Browse](karsavas-lv080/) |
-| 81 | Madonas | 0 | 56.777, 26.275 | [Browse](madonas-lv081/) |
-| 82 | Cesvaines | 0 | 57.011, 26.277 | [Browse](cesvaines-lv082/) |
-| 83 | Ligatnes | 0 | 57.188, 25.059 | [Browse](ligatnes-lv083/) |
-| 84 | Talsu | 1 | 57.279, 22.575 | [Browse](talsu-lv084/) |
-| 85 | Sejas | 0 | 57.206, 24.547 | [Browse](sejas-lv085/) |
-| 86 | Saulkrastu | 0 | 57.257, 24.433 | [Browse](saulkrastu-lv086/) |
-| 87 | Amatas | 0 | 57.1, 25.298 | [Browse](amatas-lv087/) |
-| 88 | Jaunpiepalgas | 0 | 57.15, 26.019 | [Browse](jaunpiepalgas-lv088/) |
-| 89 | Baltinavas | 0 | 56.905, 27.613 | [Browse](baltinavas-lv089/) |
-| 90 | Rugaju | 0 | 56.972, 27.117 | [Browse](rugaju-lv090/) |
-| 91 | Vecpiebalgas | 1 | 57.097, 25.7 | [Browse](vecpiebalgas-lv091/) |
-| 92 | Cesu | 0 | 57.244, 25.415 | [Browse](cesu-lv092/) |
-| 93 | Krimuldas | 0 | 57.279, 24.804 | [Browse](krimuldas-lv093/) |
-| 94 | Raunas | 0 | 57.234, 25.889 | [Browse](raunas-lv094/) |
-| 95 | Rojas | 0 | 57.496, 22.738 | [Browse](rojas-lv095/) |
-| 96 | Pargaujas | 0 | 57.372, 25.062 | [Browse](pargaujas-lv096/) |
-| 97 | Dundagas | 0 | 57.567, 22.4 | [Browse](dundagas-lv097/) |
-| 98 | Priekulu | 1 | 57.373, 25.453 | [Browse](priekulu-lv098/) |
-| 99 | Balvu | 0 | 57.149, 27.292 | [Browse](balvu-lv099/) |
-| 100 | Gulbenes | 0 | 57.154, 26.64 | [Browse](gulbenes-lv100/) |
-| 101 | Valmiera | 0 | 57.532, 25.41 | [Browse](valmiera-lv101/) |
-| 102 | Smiltenes | 0 | 57.416, 26.072 | [Browse](smiltenes-lv102/) |
-| 103 | Vilakas | 1 | 57.194, 27.658 | [Browse](vilakas-lv103/) |
-| 104 | Kocenu | 0 | 57.545, 25.209 | [Browse](kocenu-lv104/) |
-| 105 | Beverinas | 0 | 57.541, 25.634 | [Browse](beverinas-lv105/) |
-| 106 | LimbaÅ¾u | 0 | 57.567, 24.719 | [Browse](limbaa-u-lv106/) |
-| 107 | Apes | 0 | 57.472, 26.446 | [Browse](apes-lv107/) |
-| 108 | Strencu | 0 | 57.647, 25.784 | [Browse](strencu-lv108/) |
-| 109 | Aluksnes | 0 | 57.394, 27.161 | [Browse](aluksnes-lv109/) |
-| 110 | Burtnieku | 0 | 57.685, 25.38 | [Browse](burtnieku-lv110/) |
-| 111 | Salacgrivas | 0 | 57.774, 24.48 | [Browse](salacgrivas-lv111/) |
-| 112 | Alojas | 0 | 57.833, 24.775 | [Browse](alojas-lv112/) |
-| 113 | Valkas | 0 | 57.657, 26.087 | [Browse](valkas-lv113/) |
-| 114 | Nauksenu | 0 | 57.923, 25.459 | [Browse](nauksenu-lv114/) |
-| 115 | Mazsalacas | 1 | 57.913, 25.037 | [Browse](mazsalacas-lv115/) |
-| 116 | Rujienas | 0 | 57.844, 25.323 | [Browse](rujienas-lv116/) |
+| 1 | Daugavpils | 1 | 55.875, 26.536 | [Browse](daugavpils-lv01/) |
+| 2 | Jelgava | 0 | 56.651, 23.713 | [Browse](jelgava-lv02/) |
+| 3 | Jūrmala (Jurmala) | 1 | 56.968, 23.77 | [Browse](jurmala-lv03/) |
+| 4 | Liepāja (Liepaja) | 1 | 56.505, 21.011 | [Browse](liepaja-lv04/) |
+| 5 | Rēzekne (Rezekne) | 0 | 56.51, 27.334 | [Browse](rezekne-lv05/) |
+| 6 | Rīga (Riga) | 4 | 56.949, 24.106 | [Browse](riga-lv06/) |
+| 7 | Ventspils | 1 | 57.39, 21.561 | [Browse](ventspils-lv07/) |
+| 8 | Ādažu novads (Adazu) | 0 | 57.076, 24.322 | [Browse](adazu-lv08/) |
+| 9 | Aizkraukles novads (Aizkraukles) | 1 | 56.605, 25.255 | [Browse](aizkraukles-lv09/) |
+| 10 | Alūksnes novads (Aluksnes) | 0 | 57.422, 27.048 | [Browse](aluksnes-lv10/) |
+| 11 | Augšdaugavas novads (Augsdaugavas) | 1 | 55.985, 26.619 | [Browse](augsdaugavas-lv11/) |
+| 12 | Balvu novads (Balvu) | 1 | 57.131, 27.266 | [Browse](balvu-lv12/) |
+| 13 | Bauskas novads (Bauskas) | 1 | 56.408, 24.195 | [Browse](bauskas-lv13/) |
+| 14 | Cēsu novads (Cesu) | 1 | 57.312, 25.273 | [Browse](cesu-lv14/) |
+| 15 | Dienvidkurzemes novads (Dienvidkurzemes) | 1 | 56.354, 21.082 | [Browse](dienvidkurzemes-lv15/) |
+| 16 | Dobeles novads (Dobeles) | 1 | 56.625, 23.279 | [Browse](dobeles-lv16/) |
+| 17 | Gulbenes novads (Gulbenes) | 0 | 57.177, 26.754 | [Browse](gulbenes-lv17/) |
+| 18 | Jelgavas novads (Jelgavas) | 1 | 56.652, 23.701 | [Browse](jelgavas-lv18/) |
+| 19 | Jēkabpils novads (Jekabpils) | 3 | 56.5, 25.858 | [Browse](jekabpils-lv19/) |
+| 20 | Krāslavas novads (Kraslavas) | 2 | 55.898, 27.168 | [Browse](kraslavas-lv20/) |
+| 21 | Kuldīgas novads (Kuldigas) | 1 | 56.968, 21.969 | [Browse](kuldigas-lv21/) |
+| 22 | Ķekavas novads (Kekavas) | 0 | 56.826, 24.232 | [Browse](kekavas-lv22/) |
+| 23 | Limbažu novads (Limbazu) | 1 | 57.513, 24.717 | [Browse](limbazu-lv23/) |
+| 24 | Līvānu novads (Livanu) | 0 | 56.354, 26.175 | [Browse](livanu-lv24/) |
+| 25 | Ludzas novads (Ludzas) | 1 | 56.549, 27.724 | [Browse](ludzas-lv25/) |
+| 26 | Madonas novads (Madonas) | 0 | 56.854, 26.218 | [Browse](madonas-lv26/) |
+| 27 | Mārupes novads (Marupes) | 0 | 56.904, 24.047 | [Browse](marupes-lv27/) |
+| 28 | Ogres novads (Ogres) | 1 | 56.816, 24.605 | [Browse](ogres-lv28/) |
+| 29 | Olaines novads (Olaines) | 0 | 56.785, 23.938 | [Browse](olaines-lv29/) |
+| 30 | Preiļu novads (Preilu) | 0 | 56.294, 26.725 | [Browse](preilu-lv30/) |
+| 31 | Rēzeknes novads (Rezeknes) | 0 | 56.51, 27.334 | [Browse](rezeknes-lv31/) |
+| 32 | Ropažu novads (Ropazu) | 0 | 56.963, 24.632 | [Browse](ropazu-lv32/) |
+| 33 | Saldus novads (Saldus) | 0 | 56.663, 22.489 | [Browse](saldus-lv33/) |
+| 34 | Salaspils novads (Salaspils) | 1 | 56.861, 24.35 | [Browse](salaspils-lv34/) |
+| 35 | Saulkrastu novads (Saulkrastu) | 1 | 57.258, 24.407 | [Browse](saulkrastu-lv35/) |
+| 36 | Siguldas novads (Siguldas) | 0 | 57.153, 24.854 | [Browse](siguldas-lv36/) |
+| 37 | Smiltenes novads (Smiltenes) | 1 | 57.424, 25.901 | [Browse](smiltenes-lv37/) |
+| 38 | Talsu novads (Talsu) | 0 | 57.245, 22.588 | [Browse](talsu-lv38/) |
+| 39 | Tukuma novads (Tukuma) | 25 | 56.967, 23.153 | [Browse](tukuma-lv39/) |
+| 40 | Valkas novads (Valkas) | 0 | 57.775, 26.01 | [Browse](valkas-lv40/) |
+| 41 | Valmieras novads (Valmieras) | 0 | 57.541, 25.427 | [Browse](valmieras-lv41/) |
+| 42 | Varakļānu novads (Varaklanu) | 2 | 56.607, 26.754 | [Browse](varaklanu-lv42/) |
+| 43 | Ventspils novads (Ventspils) | 1 | 57.279, 21.854 | [Browse](ventspils-lv43/) |

@@ -1,0 +1,14 @@
+# Balvu — Latvia Administrative Divisions
+
+> 1 localitys
+> Code: LV12
+> Coordinates: 57.131, 27.266
+> Last updated: 2026-07-27. License: CC-BY-4.0.
+
+## Localitys
+
+### VilÌ§aka
+
+Code: LV12L001, Coordinates: 57.185, 27.672
+
+

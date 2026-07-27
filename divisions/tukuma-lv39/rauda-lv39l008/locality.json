@@ -1,0 +1,45 @@
+{
+  "id": "LV39L008",
+  "level": 2,
+  "level_name": {
+    "local": "Apdzīvota vieta",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Rauda",
+    "en": "Rauda",
+    "slug": "rauda-lv39l008"
+  },
+  "code": {
+    "id": "LV39L008",
+    "iso": null
+  },
+  "parent": {
+    "id": "LV39",
+    "level": 1,
+    "name": {
+      "local": "Tukuma novads",
+      "en": "Tukuma",
+      "slug": "tukuma-lv39"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LV39",
+      "level": 1,
+      "name": {
+        "local": "Tukuma novads",
+        "en": "Tukuma",
+        "slug": "tukuma-lv39"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "57.009",
+    "lon": "23.181"
+  },
+  "metadata": {},
+  "source": {}
+}

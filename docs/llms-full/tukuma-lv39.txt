@@ -1,0 +1,134 @@
+# Tukuma — Latvia Administrative Divisions
+
+> 25 localitys
+> Code: LV39
+> Coordinates: 56.967, 23.153
+> Last updated: 2026-07-27. License: CC-BY-4.0.
+
+## Localitys
+
+### Ä¶esterciems
+
+Code: LV39L001, Coordinates: 57.115, 23.231
+
+
+### Ä¶ipatciems
+
+Code: LV39L019, Coordinates: 57.333, 23.059
+
+
+### Ä¶uÄ¼ciems
+
+Code: LV39L017, Coordinates: 57.266, 23.032
+
+
+### Abragciems
+
+Code: LV39L023, Coordinates: 57.203, 23.204
+
+
+### AlksnÄ�jciems
+
+Code: LV39L006, Coordinates: 57.314, 23.031
+
+
+### ApÅ¡uciems
+
+Code: LV39L025, Coordinates: 57.062, 23.306
+
+
+### BÄ“rzciems
+
+Code: LV39L007, Coordinates: 57.246, 23.174
+
+
+### Brizule
+
+Code: LV39L016, Coordinates: 57.091, 23.088
+
+
+### CÄ“rkste
+
+Code: LV39L020, Coordinates: 57.029, 23.252
+
+
+### Dzedri
+
+Code: LV39L013, Coordinates: 57.25, 23.036
+
+
+### Dzirciems
+
+Code: LV39L005, Coordinates: 57.121, 23.013
+
+
+### JaunpÄ¼avas
+
+Code: LV39L011, Coordinates: 57.206, 23.055
+
+
+### Kaive
+
+Code: LV39L021, Coordinates: 57.061, 23.027
+
+
+### Klapkalnciems
+
+Code: LV39L002, Coordinates: 57.041, 23.364
+
+
+### Lielaisciems
+
+Code: LV39L003, Coordinates: 57.011, 23.276
+
+
+### Milzkalne
+
+Code: LV39L012, Coordinates: 56.978, 23.226
+
+
+### PlieÅ†ciems
+
+Code: LV39L004, Coordinates: 57.083, 23.264
+
+
+### Rauda
+
+Code: LV39L008, Coordinates: 57.009, 23.181
+
+
+### RideÄ¼i
+
+Code: LV39L009, Coordinates: 57.137, 23.101
+
+
+### Rindzele
+
+Code: LV39L018, Coordinates: 57.141, 23.049
+
+
+### SÄ“me
+
+Code: LV39L010, Coordinates: 57.042, 23.128
+
+
+### SmÄ�rde
+
+Code: LV39L014, Coordinates: 56.954, 23.337
+
+
+### UpesgrÄ«va
+
+Code: LV39L024, Coordinates: 57.386, 23.014
+
+
+### Vecmokas
+
+Code: LV39L022, Coordinates: 57.001, 23.08
+
+
+### Vilkasala
+
+Code: LV39L015, Coordinates: 57.033, 23.011
+
+

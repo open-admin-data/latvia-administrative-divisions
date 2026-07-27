@@ -1,0 +1,47 @@
+[
+  {
+    "id": "LV21L001",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ä’dole",
+      "en": "Ä’dole",
+      "slug": "a-dole-lv21l001"
+    },
+    "code": {
+      "id": "LV21L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV21",
+      "level": 1,
+      "name": {
+        "local": "Kuldīgas novads",
+        "en": "Kuldigas",
+        "slug": "kuldigas-lv21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV21",
+        "level": 1,
+        "name": {
+          "local": "Kuldīgas novads",
+          "en": "Kuldigas",
+          "slug": "kuldigas-lv21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "57.021",
+      "lon": "21.691"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

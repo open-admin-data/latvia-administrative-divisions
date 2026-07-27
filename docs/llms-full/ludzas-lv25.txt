@@ -1,0 +1,14 @@
+# Ludzas — Latvia Administrative Divisions
+
+> 1 localitys
+> Code: LV25
+> Coordinates: 56.549, 27.724
+> Last updated: 2026-07-27. License: CC-BY-4.0.
+
+## Localitys
+
+### Terehova
+
+Code: LV25L001, Coordinates: 56.353, 28.186
+
+

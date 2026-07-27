@@ -1,0 +1,33 @@
+{
+  "id": "LV33",
+  "level": 1,
+  "level_name": {
+    "local": "Novads/Valstspilsēta",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Saldus novads",
+    "en": "Saldus",
+    "slug": "saldus-lv33"
+  },
+  "code": {
+    "id": "LV33",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.663",
+    "lon": "22.489"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/saldus-lv33/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

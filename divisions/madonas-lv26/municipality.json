@@ -1,0 +1,33 @@
+{
+  "id": "LV26",
+  "level": 1,
+  "level_name": {
+    "local": "Novads/Valstspilsēta",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Madonas novads",
+    "en": "Madonas",
+    "slug": "madonas-lv26"
+  },
+  "code": {
+    "id": "LV26",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.854",
+    "lon": "26.218"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/madonas-lv26/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

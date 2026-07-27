@@ -1,0 +1,33 @@
+{
+  "id": "LV08",
+  "level": 1,
+  "level_name": {
+    "local": "Novads/Valstspilsēta",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ādažu novads",
+    "en": "Adazu",
+    "slug": "adazu-lv08"
+  },
+  "code": {
+    "id": "LV08",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "57.076",
+    "lon": "24.322"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/adazu-lv08/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

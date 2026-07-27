@@ -1,0 +1,33 @@
+{
+  "id": "LV18",
+  "level": 1,
+  "level_name": {
+    "local": "Novads/Valstspilsēta",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Jelgavas novads",
+    "en": "Jelgavas",
+    "slug": "jelgavas-lv18"
+  },
+  "code": {
+    "id": "LV18",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.652",
+    "lon": "23.701"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/jelgavas-lv18/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

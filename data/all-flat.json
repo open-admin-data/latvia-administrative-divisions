@@ -2,316 +2,19 @@
   "_attribution": "Data from Open Admin Data (https://openadmindata.org/lv/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/latvia-administrative-divisions",
   "data": [
     {
-      "id": "LV001",
+      "id": "LV01",
       "level": 1,
       "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Rucavas",
-        "en": "Rucavas",
-        "slug": "rucavas-lv001"
-      },
-      "code": {
-        "id": "LV001",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 1
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "56.25",
-        "lon": "21.255"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/rucavas-lv001/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV002",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Nicas",
-        "en": "Nicas",
-        "slug": "nicas-lv002"
-      },
-      "code": {
-        "id": "LV002",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "56.351",
-        "lon": "21.088"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/nicas-lv002/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV003",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
+        "local": "Novads/Valstspilsēta",
         "en": "Municipality"
       },
       "name": {
         "local": "Daugavpils",
         "en": "Daugavpils",
-        "slug": "daugavpils-lv003"
+        "slug": "daugavpils-lv01"
       },
       "code": {
-        "id": "LV003",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 2
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "55.876",
-        "lon": "26.527"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/daugavpils-lv003/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV004",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Liepaja",
-        "en": "Liepaja",
-        "slug": "liepaja-lv004"
-      },
-      "code": {
-        "id": "LV004",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "56.547",
-        "lon": "21.035"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/liepaja-lv004/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV005",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Priekules",
-        "en": "Priekules",
-        "slug": "priekules-lv005"
-      },
-      "code": {
-        "id": "LV005",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "56.429",
-        "lon": "21.561"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/priekules-lv005/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV006",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Vainodes",
-        "en": "Vainodes",
-        "slug": "vainodes-lv006"
-      },
-      "code": {
-        "id": "LV006",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "56.447",
-        "lon": "21.831"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/vainodes-lv006/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV007",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Grobinas",
-        "en": "Grobinas",
-        "slug": "grobinas-lv007"
-      },
-      "code": {
-        "id": "LV007",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "56.426",
-        "lon": "21.308"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/grobinas-lv007/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV008",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Ilukstes",
-        "en": "Ilukstes",
-        "slug": "ilukstes-lv008"
-      },
-      "code": {
-        "id": "LV008",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "55.996",
-        "lon": "26.175"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/ilukstes-lv008/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV009",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Aknistes",
-        "en": "Aknistes",
-        "slug": "aknistes-lv009"
-      },
-      "code": {
-        "id": "LV009",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "56.159",
-        "lon": "25.775"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/aknistes-lv009/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV010",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Durbes",
-        "en": "Durbes",
-        "slug": "durbes-lv010"
-      },
-      "code": {
-        "id": "LV010",
+        "id": "LV01",
         "iso": null
       },
       "parent": null,
@@ -321,393 +24,30 @@
       },
       "zip_codes": [],
       "geo": {
-        "lat": "56.607",
-        "lon": "21.367"
+        "lat": "55.875",
+        "lon": "26.536"
       },
       "metadata": {},
       "source": {
         "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/durbes-lv010/",
+        "url": "https://openadmindata.org/lv/municipalities/daugavpils-lv01/",
         "api": "https://openadmindata.org/api/lv/"
       }
     },
     {
-      "id": "LV011",
+      "id": "LV02",
       "level": 1,
       "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Kraslavas",
-        "en": "Kraslavas",
-        "slug": "kraslavas-lv011"
-      },
-      "code": {
-        "id": "LV011",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "55.913",
-        "lon": "27.287"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/kraslavas-lv011/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV012",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Tervetes",
-        "en": "Tervetes",
-        "slug": "tervetes-lv012"
-      },
-      "code": {
-        "id": "LV012",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 1
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "56.434",
-        "lon": "23.369"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/tervetes-lv012/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV013",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Auces",
-        "en": "Auces",
-        "slug": "auces-lv013"
-      },
-      "code": {
-        "id": "LV013",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "56.496",
-        "lon": "23.003"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/auces-lv013/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV014",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Rundales",
-        "en": "Rundales",
-        "slug": "rundales-lv014"
-      },
-      "code": {
-        "id": "LV014",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 1
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "56.409",
-        "lon": "23.972"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/rundales-lv014/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV015",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Bauskas",
-        "en": "Bauskas",
-        "slug": "bauskas-lv015"
-      },
-      "code": {
-        "id": "LV015",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "56.42",
-        "lon": "24.335"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/bauskas-lv015/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV016",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Aglonas",
-        "en": "Aglonas",
-        "slug": "aglonas-lv016"
-      },
-      "code": {
-        "id": "LV016",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 1
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "56.084",
-        "lon": "27.066"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/aglonas-lv016/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV017",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Varkavas",
-        "en": "Varkavas",
-        "slug": "varkavas-lv017"
-      },
-      "code": {
-        "id": "LV017",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "56.221",
-        "lon": "26.519"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/varkavas-lv017/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV018",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Neretas",
-        "en": "Neretas",
-        "slug": "neretas-lv018"
-      },
-      "code": {
-        "id": "LV018",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "56.295",
-        "lon": "25.173"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/neretas-lv018/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV019",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Aizputes",
-        "en": "Aizputes",
-        "slug": "aizputes-lv019"
-      },
-      "code": {
-        "id": "LV019",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "56.751",
-        "lon": "21.543"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/aizputes-lv019/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV020",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Skrundas",
-        "en": "Skrundas",
-        "slug": "skrundas-lv020"
-      },
-      "code": {
-        "id": "LV020",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "56.649",
-        "lon": "22.01"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/skrundas-lv020/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV021",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Viesites",
-        "en": "Viesites",
-        "slug": "viesites-lv021"
-      },
-      "code": {
-        "id": "LV021",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "56.294",
-        "lon": "25.537"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/viesites-lv021/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV022",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
+        "local": "Novads/Valstspilsēta",
         "en": "Municipality"
       },
       "name": {
         "local": "Jelgava",
         "en": "Jelgava",
-        "slug": "jelgava-lv022"
+        "slug": "jelgava-lv02"
       },
       "code": {
-        "id": "LV022",
+        "id": "LV02",
         "iso": null
       },
       "parent": null,
@@ -718,1811 +58,161 @@
       "zip_codes": [],
       "geo": {
         "lat": "56.651",
-        "lon": "23.715"
+        "lon": "23.713"
       },
       "metadata": {},
       "source": {
         "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/jelgava-lv022/",
+        "url": "https://openadmindata.org/lv/municipalities/jelgava-lv02/",
         "api": "https://openadmindata.org/api/lv/"
       }
     },
     {
-      "id": "LV023",
+      "id": "LV03",
       "level": 1,
       "level_name": {
-        "local": "Novads",
+        "local": "Novads/Valstspilsēta",
         "en": "Municipality"
       },
       "name": {
-        "local": "Brocenu",
-        "en": "Brocenu",
-        "slug": "brocenu-lv023"
-      },
-      "code": {
-        "id": "LV023",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "56.717",
-        "lon": "22.657"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/brocenu-lv023/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV024",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Jekabpils",
-        "en": "Jekabpils",
-        "slug": "jekabpils-lv024"
-      },
-      "code": {
-        "id": "LV024",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "56.306",
-        "lon": "25.993"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/jekabpils-lv024/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV025",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Dagdas",
-        "en": "Dagdas",
-        "slug": "dagdas-lv025"
-      },
-      "code": {
-        "id": "LV025",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "56.131",
-        "lon": "27.638"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/dagdas-lv025/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV026",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Pavilostas",
-        "en": "Pavilostas",
-        "slug": "pavilostas-lv026"
-      },
-      "code": {
-        "id": "LV026",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "56.793",
-        "lon": "21.171"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/pavilostas-lv026/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV027",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Iecavas",
-        "en": "Iecavas",
-        "slug": "iecavas-lv027"
-      },
-      "code": {
-        "id": "LV027",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "56.602",
-        "lon": "24.223"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/iecavas-lv027/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV028",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Ozolnieku",
-        "en": "Ozolnieku",
-        "slug": "ozolnieku-lv028"
-      },
-      "code": {
-        "id": "LV028",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "56.682",
-        "lon": "23.888"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/ozolnieku-lv028/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV029",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Olaines",
-        "en": "Olaines",
-        "slug": "olaines-lv029"
-      },
-      "code": {
-        "id": "LV029",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "56.699",
-        "lon": "24.133"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/olaines-lv029/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV030",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Jaunpils",
-        "en": "Jaunpils",
-        "slug": "jaunpils-lv030"
-      },
-      "code": {
-        "id": "LV030",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "56.756",
-        "lon": "22.938"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/jaunpils-lv030/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV031",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Dobeles",
-        "en": "Dobeles",
-        "slug": "dobeles-lv031"
-      },
-      "code": {
-        "id": "LV031",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "56.593",
-        "lon": "23.221"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/dobeles-lv031/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV032",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Preilu",
-        "en": "Preilu",
-        "slug": "preilu-lv032"
-      },
-      "code": {
-        "id": "LV032",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "56.174",
-        "lon": "26.742"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/preilu-lv032/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV033",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Saldus",
-        "en": "Saldus",
-        "slug": "saldus-lv033"
-      },
-      "code": {
-        "id": "LV033",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "56.601",
-        "lon": "22.338"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/saldus-lv033/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV034",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Vecumnieku",
-        "en": "Vecumnieku",
-        "slug": "vecumnieku-lv034"
-      },
-      "code": {
-        "id": "LV034",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 1
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "56.601",
-        "lon": "24.487"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/vecumnieku-lv034/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV035",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Livanu",
-        "en": "Livanu",
-        "slug": "livanu-lv035"
-      },
-      "code": {
-        "id": "LV035",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "56.391",
-        "lon": "26.28"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/livanu-lv035/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV036",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Jaunjelgavas",
-        "en": "Jaunjelgavas",
-        "slug": "jaunjelgavas-lv036"
-      },
-      "code": {
-        "id": "LV036",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "56.518",
-        "lon": "25.392"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/jaunjelgavas-lv036/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV037",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Salas",
-        "en": "Salas",
-        "slug": "salas-lv037"
-      },
-      "code": {
-        "id": "LV037",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 1
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "56.475",
-        "lon": "25.703"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/salas-lv037/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV038",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Baldones",
-        "en": "Baldones",
-        "slug": "baldones-lv038"
-      },
-      "code": {
-        "id": "LV038",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "56.732",
-        "lon": "24.376"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/baldones-lv038/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV039",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Alsungas",
-        "en": "Alsungas",
-        "slug": "alsungas-lv039"
-      },
-      "code": {
-        "id": "LV039",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 1
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "56.99",
-        "lon": "21.553"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/alsungas-lv039/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV040",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Aizkraukles",
-        "en": "Aizkraukles",
-        "slug": "aizkraukles-lv040"
-      },
-      "code": {
-        "id": "LV040",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "56.635",
-        "lon": "25.24"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/aizkraukles-lv040/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV041",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Jelgavas",
-        "en": "Jelgavas",
-        "slug": "jelgavas-lv041"
-      },
-      "code": {
-        "id": "LV041",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 1
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "56.49",
-        "lon": "23.596"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/jelgavas-lv041/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV042",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Skriveru",
-        "en": "Skriveru",
-        "slug": "skriveru-lv042"
-      },
-      "code": {
-        "id": "LV042",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "56.674",
-        "lon": "25.105"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/skriveru-lv042/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV043",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Riebinu",
-        "en": "Riebinu",
-        "slug": "riebinu-lv043"
-      },
-      "code": {
-        "id": "LV043",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "56.365",
-        "lon": "26.83"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/riebinu-lv043/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV044",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Zilupes",
-        "en": "Zilupes",
-        "slug": "zilupes-lv044"
-      },
-      "code": {
-        "id": "LV044",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "56.341",
-        "lon": "28.088"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/zilupes-lv044/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV045",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Krustpils",
-        "en": "Krustpils",
-        "slug": "krustpils-lv045"
-      },
-      "code": {
-        "id": "LV045",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "56.538",
-        "lon": "26.129"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/krustpils-lv045/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV046",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Lielvardes",
-        "en": "Lielvardes",
-        "slug": "lielvardes-lv046"
-      },
-      "code": {
-        "id": "LV046",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "56.727",
-        "lon": "24.953"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/lielvardes-lv046/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV047",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Kekavas",
-        "en": "Kekavas",
-        "slug": "kekavas-lv047"
-      },
-      "code": {
-        "id": "LV047",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 1
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "56.792",
-        "lon": "24.193"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/kekavas-lv047/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV048",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Rezekne",
-        "en": "Rezekne",
-        "slug": "rezekne-lv048"
-      },
-      "code": {
-        "id": "LV048",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "56.511",
-        "lon": "27.339"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/rezekne-lv048/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV049",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Marupes",
-        "en": "Marupes",
-        "slug": "marupes-lv049"
-      },
-      "code": {
-        "id": "LV049",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "56.894",
-        "lon": "23.957"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/marupes-lv049/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV050",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Keguma",
-        "en": "Keguma",
-        "slug": "keguma-lv050"
-      },
-      "code": {
-        "id": "LV050",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "56.639",
-        "lon": "24.769"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/keguma-lv050/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV051",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Salaspils",
-        "en": "Salaspils",
-        "slug": "salaspils-lv051"
-      },
-      "code": {
-        "id": "LV051",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "56.878",
-        "lon": "24.393"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/salaspils-lv051/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV052",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "IkÅ¡kiles",
-        "en": "IkÅ¡kiles",
-        "slug": "ika-kiles-lv052"
-      },
-      "code": {
-        "id": "LV052",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "56.86",
-        "lon": "24.586"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/ika-kiles-lv052/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV053",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Kokneses",
-        "en": "Kokneses",
-        "slug": "kokneses-lv053"
-      },
-      "code": {
-        "id": "LV053",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 1
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "56.705",
-        "lon": "25.485"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/kokneses-lv053/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV054",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Babites",
-        "en": "Babites",
-        "slug": "babites-lv054"
-      },
-      "code": {
-        "id": "LV054",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "56.886",
-        "lon": "23.769"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/babites-lv054/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV055",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Jurmala",
+        "local": "Jūrmala",
         "en": "Jurmala",
-        "slug": "jurmala-lv055"
+        "slug": "jurmala-lv03"
       },
       "code": {
-        "id": "LV055",
+        "id": "LV03",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 1
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "56.968",
+        "lon": "23.77"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/lv/municipalities/jurmala-lv03/",
+        "api": "https://openadmindata.org/api/lv/"
+      }
+    },
+    {
+      "id": "LV04",
+      "level": 1,
+      "level_name": {
+        "local": "Novads/Valstspilsēta",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "Liepāja",
+        "en": "Liepaja",
+        "slug": "liepaja-lv04"
+      },
+      "code": {
+        "id": "LV04",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 1
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "56.505",
+        "lon": "21.011"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/lv/municipalities/liepaja-lv04/",
+        "api": "https://openadmindata.org/api/lv/"
+      }
+    },
+    {
+      "id": "LV05",
+      "level": 1,
+      "level_name": {
+        "local": "Novads/Valstspilsēta",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "Rēzekne",
+        "en": "Rezekne",
+        "slug": "rezekne-lv05"
+      },
+      "code": {
+        "id": "LV05",
         "iso": null
       },
       "parent": null,
       "ancestors": [],
       "children_count": {
         "locality": 0
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "56.51",
+        "lon": "27.334"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/lv/municipalities/rezekne-lv05/",
+        "api": "https://openadmindata.org/api/lv/"
+      }
+    },
+    {
+      "id": "LV06",
+      "level": 1,
+      "level_name": {
+        "local": "Novads/Valstspilsēta",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "Rīga",
+        "en": "Riga",
+        "slug": "riga-lv06"
+      },
+      "code": {
+        "id": "LV06",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 4
       },
       "zip_codes": [],
       "geo": {
         "lat": "56.949",
-        "lon": "23.586"
+        "lon": "24.106"
       },
       "metadata": {},
       "source": {
         "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/jurmala-lv055/",
+        "url": "https://openadmindata.org/lv/municipalities/riga-lv06/",
         "api": "https://openadmindata.org/api/lv/"
       }
     },
     {
-      "id": "LV056",
+      "id": "LV07",
       "level": 1,
       "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Stopinu",
-        "en": "Stopinu",
-        "slug": "stopinu-lv056"
-      },
-      "code": {
-        "id": "LV056",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 1
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "56.944",
-        "lon": "24.326"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/stopinu-lv056/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV057",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Ludzas",
-        "en": "Ludzas",
-        "slug": "ludzas-lv057"
-      },
-      "code": {
-        "id": "LV057",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "56.406",
-        "lon": "27.828"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/ludzas-lv057/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV058",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Kuldigas",
-        "en": "Kuldigas",
-        "slug": "kuldigas-lv058"
-      },
-      "code": {
-        "id": "LV058",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 2
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "56.955",
-        "lon": "21.938"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/kuldigas-lv058/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV059",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Vilanu",
-        "en": "Vilanu",
-        "slug": "vilanu-lv059"
-      },
-      "code": {
-        "id": "LV059",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 1
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "56.557",
-        "lon": "26.893"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/vilanu-lv059/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV060",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Varaklanu",
-        "en": "Varaklanu",
-        "slug": "varaklanu-lv060"
-      },
-      "code": {
-        "id": "LV060",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 1
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "56.627",
-        "lon": "26.666"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/varaklanu-lv060/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV061",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Plavinu",
-        "en": "Plavinu",
-        "slug": "plavinu-lv061"
-      },
-      "code": {
-        "id": "LV061",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 1
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "56.695",
-        "lon": "25.726"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/plavinu-lv061/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV062",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Kandavas",
-        "en": "Kandavas",
-        "slug": "kandavas-lv062"
-      },
-      "code": {
-        "id": "LV062",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "56.928",
-        "lon": "22.706"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/kandavas-lv062/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV063",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Riga",
-        "en": "Riga",
-        "slug": "riga-lv063"
-      },
-      "code": {
-        "id": "LV063",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 2
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "56.987",
-        "lon": "24.103"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/riga-lv063/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV064",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "RopaÅ¾u",
-        "en": "RopaÅ¾u",
-        "slug": "ropaa-u-lv064"
-      },
-      "code": {
-        "id": "LV064",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "56.975",
-        "lon": "24.597"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/ropaa-u-lv064/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV065",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Garkalnes",
-        "en": "Garkalnes",
-        "slug": "garkalnes-lv065"
-      },
-      "code": {
-        "id": "LV065",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "57.032",
-        "lon": "24.403"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/garkalnes-lv065/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV066",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Ogres",
-        "en": "Ogres",
-        "slug": "ogres-lv066"
-      },
-      "code": {
-        "id": "LV066",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "56.823",
-        "lon": "25.182"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/ogres-lv066/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV067",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Tukuma",
-        "en": "Tukuma",
-        "slug": "tukuma-lv067"
-      },
-      "code": {
-        "id": "LV067",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 1
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "57.018",
-        "lon": "23.025"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/tukuma-lv067/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV068",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Erglu",
-        "en": "Erglu",
-        "slug": "erglu-lv068"
-      },
-      "code": {
-        "id": "LV068",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 1
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "56.88",
-        "lon": "25.638"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/erglu-lv068/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV069",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Ciblas",
-        "en": "Ciblas",
-        "slug": "ciblas-lv069"
-      },
-      "code": {
-        "id": "LV069",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "56.594",
-        "lon": "27.923"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/ciblas-lv069/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV070",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Rezeknes",
-        "en": "Rezeknes",
-        "slug": "rezeknes-lv070"
-      },
-      "code": {
-        "id": "LV070",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "56.63",
-        "lon": "27.179"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/rezeknes-lv070/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV071",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Malpils",
-        "en": "Malpils",
-        "slug": "malpils-lv071"
-      },
-      "code": {
-        "id": "LV071",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "56.996",
-        "lon": "24.988"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/malpils-lv071/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV072",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Engures",
-        "en": "Engures",
-        "slug": "engures-lv072"
-      },
-      "code": {
-        "id": "LV072",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 8
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "56.999",
-        "lon": "23.283"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/engures-lv072/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV073",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Carnikavas",
-        "en": "Carnikavas",
-        "slug": "carnikavas-lv073"
-      },
-      "code": {
-        "id": "LV073",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 1
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "57.103",
-        "lon": "24.229"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/carnikavas-lv073/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV074",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "AdaÅ¾u",
-        "en": "AdaÅ¾u",
-        "slug": "adaa-u-lv074"
-      },
-      "code": {
-        "id": "LV074",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "57.122",
-        "lon": "24.394"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/adaa-u-lv074/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV075",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Incukalna",
-        "en": "Incukalna",
-        "slug": "incukalna-lv075"
-      },
-      "code": {
-        "id": "LV075",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "57.098",
-        "lon": "24.623"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/incukalna-lv075/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV076",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
+        "local": "Novads/Valstspilsēta",
         "en": "Municipality"
       },
       "name": {
         "local": "Ventspils",
         "en": "Ventspils",
-        "slug": "ventspils-lv076"
+        "slug": "ventspils-lv07"
       },
       "code": {
-        "id": "LV076",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "57.404",
-        "lon": "21.597"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/ventspils-lv076/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV077",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Mersraga",
-        "en": "Mersraga",
-        "slug": "mersraga-lv077"
-      },
-      "code": {
-        "id": "LV077",
+        "id": "LV07",
         "iso": null
       },
       "parent": null,
@@ -2532,30 +222,30 @@
       },
       "zip_codes": [],
       "geo": {
-        "lat": "57.339",
-        "lon": "23.042"
+        "lat": "57.39",
+        "lon": "21.561"
       },
       "metadata": {},
       "source": {
         "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/mersraga-lv077/",
+        "url": "https://openadmindata.org/lv/municipalities/ventspils-lv07/",
         "api": "https://openadmindata.org/api/lv/"
       }
     },
     {
-      "id": "LV078",
+      "id": "LV08",
       "level": 1,
       "level_name": {
-        "local": "Novads",
+        "local": "Novads/Valstspilsēta",
         "en": "Municipality"
       },
       "name": {
-        "local": "Lubanas",
-        "en": "Lubanas",
-        "slug": "lubanas-lv078"
+        "local": "Ādažu novads",
+        "en": "Adazu",
+        "slug": "adazu-lv08"
       },
       "code": {
-        "id": "LV078",
+        "id": "LV08",
         "iso": null
       },
       "parent": null,
@@ -2565,195 +255,30 @@
       },
       "zip_codes": [],
       "geo": {
-        "lat": "56.937",
-        "lon": "26.764"
+        "lat": "57.076",
+        "lon": "24.322"
       },
       "metadata": {},
       "source": {
         "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/lubanas-lv078/",
+        "url": "https://openadmindata.org/lv/municipalities/adazu-lv08/",
         "api": "https://openadmindata.org/api/lv/"
       }
     },
     {
-      "id": "LV079",
+      "id": "LV09",
       "level": 1,
       "level_name": {
-        "local": "Novads",
+        "local": "Novads/Valstspilsēta",
         "en": "Municipality"
       },
       "name": {
-        "local": "Siguldas",
-        "en": "Siguldas",
-        "slug": "siguldas-lv079"
+        "local": "Aizkraukles novads",
+        "en": "Aizkraukles",
+        "slug": "aizkraukles-lv09"
       },
       "code": {
-        "id": "LV079",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "57.051",
-        "lon": "24.825"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/siguldas-lv079/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV080",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Karsavas",
-        "en": "Karsavas",
-        "slug": "karsavas-lv080"
-      },
-      "code": {
-        "id": "LV080",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "56.746",
-        "lon": "27.628"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/karsavas-lv080/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV081",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Madonas",
-        "en": "Madonas",
-        "slug": "madonas-lv081"
-      },
-      "code": {
-        "id": "LV081",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "56.777",
-        "lon": "26.275"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/madonas-lv081/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV082",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Cesvaines",
-        "en": "Cesvaines",
-        "slug": "cesvaines-lv082"
-      },
-      "code": {
-        "id": "LV082",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "57.011",
-        "lon": "26.277"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/cesvaines-lv082/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV083",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Ligatnes",
-        "en": "Ligatnes",
-        "slug": "ligatnes-lv083"
-      },
-      "code": {
-        "id": "LV083",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "57.188",
-        "lon": "25.059"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/ligatnes-lv083/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV084",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Talsu",
-        "en": "Talsu",
-        "slug": "talsu-lv084"
-      },
-      "code": {
-        "id": "LV084",
+        "id": "LV09",
         "iso": null
       },
       "parent": null,
@@ -2763,30 +288,30 @@
       },
       "zip_codes": [],
       "geo": {
-        "lat": "57.279",
-        "lon": "22.575"
+        "lat": "56.605",
+        "lon": "25.255"
       },
       "metadata": {},
       "source": {
         "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/talsu-lv084/",
+        "url": "https://openadmindata.org/lv/municipalities/aizkraukles-lv09/",
         "api": "https://openadmindata.org/api/lv/"
       }
     },
     {
-      "id": "LV085",
+      "id": "LV10",
       "level": 1,
       "level_name": {
-        "local": "Novads",
+        "local": "Novads/Valstspilsēta",
         "en": "Municipality"
       },
       "name": {
-        "local": "Sejas",
-        "en": "Sejas",
-        "slug": "sejas-lv085"
+        "local": "Alūksnes novads",
+        "en": "Aluksnes",
+        "slug": "aluksnes-lv10"
       },
       "code": {
-        "id": "LV085",
+        "id": "LV10",
         "iso": null
       },
       "parent": null,
@@ -2796,195 +321,30 @@
       },
       "zip_codes": [],
       "geo": {
-        "lat": "57.206",
-        "lon": "24.547"
+        "lat": "57.422",
+        "lon": "27.048"
       },
       "metadata": {},
       "source": {
         "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/sejas-lv085/",
+        "url": "https://openadmindata.org/lv/municipalities/aluksnes-lv10/",
         "api": "https://openadmindata.org/api/lv/"
       }
     },
     {
-      "id": "LV086",
+      "id": "LV11",
       "level": 1,
       "level_name": {
-        "local": "Novads",
+        "local": "Novads/Valstspilsēta",
         "en": "Municipality"
       },
       "name": {
-        "local": "Saulkrastu",
-        "en": "Saulkrastu",
-        "slug": "saulkrastu-lv086"
+        "local": "Augšdaugavas novads",
+        "en": "Augsdaugavas",
+        "slug": "augsdaugavas-lv11"
       },
       "code": {
-        "id": "LV086",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "57.257",
-        "lon": "24.433"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/saulkrastu-lv086/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV087",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Amatas",
-        "en": "Amatas",
-        "slug": "amatas-lv087"
-      },
-      "code": {
-        "id": "LV087",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "57.1",
-        "lon": "25.298"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/amatas-lv087/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV088",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Jaunpiepalgas",
-        "en": "Jaunpiepalgas",
-        "slug": "jaunpiepalgas-lv088"
-      },
-      "code": {
-        "id": "LV088",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "57.15",
-        "lon": "26.019"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/jaunpiepalgas-lv088/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV089",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Baltinavas",
-        "en": "Baltinavas",
-        "slug": "baltinavas-lv089"
-      },
-      "code": {
-        "id": "LV089",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "56.905",
-        "lon": "27.613"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/baltinavas-lv089/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV090",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Rugaju",
-        "en": "Rugaju",
-        "slug": "rugaju-lv090"
-      },
-      "code": {
-        "id": "LV090",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "56.972",
-        "lon": "27.117"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/rugaju-lv090/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV091",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Vecpiebalgas",
-        "en": "Vecpiebalgas",
-        "slug": "vecpiebalgas-lv091"
-      },
-      "code": {
-        "id": "LV091",
+        "id": "LV11",
         "iso": null
       },
       "parent": null,
@@ -2994,393 +354,30 @@
       },
       "zip_codes": [],
       "geo": {
-        "lat": "57.097",
-        "lon": "25.7"
+        "lat": "55.985",
+        "lon": "26.619"
       },
       "metadata": {},
       "source": {
         "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/vecpiebalgas-lv091/",
+        "url": "https://openadmindata.org/lv/municipalities/augsdaugavas-lv11/",
         "api": "https://openadmindata.org/api/lv/"
       }
     },
     {
-      "id": "LV092",
+      "id": "LV12",
       "level": 1,
       "level_name": {
-        "local": "Novads",
+        "local": "Novads/Valstspilsēta",
         "en": "Municipality"
       },
       "name": {
-        "local": "Cesu",
-        "en": "Cesu",
-        "slug": "cesu-lv092"
-      },
-      "code": {
-        "id": "LV092",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "57.244",
-        "lon": "25.415"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/cesu-lv092/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV093",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Krimuldas",
-        "en": "Krimuldas",
-        "slug": "krimuldas-lv093"
-      },
-      "code": {
-        "id": "LV093",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "57.279",
-        "lon": "24.804"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/krimuldas-lv093/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV094",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Raunas",
-        "en": "Raunas",
-        "slug": "raunas-lv094"
-      },
-      "code": {
-        "id": "LV094",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "57.234",
-        "lon": "25.889"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/raunas-lv094/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV095",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Rojas",
-        "en": "Rojas",
-        "slug": "rojas-lv095"
-      },
-      "code": {
-        "id": "LV095",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "57.496",
-        "lon": "22.738"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/rojas-lv095/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV096",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Pargaujas",
-        "en": "Pargaujas",
-        "slug": "pargaujas-lv096"
-      },
-      "code": {
-        "id": "LV096",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "57.372",
-        "lon": "25.062"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/pargaujas-lv096/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV097",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Dundagas",
-        "en": "Dundagas",
-        "slug": "dundagas-lv097"
-      },
-      "code": {
-        "id": "LV097",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "57.567",
-        "lon": "22.4"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/dundagas-lv097/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV098",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Priekulu",
-        "en": "Priekulu",
-        "slug": "priekulu-lv098"
-      },
-      "code": {
-        "id": "LV098",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 1
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "57.373",
-        "lon": "25.453"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/priekulu-lv098/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV099",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Balvu",
+        "local": "Balvu novads",
         "en": "Balvu",
-        "slug": "balvu-lv099"
+        "slug": "balvu-lv12"
       },
       "code": {
-        "id": "LV099",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "57.149",
-        "lon": "27.292"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/balvu-lv099/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV100",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Gulbenes",
-        "en": "Gulbenes",
-        "slug": "gulbenes-lv100"
-      },
-      "code": {
-        "id": "LV100",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "57.154",
-        "lon": "26.64"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/gulbenes-lv100/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV101",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Valmiera",
-        "en": "Valmiera",
-        "slug": "valmiera-lv101"
-      },
-      "code": {
-        "id": "LV101",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "57.532",
-        "lon": "25.41"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/valmiera-lv101/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV102",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Smiltenes",
-        "en": "Smiltenes",
-        "slug": "smiltenes-lv102"
-      },
-      "code": {
-        "id": "LV102",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "57.416",
-        "lon": "26.072"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/smiltenes-lv102/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV103",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Vilakas",
-        "en": "Vilakas",
-        "slug": "vilakas-lv103"
-      },
-      "code": {
-        "id": "LV103",
+        "id": "LV12",
         "iso": null
       },
       "parent": null,
@@ -3390,30 +387,162 @@
       },
       "zip_codes": [],
       "geo": {
-        "lat": "57.194",
-        "lon": "27.658"
+        "lat": "57.131",
+        "lon": "27.266"
       },
       "metadata": {},
       "source": {
         "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/vilakas-lv103/",
+        "url": "https://openadmindata.org/lv/municipalities/balvu-lv12/",
         "api": "https://openadmindata.org/api/lv/"
       }
     },
     {
-      "id": "LV104",
+      "id": "LV13",
       "level": 1,
       "level_name": {
-        "local": "Novads",
+        "local": "Novads/Valstspilsēta",
         "en": "Municipality"
       },
       "name": {
-        "local": "Kocenu",
-        "en": "Kocenu",
-        "slug": "kocenu-lv104"
+        "local": "Bauskas novads",
+        "en": "Bauskas",
+        "slug": "bauskas-lv13"
       },
       "code": {
-        "id": "LV104",
+        "id": "LV13",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 1
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "56.408",
+        "lon": "24.195"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/lv/municipalities/bauskas-lv13/",
+        "api": "https://openadmindata.org/api/lv/"
+      }
+    },
+    {
+      "id": "LV14",
+      "level": 1,
+      "level_name": {
+        "local": "Novads/Valstspilsēta",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "Cēsu novads",
+        "en": "Cesu",
+        "slug": "cesu-lv14"
+      },
+      "code": {
+        "id": "LV14",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 1
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "57.312",
+        "lon": "25.273"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/lv/municipalities/cesu-lv14/",
+        "api": "https://openadmindata.org/api/lv/"
+      }
+    },
+    {
+      "id": "LV15",
+      "level": 1,
+      "level_name": {
+        "local": "Novads/Valstspilsēta",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "Dienvidkurzemes novads",
+        "en": "Dienvidkurzemes",
+        "slug": "dienvidkurzemes-lv15"
+      },
+      "code": {
+        "id": "LV15",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 1
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "56.354",
+        "lon": "21.082"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/lv/municipalities/dienvidkurzemes-lv15/",
+        "api": "https://openadmindata.org/api/lv/"
+      }
+    },
+    {
+      "id": "LV16",
+      "level": 1,
+      "level_name": {
+        "local": "Novads/Valstspilsēta",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "Dobeles novads",
+        "en": "Dobeles",
+        "slug": "dobeles-lv16"
+      },
+      "code": {
+        "id": "LV16",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 1
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "56.625",
+        "lon": "23.279"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/lv/municipalities/dobeles-lv16/",
+        "api": "https://openadmindata.org/api/lv/"
+      }
+    },
+    {
+      "id": "LV17",
+      "level": 1,
+      "level_name": {
+        "local": "Novads/Valstspilsēta",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "Gulbenes novads",
+        "en": "Gulbenes",
+        "slug": "gulbenes-lv17"
+      },
+      "code": {
+        "id": "LV17",
         "iso": null
       },
       "parent": null,
@@ -3423,30 +552,789 @@
       },
       "zip_codes": [],
       "geo": {
-        "lat": "57.545",
-        "lon": "25.209"
+        "lat": "57.177",
+        "lon": "26.754"
       },
       "metadata": {},
       "source": {
         "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/kocenu-lv104/",
+        "url": "https://openadmindata.org/lv/municipalities/gulbenes-lv17/",
         "api": "https://openadmindata.org/api/lv/"
       }
     },
     {
-      "id": "LV105",
+      "id": "LV18",
       "level": 1,
       "level_name": {
-        "local": "Novads",
+        "local": "Novads/Valstspilsēta",
         "en": "Municipality"
       },
       "name": {
-        "local": "Beverinas",
-        "en": "Beverinas",
-        "slug": "beverinas-lv105"
+        "local": "Jelgavas novads",
+        "en": "Jelgavas",
+        "slug": "jelgavas-lv18"
       },
       "code": {
-        "id": "LV105",
+        "id": "LV18",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 1
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "56.652",
+        "lon": "23.701"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/lv/municipalities/jelgavas-lv18/",
+        "api": "https://openadmindata.org/api/lv/"
+      }
+    },
+    {
+      "id": "LV19",
+      "level": 1,
+      "level_name": {
+        "local": "Novads/Valstspilsēta",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "Jēkabpils novads",
+        "en": "Jekabpils",
+        "slug": "jekabpils-lv19"
+      },
+      "code": {
+        "id": "LV19",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 3
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "56.5",
+        "lon": "25.858"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/lv/municipalities/jekabpils-lv19/",
+        "api": "https://openadmindata.org/api/lv/"
+      }
+    },
+    {
+      "id": "LV20",
+      "level": 1,
+      "level_name": {
+        "local": "Novads/Valstspilsēta",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "Krāslavas novads",
+        "en": "Kraslavas",
+        "slug": "kraslavas-lv20"
+      },
+      "code": {
+        "id": "LV20",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 2
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "55.898",
+        "lon": "27.168"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/lv/municipalities/kraslavas-lv20/",
+        "api": "https://openadmindata.org/api/lv/"
+      }
+    },
+    {
+      "id": "LV21",
+      "level": 1,
+      "level_name": {
+        "local": "Novads/Valstspilsēta",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "Kuldīgas novads",
+        "en": "Kuldigas",
+        "slug": "kuldigas-lv21"
+      },
+      "code": {
+        "id": "LV21",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 1
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "56.968",
+        "lon": "21.969"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/lv/municipalities/kuldigas-lv21/",
+        "api": "https://openadmindata.org/api/lv/"
+      }
+    },
+    {
+      "id": "LV22",
+      "level": 1,
+      "level_name": {
+        "local": "Novads/Valstspilsēta",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "Ķekavas novads",
+        "en": "Kekavas",
+        "slug": "kekavas-lv22"
+      },
+      "code": {
+        "id": "LV22",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 0
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "56.826",
+        "lon": "24.232"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/lv/municipalities/kekavas-lv22/",
+        "api": "https://openadmindata.org/api/lv/"
+      }
+    },
+    {
+      "id": "LV23",
+      "level": 1,
+      "level_name": {
+        "local": "Novads/Valstspilsēta",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "Limbažu novads",
+        "en": "Limbazu",
+        "slug": "limbazu-lv23"
+      },
+      "code": {
+        "id": "LV23",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 1
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "57.513",
+        "lon": "24.717"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/lv/municipalities/limbazu-lv23/",
+        "api": "https://openadmindata.org/api/lv/"
+      }
+    },
+    {
+      "id": "LV24",
+      "level": 1,
+      "level_name": {
+        "local": "Novads/Valstspilsēta",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "Līvānu novads",
+        "en": "Livanu",
+        "slug": "livanu-lv24"
+      },
+      "code": {
+        "id": "LV24",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 0
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "56.354",
+        "lon": "26.175"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/lv/municipalities/livanu-lv24/",
+        "api": "https://openadmindata.org/api/lv/"
+      }
+    },
+    {
+      "id": "LV25",
+      "level": 1,
+      "level_name": {
+        "local": "Novads/Valstspilsēta",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "Ludzas novads",
+        "en": "Ludzas",
+        "slug": "ludzas-lv25"
+      },
+      "code": {
+        "id": "LV25",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 1
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "56.549",
+        "lon": "27.724"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/lv/municipalities/ludzas-lv25/",
+        "api": "https://openadmindata.org/api/lv/"
+      }
+    },
+    {
+      "id": "LV26",
+      "level": 1,
+      "level_name": {
+        "local": "Novads/Valstspilsēta",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "Madonas novads",
+        "en": "Madonas",
+        "slug": "madonas-lv26"
+      },
+      "code": {
+        "id": "LV26",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 0
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "56.854",
+        "lon": "26.218"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/lv/municipalities/madonas-lv26/",
+        "api": "https://openadmindata.org/api/lv/"
+      }
+    },
+    {
+      "id": "LV27",
+      "level": 1,
+      "level_name": {
+        "local": "Novads/Valstspilsēta",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "Mārupes novads",
+        "en": "Marupes",
+        "slug": "marupes-lv27"
+      },
+      "code": {
+        "id": "LV27",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 0
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "56.904",
+        "lon": "24.047"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/lv/municipalities/marupes-lv27/",
+        "api": "https://openadmindata.org/api/lv/"
+      }
+    },
+    {
+      "id": "LV28",
+      "level": 1,
+      "level_name": {
+        "local": "Novads/Valstspilsēta",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "Ogres novads",
+        "en": "Ogres",
+        "slug": "ogres-lv28"
+      },
+      "code": {
+        "id": "LV28",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 1
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "56.816",
+        "lon": "24.605"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/lv/municipalities/ogres-lv28/",
+        "api": "https://openadmindata.org/api/lv/"
+      }
+    },
+    {
+      "id": "LV29",
+      "level": 1,
+      "level_name": {
+        "local": "Novads/Valstspilsēta",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "Olaines novads",
+        "en": "Olaines",
+        "slug": "olaines-lv29"
+      },
+      "code": {
+        "id": "LV29",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 0
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "56.785",
+        "lon": "23.938"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/lv/municipalities/olaines-lv29/",
+        "api": "https://openadmindata.org/api/lv/"
+      }
+    },
+    {
+      "id": "LV30",
+      "level": 1,
+      "level_name": {
+        "local": "Novads/Valstspilsēta",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "Preiļu novads",
+        "en": "Preilu",
+        "slug": "preilu-lv30"
+      },
+      "code": {
+        "id": "LV30",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 0
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "56.294",
+        "lon": "26.725"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/lv/municipalities/preilu-lv30/",
+        "api": "https://openadmindata.org/api/lv/"
+      }
+    },
+    {
+      "id": "LV31",
+      "level": 1,
+      "level_name": {
+        "local": "Novads/Valstspilsēta",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "Rēzeknes novads",
+        "en": "Rezeknes",
+        "slug": "rezeknes-lv31"
+      },
+      "code": {
+        "id": "LV31",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 0
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "56.51",
+        "lon": "27.334"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/lv/municipalities/rezeknes-lv31/",
+        "api": "https://openadmindata.org/api/lv/"
+      }
+    },
+    {
+      "id": "LV32",
+      "level": 1,
+      "level_name": {
+        "local": "Novads/Valstspilsēta",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "Ropažu novads",
+        "en": "Ropazu",
+        "slug": "ropazu-lv32"
+      },
+      "code": {
+        "id": "LV32",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 0
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "56.963",
+        "lon": "24.632"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/lv/municipalities/ropazu-lv32/",
+        "api": "https://openadmindata.org/api/lv/"
+      }
+    },
+    {
+      "id": "LV33",
+      "level": 1,
+      "level_name": {
+        "local": "Novads/Valstspilsēta",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "Saldus novads",
+        "en": "Saldus",
+        "slug": "saldus-lv33"
+      },
+      "code": {
+        "id": "LV33",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 0
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "56.663",
+        "lon": "22.489"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/lv/municipalities/saldus-lv33/",
+        "api": "https://openadmindata.org/api/lv/"
+      }
+    },
+    {
+      "id": "LV34",
+      "level": 1,
+      "level_name": {
+        "local": "Novads/Valstspilsēta",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "Salaspils novads",
+        "en": "Salaspils",
+        "slug": "salaspils-lv34"
+      },
+      "code": {
+        "id": "LV34",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 1
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "56.861",
+        "lon": "24.35"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/lv/municipalities/salaspils-lv34/",
+        "api": "https://openadmindata.org/api/lv/"
+      }
+    },
+    {
+      "id": "LV35",
+      "level": 1,
+      "level_name": {
+        "local": "Novads/Valstspilsēta",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "Saulkrastu novads",
+        "en": "Saulkrastu",
+        "slug": "saulkrastu-lv35"
+      },
+      "code": {
+        "id": "LV35",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 1
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "57.258",
+        "lon": "24.407"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/lv/municipalities/saulkrastu-lv35/",
+        "api": "https://openadmindata.org/api/lv/"
+      }
+    },
+    {
+      "id": "LV36",
+      "level": 1,
+      "level_name": {
+        "local": "Novads/Valstspilsēta",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "Siguldas novads",
+        "en": "Siguldas",
+        "slug": "siguldas-lv36"
+      },
+      "code": {
+        "id": "LV36",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 0
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "57.153",
+        "lon": "24.854"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/lv/municipalities/siguldas-lv36/",
+        "api": "https://openadmindata.org/api/lv/"
+      }
+    },
+    {
+      "id": "LV37",
+      "level": 1,
+      "level_name": {
+        "local": "Novads/Valstspilsēta",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "Smiltenes novads",
+        "en": "Smiltenes",
+        "slug": "smiltenes-lv37"
+      },
+      "code": {
+        "id": "LV37",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 1
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "57.424",
+        "lon": "25.901"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/lv/municipalities/smiltenes-lv37/",
+        "api": "https://openadmindata.org/api/lv/"
+      }
+    },
+    {
+      "id": "LV38",
+      "level": 1,
+      "level_name": {
+        "local": "Novads/Valstspilsēta",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "Talsu novads",
+        "en": "Talsu",
+        "slug": "talsu-lv38"
+      },
+      "code": {
+        "id": "LV38",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 0
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "57.245",
+        "lon": "22.588"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/lv/municipalities/talsu-lv38/",
+        "api": "https://openadmindata.org/api/lv/"
+      }
+    },
+    {
+      "id": "LV39",
+      "level": 1,
+      "level_name": {
+        "local": "Novads/Valstspilsēta",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "Tukuma novads",
+        "en": "Tukuma",
+        "slug": "tukuma-lv39"
+      },
+      "code": {
+        "id": "LV39",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 25
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "56.967",
+        "lon": "23.153"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/lv/municipalities/tukuma-lv39/",
+        "api": "https://openadmindata.org/api/lv/"
+      }
+    },
+    {
+      "id": "LV40",
+      "level": 1,
+      "level_name": {
+        "local": "Novads/Valstspilsēta",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "Valkas novads",
+        "en": "Valkas",
+        "slug": "valkas-lv40"
+      },
+      "code": {
+        "id": "LV40",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 0
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "57.775",
+        "lon": "26.01"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/lv/municipalities/valkas-lv40/",
+        "api": "https://openadmindata.org/api/lv/"
+      }
+    },
+    {
+      "id": "LV41",
+      "level": 1,
+      "level_name": {
+        "local": "Novads/Valstspilsēta",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "Valmieras novads",
+        "en": "Valmieras",
+        "slug": "valmieras-lv41"
+      },
+      "code": {
+        "id": "LV41",
         "iso": null
       },
       "parent": null,
@@ -3457,326 +1345,62 @@
       "zip_codes": [],
       "geo": {
         "lat": "57.541",
-        "lon": "25.634"
+        "lon": "25.427"
       },
       "metadata": {},
       "source": {
         "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/beverinas-lv105/",
+        "url": "https://openadmindata.org/lv/municipalities/valmieras-lv41/",
         "api": "https://openadmindata.org/api/lv/"
       }
     },
     {
-      "id": "LV106",
+      "id": "LV42",
       "level": 1,
       "level_name": {
-        "local": "Novads",
+        "local": "Novads/Valstspilsēta",
         "en": "Municipality"
       },
       "name": {
-        "local": "LimbaÅ¾u",
-        "en": "LimbaÅ¾u",
-        "slug": "limbaa-u-lv106"
+        "local": "Varakļānu novads",
+        "en": "Varaklanu",
+        "slug": "varaklanu-lv42"
       },
       "code": {
-        "id": "LV106",
+        "id": "LV42",
         "iso": null
       },
       "parent": null,
       "ancestors": [],
       "children_count": {
-        "locality": 0
+        "locality": 2
       },
       "zip_codes": [],
       "geo": {
-        "lat": "57.567",
-        "lon": "24.719"
+        "lat": "56.607",
+        "lon": "26.754"
       },
       "metadata": {},
       "source": {
         "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/limbaa-u-lv106/",
+        "url": "https://openadmindata.org/lv/municipalities/varaklanu-lv42/",
         "api": "https://openadmindata.org/api/lv/"
       }
     },
     {
-      "id": "LV107",
+      "id": "LV43",
       "level": 1,
       "level_name": {
-        "local": "Novads",
+        "local": "Novads/Valstspilsēta",
         "en": "Municipality"
       },
       "name": {
-        "local": "Apes",
-        "en": "Apes",
-        "slug": "apes-lv107"
+        "local": "Ventspils novads",
+        "en": "Ventspils",
+        "slug": "ventspils-lv43"
       },
       "code": {
-        "id": "LV107",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "57.472",
-        "lon": "26.446"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/apes-lv107/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV108",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Strencu",
-        "en": "Strencu",
-        "slug": "strencu-lv108"
-      },
-      "code": {
-        "id": "LV108",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "57.647",
-        "lon": "25.784"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/strencu-lv108/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV109",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Aluksnes",
-        "en": "Aluksnes",
-        "slug": "aluksnes-lv109"
-      },
-      "code": {
-        "id": "LV109",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "57.394",
-        "lon": "27.161"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/aluksnes-lv109/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV110",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Burtnieku",
-        "en": "Burtnieku",
-        "slug": "burtnieku-lv110"
-      },
-      "code": {
-        "id": "LV110",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "57.685",
-        "lon": "25.38"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/burtnieku-lv110/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV111",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Salacgrivas",
-        "en": "Salacgrivas",
-        "slug": "salacgrivas-lv111"
-      },
-      "code": {
-        "id": "LV111",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "57.774",
-        "lon": "24.48"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/salacgrivas-lv111/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV112",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Alojas",
-        "en": "Alojas",
-        "slug": "alojas-lv112"
-      },
-      "code": {
-        "id": "LV112",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "57.833",
-        "lon": "24.775"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/alojas-lv112/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV113",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Valkas",
-        "en": "Valkas",
-        "slug": "valkas-lv113"
-      },
-      "code": {
-        "id": "LV113",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "57.657",
-        "lon": "26.087"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/valkas-lv113/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV114",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Nauksenu",
-        "en": "Nauksenu",
-        "slug": "nauksenu-lv114"
-      },
-      "code": {
-        "id": "LV114",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "57.923",
-        "lon": "25.459"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/nauksenu-lv114/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV115",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Mazsalacas",
-        "en": "Mazsalacas",
-        "slug": "mazsalacas-lv115"
-      },
-      "code": {
-        "id": "LV115",
+        "id": "LV43",
         "iso": null
       },
       "parent": null,
@@ -3786,46 +1410,13 @@
       },
       "zip_codes": [],
       "geo": {
-        "lat": "57.913",
-        "lon": "25.037"
+        "lat": "57.279",
+        "lon": "21.854"
       },
       "metadata": {},
       "source": {
         "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/mazsalacas-lv115/",
-        "api": "https://openadmindata.org/api/lv/"
-      }
-    },
-    {
-      "id": "LV116",
-      "level": 1,
-      "level_name": {
-        "local": "Novads",
-        "en": "Municipality"
-      },
-      "name": {
-        "local": "Rujienas",
-        "en": "Rujienas",
-        "slug": "rujienas-lv116"
-      },
-      "code": {
-        "id": "LV116",
-        "iso": null
-      },
-      "parent": null,
-      "ancestors": [],
-      "children_count": {
-        "locality": 0
-      },
-      "zip_codes": [],
-      "geo": {
-        "lat": "57.844",
-        "lon": "25.323"
-      },
-      "metadata": {},
-      "source": {
-        "name": "Open Admin Data",
-        "url": "https://openadmindata.org/lv/municipalities/rujienas-lv116/",
+        "url": "https://openadmindata.org/lv/municipalities/ventspils-lv43/",
         "api": "https://openadmindata.org/api/lv/"
       }
     }

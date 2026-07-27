@@ -1,0 +1,33 @@
+{
+  "id": "LV20",
+  "level": 1,
+  "level_name": {
+    "local": "Novads/Valstspilsēta",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Krāslavas novads",
+    "en": "Kraslavas",
+    "slug": "kraslavas-lv20"
+  },
+  "code": {
+    "id": "LV20",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "55.898",
+    "lon": "27.168"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/kraslavas-lv20/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

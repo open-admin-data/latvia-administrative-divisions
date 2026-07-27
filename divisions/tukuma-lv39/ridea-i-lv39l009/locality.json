@@ -1,0 +1,45 @@
+{
+  "id": "LV39L009",
+  "level": 2,
+  "level_name": {
+    "local": "Apdzīvota vieta",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "RideÄ¼i",
+    "en": "RideÄ¼i",
+    "slug": "ridea-i-lv39l009"
+  },
+  "code": {
+    "id": "LV39L009",
+    "iso": null
+  },
+  "parent": {
+    "id": "LV39",
+    "level": 1,
+    "name": {
+      "local": "Tukuma novads",
+      "en": "Tukuma",
+      "slug": "tukuma-lv39"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LV39",
+      "level": 1,
+      "name": {
+        "local": "Tukuma novads",
+        "en": "Tukuma",
+        "slug": "tukuma-lv39"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "57.137",
+    "lon": "23.101"
+  },
+  "metadata": {},
+  "source": {}
+}

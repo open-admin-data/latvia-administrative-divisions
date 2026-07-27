@@ -1,0 +1,92 @@
+[
+  {
+    "id": "LV20L001",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Jaunaglona",
+      "en": "Jaunaglona",
+      "slug": "jaunaglona-lv20l001"
+    },
+    "code": {
+      "id": "LV20L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV20",
+      "level": 1,
+      "name": {
+        "local": "Krāslavas novads",
+        "en": "Kraslavas",
+        "slug": "kraslavas-lv20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV20",
+        "level": 1,
+        "name": {
+          "local": "Krāslavas novads",
+          "en": "Kraslavas",
+          "slug": "kraslavas-lv20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "56.161",
+      "lon": "27.007"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LV20L002",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Paternieki",
+      "en": "Paternieki",
+      "slug": "paternieki-lv20l002"
+    },
+    "code": {
+      "id": "LV20L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV20",
+      "level": 1,
+      "name": {
+        "local": "Krāslavas novads",
+        "en": "Kraslavas",
+        "slug": "kraslavas-lv20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV20",
+        "level": 1,
+        "name": {
+          "local": "Krāslavas novads",
+          "en": "Kraslavas",
+          "slug": "kraslavas-lv20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.817",
+      "lon": "27.59"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,33 @@
+{
+  "id": "LV30",
+  "level": 1,
+  "level_name": {
+    "local": "Novads/Valstspilsēta",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Preiļu novads",
+    "en": "Preilu",
+    "slug": "preilu-lv30"
+  },
+  "code": {
+    "id": "LV30",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.294",
+    "lon": "26.725"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/preilu-lv30/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

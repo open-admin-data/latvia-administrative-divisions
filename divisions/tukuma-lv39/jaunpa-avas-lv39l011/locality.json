@@ -1,0 +1,45 @@
+{
+  "id": "LV39L011",
+  "level": 2,
+  "level_name": {
+    "local": "Apdzīvota vieta",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "JaunpÄ¼avas",
+    "en": "JaunpÄ¼avas",
+    "slug": "jaunpa-avas-lv39l011"
+  },
+  "code": {
+    "id": "LV39L011",
+    "iso": null
+  },
+  "parent": {
+    "id": "LV39",
+    "level": 1,
+    "name": {
+      "local": "Tukuma novads",
+      "en": "Tukuma",
+      "slug": "tukuma-lv39"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LV39",
+      "level": 1,
+      "name": {
+        "local": "Tukuma novads",
+        "en": "Tukuma",
+        "slug": "tukuma-lv39"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "57.206",
+    "lon": "23.055"
+  },
+  "metadata": {},
+  "source": {}
+}

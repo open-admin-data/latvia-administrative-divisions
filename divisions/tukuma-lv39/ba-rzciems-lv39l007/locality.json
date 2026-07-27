@@ -1,0 +1,45 @@
+{
+  "id": "LV39L007",
+  "level": 2,
+  "level_name": {
+    "local": "Apdzīvota vieta",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "BÄ“rzciems",
+    "en": "BÄ“rzciems",
+    "slug": "ba-rzciems-lv39l007"
+  },
+  "code": {
+    "id": "LV39L007",
+    "iso": null
+  },
+  "parent": {
+    "id": "LV39",
+    "level": 1,
+    "name": {
+      "local": "Tukuma novads",
+      "en": "Tukuma",
+      "slug": "tukuma-lv39"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LV39",
+      "level": 1,
+      "name": {
+        "local": "Tukuma novads",
+        "en": "Tukuma",
+        "slug": "tukuma-lv39"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "57.246",
+    "lon": "23.174"
+  },
+  "metadata": {},
+  "source": {}
+}

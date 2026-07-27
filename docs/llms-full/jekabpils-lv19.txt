@@ -1,0 +1,24 @@
+# Jekabpils — Latvia Administrative Divisions
+
+> 3 localitys
+> Code: LV19
+> Coordinates: 56.5, 25.858
+> Last updated: 2026-07-27. License: CC-BY-4.0.
+
+## Localitys
+
+### Ä’rglÌ§i
+
+Code: LV19L001, Coordinates: 56.898, 25.637
+
+
+### Krustpils
+
+Code: LV19L003, Coordinates: 56.511, 25.861
+
+
+### PlÌ§avinÌ§as
+
+Code: LV19L002, Coordinates: 56.618, 25.726
+
+

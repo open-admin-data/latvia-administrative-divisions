@@ -1,0 +1,33 @@
+{
+  "id": "LV37",
+  "level": 1,
+  "level_name": {
+    "local": "Novads/Valstspilsēta",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Smiltenes novads",
+    "en": "Smiltenes",
+    "slug": "smiltenes-lv37"
+  },
+  "code": {
+    "id": "LV37",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "57.424",
+    "lon": "25.901"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/smiltenes-lv37/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

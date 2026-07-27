@@ -1,0 +1,33 @@
+{
+  "id": "LV41",
+  "level": 1,
+  "level_name": {
+    "local": "Novads/Valstspilsēta",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Valmieras novads",
+    "en": "Valmieras",
+    "slug": "valmieras-lv41"
+  },
+  "code": {
+    "id": "LV41",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "57.541",
+    "lon": "25.427"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/valmieras-lv41/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

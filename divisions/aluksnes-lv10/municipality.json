@@ -1,0 +1,33 @@
+{
+  "id": "LV10",
+  "level": 1,
+  "level_name": {
+    "local": "Novads/Valstspilsēta",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Alūksnes novads",
+    "en": "Aluksnes",
+    "slug": "aluksnes-lv10"
+  },
+  "code": {
+    "id": "LV10",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "57.422",
+    "lon": "27.048"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/aluksnes-lv10/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

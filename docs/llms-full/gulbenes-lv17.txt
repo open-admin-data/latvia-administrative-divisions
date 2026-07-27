@@ -1,0 +1,9 @@
+# Gulbenes — Latvia Administrative Divisions
+
+> 0 localitys
+> Code: LV17
+> Coordinates: 57.177, 26.754
+> Last updated: 2026-07-27. License: CC-BY-4.0.
+
+## Localitys
+

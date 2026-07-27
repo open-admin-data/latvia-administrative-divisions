@@ -1,0 +1,33 @@
+{
+  "id": "LV11",
+  "level": 1,
+  "level_name": {
+    "local": "Novads/Valstspilsēta",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Augšdaugavas novads",
+    "en": "Augsdaugavas",
+    "slug": "augsdaugavas-lv11"
+  },
+  "code": {
+    "id": "LV11",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "55.985",
+    "lon": "26.619"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/augsdaugavas-lv11/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

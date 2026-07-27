@@ -1,0 +1,45 @@
+{
+  "id": "LV19L002",
+  "level": 2,
+  "level_name": {
+    "local": "Apdzīvota vieta",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "PlÌ§avinÌ§as",
+    "en": "PlÌ§avinÌ§as",
+    "slug": "pli-avini-as-lv19l002"
+  },
+  "code": {
+    "id": "LV19L002",
+    "iso": null
+  },
+  "parent": {
+    "id": "LV19",
+    "level": 1,
+    "name": {
+      "local": "Jēkabpils novads",
+      "en": "Jekabpils",
+      "slug": "jekabpils-lv19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LV19",
+      "level": 1,
+      "name": {
+        "local": "Jēkabpils novads",
+        "en": "Jekabpils",
+        "slug": "jekabpils-lv19"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.618",
+    "lon": "25.726"
+  },
+  "metadata": {},
+  "source": {}
+}

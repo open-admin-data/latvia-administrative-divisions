@@ -1,0 +1,33 @@
+{
+  "id": "LV21",
+  "level": 1,
+  "level_name": {
+    "local": "Novads/Valstspilsēta",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Kuldīgas novads",
+    "en": "Kuldigas",
+    "slug": "kuldigas-lv21"
+  },
+  "code": {
+    "id": "LV21",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.968",
+    "lon": "21.969"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/kuldigas-lv21/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

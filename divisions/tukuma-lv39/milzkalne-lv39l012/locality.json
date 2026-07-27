@@ -1,0 +1,45 @@
+{
+  "id": "LV39L012",
+  "level": 2,
+  "level_name": {
+    "local": "Apdzīvota vieta",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Milzkalne",
+    "en": "Milzkalne",
+    "slug": "milzkalne-lv39l012"
+  },
+  "code": {
+    "id": "LV39L012",
+    "iso": null
+  },
+  "parent": {
+    "id": "LV39",
+    "level": 1,
+    "name": {
+      "local": "Tukuma novads",
+      "en": "Tukuma",
+      "slug": "tukuma-lv39"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LV39",
+      "level": 1,
+      "name": {
+        "local": "Tukuma novads",
+        "en": "Tukuma",
+        "slug": "tukuma-lv39"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.978",
+    "lon": "23.226"
+  },
+  "metadata": {},
+  "source": {}
+}

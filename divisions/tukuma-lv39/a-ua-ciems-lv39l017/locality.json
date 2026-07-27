@@ -1,0 +1,45 @@
+{
+  "id": "LV39L017",
+  "level": 2,
+  "level_name": {
+    "local": "Apdzīvota vieta",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Ä¶uÄ¼ciems",
+    "en": "Ä¶uÄ¼ciems",
+    "slug": "a-ua-ciems-lv39l017"
+  },
+  "code": {
+    "id": "LV39L017",
+    "iso": null
+  },
+  "parent": {
+    "id": "LV39",
+    "level": 1,
+    "name": {
+      "local": "Tukuma novads",
+      "en": "Tukuma",
+      "slug": "tukuma-lv39"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LV39",
+      "level": 1,
+      "name": {
+        "local": "Tukuma novads",
+        "en": "Tukuma",
+        "slug": "tukuma-lv39"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "57.266",
+    "lon": "23.032"
+  },
+  "metadata": {},
+  "source": {}
+}

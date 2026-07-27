@@ -1,0 +1,33 @@
+{
+  "id": "LV01",
+  "level": 1,
+  "level_name": {
+    "local": "Novads/Valstspilsēta",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Daugavpils",
+    "en": "Daugavpils",
+    "slug": "daugavpils-lv01"
+  },
+  "code": {
+    "id": "LV01",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "55.875",
+    "lon": "26.536"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/daugavpils-lv01/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

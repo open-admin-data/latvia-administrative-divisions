@@ -1,0 +1,45 @@
+{
+  "id": "LV03L001",
+  "level": 2,
+  "level_name": {
+    "local": "Apdzīvota vieta",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Ragaciems",
+    "en": "Ragaciems",
+    "slug": "ragaciems-lv03l001"
+  },
+  "code": {
+    "id": "LV03L001",
+    "iso": null
+  },
+  "parent": {
+    "id": "LV03",
+    "level": 1,
+    "name": {
+      "local": "Jūrmala",
+      "en": "Jurmala",
+      "slug": "jurmala-lv03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LV03",
+      "level": 1,
+      "name": {
+        "local": "Jūrmala",
+        "en": "Jurmala",
+        "slug": "jurmala-lv03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "57.024",
+    "lon": "23.494"
+  },
+  "metadata": {},
+  "source": {}
+}

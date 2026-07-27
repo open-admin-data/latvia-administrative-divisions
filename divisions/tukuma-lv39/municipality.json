@@ -1,0 +1,33 @@
+{
+  "id": "LV39",
+  "level": 1,
+  "level_name": {
+    "local": "Novads/Valstspilsēta",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tukuma novads",
+    "en": "Tukuma",
+    "slug": "tukuma-lv39"
+  },
+  "code": {
+    "id": "LV39",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 25
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.967",
+    "lon": "23.153"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/tukuma-lv39/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

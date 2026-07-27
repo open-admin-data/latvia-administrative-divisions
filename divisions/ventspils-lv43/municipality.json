@@ -1,0 +1,33 @@
+{
+  "id": "LV43",
+  "level": 1,
+  "level_name": {
+    "local": "Novads/Valstspilsēta",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ventspils novads",
+    "en": "Ventspils",
+    "slug": "ventspils-lv43"
+  },
+  "code": {
+    "id": "LV43",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "57.279",
+    "lon": "21.854"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/ventspils-lv43/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

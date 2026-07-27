@@ -1,0 +1,182 @@
+[
+  {
+    "id": "LV06L003",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Balozi",
+      "en": "Balozi",
+      "slug": "balozi-lv06l003"
+    },
+    "code": {
+      "id": "LV06L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV06",
+      "level": 1,
+      "name": {
+        "local": "Rīga",
+        "en": "Riga",
+        "slug": "riga-lv06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV06",
+        "level": 1,
+        "name": {
+          "local": "Rīga",
+          "en": "Riga",
+          "slug": "riga-lv06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "56.876",
+      "lon": "24.119"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LV06L001",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Jaunciems",
+      "en": "Jaunciems",
+      "slug": "jaunciems-lv06l001"
+    },
+    "code": {
+      "id": "LV06L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV06",
+      "level": 1,
+      "name": {
+        "local": "Rīga",
+        "en": "Riga",
+        "slug": "riga-lv06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV06",
+        "level": 1,
+        "name": {
+          "local": "Rīga",
+          "en": "Riga",
+          "slug": "riga-lv06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "57.039",
+      "lon": "24.174"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LV06L004",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Kalngale",
+      "en": "Kalngale",
+      "slug": "kalngale-lv06l004"
+    },
+    "code": {
+      "id": "LV06L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV06",
+      "level": 1,
+      "name": {
+        "local": "Rīga",
+        "en": "Riga",
+        "slug": "riga-lv06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV06",
+        "level": 1,
+        "name": {
+          "local": "Rīga",
+          "en": "Riga",
+          "slug": "riga-lv06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "57.081",
+      "lon": "24.159"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LV06L002",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Riga",
+      "en": "Riga",
+      "slug": "riga-lv06l002"
+    },
+    "code": {
+      "id": "LV06L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV06",
+      "level": 1,
+      "name": {
+        "local": "Rīga",
+        "en": "Riga",
+        "slug": "riga-lv06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV06",
+        "level": 1,
+        "name": {
+          "local": "Rīga",
+          "en": "Riga",
+          "slug": "riga-lv06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "56.946",
+      "lon": "24.106"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

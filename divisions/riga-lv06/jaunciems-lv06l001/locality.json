@@ -1,0 +1,45 @@
+{
+  "id": "LV06L001",
+  "level": 2,
+  "level_name": {
+    "local": "Apdzīvota vieta",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Jaunciems",
+    "en": "Jaunciems",
+    "slug": "jaunciems-lv06l001"
+  },
+  "code": {
+    "id": "LV06L001",
+    "iso": null
+  },
+  "parent": {
+    "id": "LV06",
+    "level": 1,
+    "name": {
+      "local": "Rīga",
+      "en": "Riga",
+      "slug": "riga-lv06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LV06",
+      "level": 1,
+      "name": {
+        "local": "Rīga",
+        "en": "Riga",
+        "slug": "riga-lv06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "57.039",
+    "lon": "24.174"
+  },
+  "metadata": {},
+  "source": {}
+}

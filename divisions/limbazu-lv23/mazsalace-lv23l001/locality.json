@@ -1,0 +1,45 @@
+{
+  "id": "LV23L001",
+  "level": 2,
+  "level_name": {
+    "local": "Apdzīvota vieta",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Mazsalace",
+    "en": "Mazsalace",
+    "slug": "mazsalace-lv23l001"
+  },
+  "code": {
+    "id": "LV23L001",
+    "iso": null
+  },
+  "parent": {
+    "id": "LV23",
+    "level": 1,
+    "name": {
+      "local": "Limbažu novads",
+      "en": "Limbazu",
+      "slug": "limbazu-lv23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LV23",
+      "level": 1,
+      "name": {
+        "local": "Limbažu novads",
+        "en": "Limbazu",
+        "slug": "limbazu-lv23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "57.863",
+    "lon": "25.055"
+  },
+  "metadata": {},
+  "source": {}
+}

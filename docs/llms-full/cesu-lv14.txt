@@ -1,0 +1,14 @@
+# Cesu — Latvia Administrative Divisions
+
+> 1 localitys
+> Code: LV14
+> Coordinates: 57.312, 25.273
+> Last updated: 2026-07-27. License: CC-BY-4.0.
+
+## Localitys
+
+### PriekulÌ§i
+
+Code: LV14L001, Coordinates: 57.315, 25.361
+
+

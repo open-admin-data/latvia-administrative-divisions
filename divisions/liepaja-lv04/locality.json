@@ -1,0 +1,47 @@
+[
+  {
+    "id": "LV04L001",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Durbe",
+      "en": "Durbe",
+      "slug": "durbe-lv04l001"
+    },
+    "code": {
+      "id": "LV04L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV04",
+      "level": 1,
+      "name": {
+        "local": "Liepāja",
+        "en": "Liepaja",
+        "slug": "liepaja-lv04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV04",
+        "level": 1,
+        "name": {
+          "local": "Liepāja",
+          "en": "Liepaja",
+          "slug": "liepaja-lv04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "56.589",
+      "lon": "21.37"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

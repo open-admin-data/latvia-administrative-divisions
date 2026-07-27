@@ -1,0 +1,14 @@
+# Ventspils — Latvia Administrative Divisions
+
+> 1 localitys
+> Code: LV43
+> Coordinates: 57.279, 21.854
+> Last updated: 2026-07-27. License: CC-BY-4.0.
+
+## Localitys
+
+### Usma
+
+Code: LV43L001, Coordinates: 57.218, 22.155
+
+

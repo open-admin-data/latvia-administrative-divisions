@@ -1,0 +1,45 @@
+{
+  "id": "LV39L006",
+  "level": 2,
+  "level_name": {
+    "local": "Apdzīvota vieta",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "AlksnÄ�jciems",
+    "en": "AlksnÄ�jciems",
+    "slug": "alksna-jciems-lv39l006"
+  },
+  "code": {
+    "id": "LV39L006",
+    "iso": null
+  },
+  "parent": {
+    "id": "LV39",
+    "level": 1,
+    "name": {
+      "local": "Tukuma novads",
+      "en": "Tukuma",
+      "slug": "tukuma-lv39"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LV39",
+      "level": 1,
+      "name": {
+        "local": "Tukuma novads",
+        "en": "Tukuma",
+        "slug": "tukuma-lv39"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "57.314",
+    "lon": "23.031"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "LV15L001",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Rucava",
+      "en": "Rucava",
+      "slug": "rucava-lv15l001"
+    },
+    "code": {
+      "id": "LV15L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV15",
+      "level": 1,
+      "name": {
+        "local": "Dienvidkurzemes novads",
+        "en": "Dienvidkurzemes",
+        "slug": "dienvidkurzemes-lv15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV15",
+        "level": 1,
+        "name": {
+          "local": "Dienvidkurzemes novads",
+          "en": "Dienvidkurzemes",
+          "slug": "dienvidkurzemes-lv15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "56.163",
+      "lon": "21.162"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

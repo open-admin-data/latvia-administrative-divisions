@@ -1,0 +1,45 @@
+{
+  "id": "LV06L003",
+  "level": 2,
+  "level_name": {
+    "local": "Apdzīvota vieta",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Balozi",
+    "en": "Balozi",
+    "slug": "balozi-lv06l003"
+  },
+  "code": {
+    "id": "LV06L003",
+    "iso": null
+  },
+  "parent": {
+    "id": "LV06",
+    "level": 1,
+    "name": {
+      "local": "Rīga",
+      "en": "Riga",
+      "slug": "riga-lv06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LV06",
+      "level": 1,
+      "name": {
+        "local": "Rīga",
+        "en": "Riga",
+        "slug": "riga-lv06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.876",
+    "lon": "24.119"
+  },
+  "metadata": {},
+  "source": {}
+}

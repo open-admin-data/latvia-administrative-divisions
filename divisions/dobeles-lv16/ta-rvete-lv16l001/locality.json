@@ -1,0 +1,45 @@
+{
+  "id": "LV16L001",
+  "level": 2,
+  "level_name": {
+    "local": "Apdzīvota vieta",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "TÄ“rvete",
+    "en": "TÄ“rvete",
+    "slug": "ta-rvete-lv16l001"
+  },
+  "code": {
+    "id": "LV16L001",
+    "iso": null
+  },
+  "parent": {
+    "id": "LV16",
+    "level": 1,
+    "name": {
+      "local": "Dobeles novads",
+      "en": "Dobeles",
+      "slug": "dobeles-lv16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LV16",
+      "level": 1,
+      "name": {
+        "local": "Dobeles novads",
+        "en": "Dobeles",
+        "slug": "dobeles-lv16"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.48",
+    "lon": "23.389"
+  },
+  "metadata": {},
+  "source": {}
+}

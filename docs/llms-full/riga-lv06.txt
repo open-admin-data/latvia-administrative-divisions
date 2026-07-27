@@ -1,0 +1,29 @@
+# Riga — Latvia Administrative Divisions
+
+> 4 localitys
+> Code: LV06
+> Coordinates: 56.949, 24.106
+> Last updated: 2026-07-27. License: CC-BY-4.0.
+
+## Localitys
+
+### Balozi
+
+Code: LV06L003, Coordinates: 56.876, 24.119
+
+
+### Jaunciems
+
+Code: LV06L001, Coordinates: 57.039, 24.174
+
+
+### Kalngale
+
+Code: LV06L004, Coordinates: 57.081, 24.159
+
+
+### Riga
+
+Code: LV06L002, Coordinates: 56.946, 24.106
+
+

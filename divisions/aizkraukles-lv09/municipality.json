@@ -1,0 +1,33 @@
+{
+  "id": "LV09",
+  "level": 1,
+  "level_name": {
+    "local": "Novads/Valstspilsēta",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Aizkraukles novads",
+    "en": "Aizkraukles",
+    "slug": "aizkraukles-lv09"
+  },
+  "code": {
+    "id": "LV09",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.605",
+    "lon": "25.255"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/aizkraukles-lv09/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

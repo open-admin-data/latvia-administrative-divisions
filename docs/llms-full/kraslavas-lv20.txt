@@ -1,0 +1,19 @@
+# Kraslavas — Latvia Administrative Divisions
+
+> 2 localitys
+> Code: LV20
+> Coordinates: 55.898, 27.168
+> Last updated: 2026-07-27. License: CC-BY-4.0.
+
+## Localitys
+
+### Jaunaglona
+
+Code: LV20L001, Coordinates: 56.161, 27.007
+
+
+### Paternieki
+
+Code: LV20L002, Coordinates: 55.817, 27.59
+
+

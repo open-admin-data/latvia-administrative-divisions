@@ -1,0 +1,33 @@
+{
+  "id": "LV24",
+  "level": 1,
+  "level_name": {
+    "local": "Novads/Valstspilsēta",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Līvānu novads",
+    "en": "Livanu",
+    "slug": "livanu-lv24"
+  },
+  "code": {
+    "id": "LV24",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.354",
+    "lon": "26.175"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/livanu-lv24/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

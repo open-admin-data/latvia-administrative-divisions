@@ -1,0 +1,14 @@
+# Ogres — Latvia Administrative Divisions
+
+> 1 localitys
+> Code: LV28
+> Coordinates: 56.816, 24.605
+> Last updated: 2026-07-27. License: CC-BY-4.0.
+
+## Localitys
+
+### BeibeÅ¾i
+
+Code: LV28L001, Coordinates: 56.588, 24.449
+
+

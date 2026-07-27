@@ -1,0 +1,33 @@
+{
+  "id": "LV36",
+  "level": 1,
+  "level_name": {
+    "local": "Novads/Valstspilsēta",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Siguldas novads",
+    "en": "Siguldas",
+    "slug": "siguldas-lv36"
+  },
+  "code": {
+    "id": "LV36",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "57.153",
+    "lon": "24.854"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/siguldas-lv36/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

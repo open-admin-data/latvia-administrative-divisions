@@ -1,0 +1,33 @@
+{
+  "id": "LV22",
+  "level": 1,
+  "level_name": {
+    "local": "Novads/Valstspilsēta",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ķekavas novads",
+    "en": "Kekavas",
+    "slug": "kekavas-lv22"
+  },
+  "code": {
+    "id": "LV22",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.826",
+    "lon": "24.232"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/kekavas-lv22/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "LV19L003",
+  "level": 2,
+  "level_name": {
+    "local": "Apdzīvota vieta",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Krustpils",
+    "en": "Krustpils",
+    "slug": "krustpils-lv19l003"
+  },
+  "code": {
+    "id": "LV19L003",
+    "iso": null
+  },
+  "parent": {
+    "id": "LV19",
+    "level": 1,
+    "name": {
+      "local": "Jēkabpils novads",
+      "en": "Jekabpils",
+      "slug": "jekabpils-lv19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LV19",
+      "level": 1,
+      "name": {
+        "local": "Jēkabpils novads",
+        "en": "Jekabpils",
+        "slug": "jekabpils-lv19"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.511",
+    "lon": "25.861"
+  },
+  "metadata": {},
+  "source": {}
+}

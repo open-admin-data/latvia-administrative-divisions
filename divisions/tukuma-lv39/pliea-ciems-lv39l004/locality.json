@@ -1,0 +1,45 @@
+{
+  "id": "LV39L004",
+  "level": 2,
+  "level_name": {
+    "local": "Apdzīvota vieta",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "PlieÅ†ciems",
+    "en": "PlieÅ†ciems",
+    "slug": "pliea-ciems-lv39l004"
+  },
+  "code": {
+    "id": "LV39L004",
+    "iso": null
+  },
+  "parent": {
+    "id": "LV39",
+    "level": 1,
+    "name": {
+      "local": "Tukuma novads",
+      "en": "Tukuma",
+      "slug": "tukuma-lv39"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LV39",
+      "level": 1,
+      "name": {
+        "local": "Tukuma novads",
+        "en": "Tukuma",
+        "slug": "tukuma-lv39"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "57.083",
+    "lon": "23.264"
+  },
+  "metadata": {},
+  "source": {}
+}

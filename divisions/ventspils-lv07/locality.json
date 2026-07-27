@@ -1,0 +1,47 @@
+[
+  {
+    "id": "LV07L001",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "JÅ«rkalne",
+      "en": "JÅ«rkalne",
+      "slug": "ja-rkalne-lv07l001"
+    },
+    "code": {
+      "id": "LV07L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV07",
+      "level": 1,
+      "name": {
+        "local": "Ventspils",
+        "en": "Ventspils",
+        "slug": "ventspils-lv07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV07",
+        "level": 1,
+        "name": {
+          "local": "Ventspils",
+          "en": "Ventspils",
+          "slug": "ventspils-lv07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "57.009",
+      "lon": "21.394"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

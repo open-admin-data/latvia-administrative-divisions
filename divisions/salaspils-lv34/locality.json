@@ -1,0 +1,47 @@
+[
+  {
+    "id": "LV34L001",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Upeslejas",
+      "en": "Upeslejas",
+      "slug": "upeslejas-lv34l001"
+    },
+    "code": {
+      "id": "LV34L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV34",
+      "level": 1,
+      "name": {
+        "local": "Salaspils novads",
+        "en": "Salaspils",
+        "slug": "salaspils-lv34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV34",
+        "level": 1,
+        "name": {
+          "local": "Salaspils novads",
+          "en": "Salaspils",
+          "slug": "salaspils-lv34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "56.924",
+      "lon": "24.386"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

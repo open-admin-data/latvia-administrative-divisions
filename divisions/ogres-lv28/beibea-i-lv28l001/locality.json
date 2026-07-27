@@ -1,0 +1,45 @@
+{
+  "id": "LV28L001",
+  "level": 2,
+  "level_name": {
+    "local": "Apdzīvota vieta",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "BeibeÅ¾i",
+    "en": "BeibeÅ¾i",
+    "slug": "beibea-i-lv28l001"
+  },
+  "code": {
+    "id": "LV28L001",
+    "iso": null
+  },
+  "parent": {
+    "id": "LV28",
+    "level": 1,
+    "name": {
+      "local": "Ogres novads",
+      "en": "Ogres",
+      "slug": "ogres-lv28"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LV28",
+      "level": 1,
+      "name": {
+        "local": "Ogres novads",
+        "en": "Ogres",
+        "slug": "ogres-lv28"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.588",
+    "lon": "24.449"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,33 @@
+{
+  "id": "LV16",
+  "level": 1,
+  "level_name": {
+    "local": "Novads/Valstspilsēta",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Dobeles novads",
+    "en": "Dobeles",
+    "slug": "dobeles-lv16"
+  },
+  "code": {
+    "id": "LV16",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.625",
+    "lon": "23.279"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/dobeles-lv16/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

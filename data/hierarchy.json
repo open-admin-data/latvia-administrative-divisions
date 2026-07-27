@@ -2,1996 +2,1260 @@
   "_attribution": "Data from Open Admin Data (https://openadmindata.org/lv/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/latvia-administrative-divisions",
   "data": [
     {
-      "id": "LV001",
-      "name": {
-        "local": "Rucavas",
-        "en": "Rucavas",
-        "slug": "rucavas-lv001"
-      },
-      "code": {
-        "id": "LV001",
-        "iso": null
-      },
-      "locality": [
-        {
-          "id": "LV001L001",
-          "name": {
-            "local": "Rucava",
-            "en": "Rucava",
-            "slug": "rucava-lv001l001"
-          },
-          "code": {
-            "id": "LV001L001",
-            "iso": null
-          }
-        }
-      ]
-    },
-    {
-      "id": "LV002",
-      "name": {
-        "local": "Nicas",
-        "en": "Nicas",
-        "slug": "nicas-lv002"
-      },
-      "code": {
-        "id": "LV002",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV003",
+      "id": "LV01",
       "name": {
         "local": "Daugavpils",
         "en": "Daugavpils",
-        "slug": "daugavpils-lv003"
+        "slug": "daugavpils-lv01"
       },
       "code": {
-        "id": "LV003",
+        "id": "LV01",
         "iso": null
       },
       "locality": [
         {
-          "id": "LV003L001",
-          "name": {
-            "local": "Lociki",
-            "en": "Lociki",
-            "slug": "lociki-lv003l001"
-          },
-          "code": {
-            "id": "LV003L001",
-            "iso": null
-          }
-        },
-        {
-          "id": "LV003L002",
+          "id": "LV01L001",
           "name": {
             "local": "KalkÅ«ni",
             "en": "KalkÅ«ni",
-            "slug": "kalka-ni-lv003l002"
+            "slug": "kalka-ni-lv01l001"
           },
           "code": {
-            "id": "LV003L002",
+            "id": "LV01L001",
             "iso": null
           }
         }
       ]
     },
     {
-      "id": "LV004",
-      "name": {
-        "local": "Liepaja",
-        "en": "Liepaja",
-        "slug": "liepaja-lv004"
-      },
-      "code": {
-        "id": "LV004",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV005",
-      "name": {
-        "local": "Priekules",
-        "en": "Priekules",
-        "slug": "priekules-lv005"
-      },
-      "code": {
-        "id": "LV005",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV006",
-      "name": {
-        "local": "Vainodes",
-        "en": "Vainodes",
-        "slug": "vainodes-lv006"
-      },
-      "code": {
-        "id": "LV006",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV007",
-      "name": {
-        "local": "Grobinas",
-        "en": "Grobinas",
-        "slug": "grobinas-lv007"
-      },
-      "code": {
-        "id": "LV007",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV008",
-      "name": {
-        "local": "Ilukstes",
-        "en": "Ilukstes",
-        "slug": "ilukstes-lv008"
-      },
-      "code": {
-        "id": "LV008",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV009",
-      "name": {
-        "local": "Aknistes",
-        "en": "Aknistes",
-        "slug": "aknistes-lv009"
-      },
-      "code": {
-        "id": "LV009",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV010",
-      "name": {
-        "local": "Durbes",
-        "en": "Durbes",
-        "slug": "durbes-lv010"
-      },
-      "code": {
-        "id": "LV010",
-        "iso": null
-      },
-      "locality": [
-        {
-          "id": "LV010L001",
-          "name": {
-            "local": "Durbe",
-            "en": "Durbe",
-            "slug": "durbe-lv010l001"
-          },
-          "code": {
-            "id": "LV010L001",
-            "iso": null
-          }
-        }
-      ]
-    },
-    {
-      "id": "LV011",
-      "name": {
-        "local": "Kraslavas",
-        "en": "Kraslavas",
-        "slug": "kraslavas-lv011"
-      },
-      "code": {
-        "id": "LV011",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV012",
-      "name": {
-        "local": "Tervetes",
-        "en": "Tervetes",
-        "slug": "tervetes-lv012"
-      },
-      "code": {
-        "id": "LV012",
-        "iso": null
-      },
-      "locality": [
-        {
-          "id": "LV012L001",
-          "name": {
-            "local": "TÄ“rvete",
-            "en": "TÄ“rvete",
-            "slug": "ta-rvete-lv012l001"
-          },
-          "code": {
-            "id": "LV012L001",
-            "iso": null
-          }
-        }
-      ]
-    },
-    {
-      "id": "LV013",
-      "name": {
-        "local": "Auces",
-        "en": "Auces",
-        "slug": "auces-lv013"
-      },
-      "code": {
-        "id": "LV013",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV014",
-      "name": {
-        "local": "Rundales",
-        "en": "Rundales",
-        "slug": "rundales-lv014"
-      },
-      "code": {
-        "id": "LV014",
-        "iso": null
-      },
-      "locality": [
-        {
-          "id": "LV014L001",
-          "name": {
-            "local": "RundÄ�le",
-            "en": "RundÄ�le",
-            "slug": "runda-le-lv014l001"
-          },
-          "code": {
-            "id": "LV014L001",
-            "iso": null
-          }
-        }
-      ]
-    },
-    {
-      "id": "LV015",
-      "name": {
-        "local": "Bauskas",
-        "en": "Bauskas",
-        "slug": "bauskas-lv015"
-      },
-      "code": {
-        "id": "LV015",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV016",
-      "name": {
-        "local": "Aglonas",
-        "en": "Aglonas",
-        "slug": "aglonas-lv016"
-      },
-      "code": {
-        "id": "LV016",
-        "iso": null
-      },
-      "locality": [
-        {
-          "id": "LV016L001",
-          "name": {
-            "local": "Jaunaglona",
-            "en": "Jaunaglona",
-            "slug": "jaunaglona-lv016l001"
-          },
-          "code": {
-            "id": "LV016L001",
-            "iso": null
-          }
-        }
-      ]
-    },
-    {
-      "id": "LV017",
-      "name": {
-        "local": "Varkavas",
-        "en": "Varkavas",
-        "slug": "varkavas-lv017"
-      },
-      "code": {
-        "id": "LV017",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV018",
-      "name": {
-        "local": "Neretas",
-        "en": "Neretas",
-        "slug": "neretas-lv018"
-      },
-      "code": {
-        "id": "LV018",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV019",
-      "name": {
-        "local": "Aizputes",
-        "en": "Aizputes",
-        "slug": "aizputes-lv019"
-      },
-      "code": {
-        "id": "LV019",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV020",
-      "name": {
-        "local": "Skrundas",
-        "en": "Skrundas",
-        "slug": "skrundas-lv020"
-      },
-      "code": {
-        "id": "LV020",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV021",
-      "name": {
-        "local": "Viesites",
-        "en": "Viesites",
-        "slug": "viesites-lv021"
-      },
-      "code": {
-        "id": "LV021",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV022",
+      "id": "LV02",
       "name": {
         "local": "Jelgava",
         "en": "Jelgava",
-        "slug": "jelgava-lv022"
+        "slug": "jelgava-lv02"
       },
       "code": {
-        "id": "LV022",
+        "id": "LV02",
         "iso": null
       },
       "locality": []
     },
     {
-      "id": "LV023",
+      "id": "LV03",
       "name": {
-        "local": "Brocenu",
-        "en": "Brocenu",
-        "slug": "brocenu-lv023"
-      },
-      "code": {
-        "id": "LV023",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV024",
-      "name": {
-        "local": "Jekabpils",
-        "en": "Jekabpils",
-        "slug": "jekabpils-lv024"
-      },
-      "code": {
-        "id": "LV024",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV025",
-      "name": {
-        "local": "Dagdas",
-        "en": "Dagdas",
-        "slug": "dagdas-lv025"
-      },
-      "code": {
-        "id": "LV025",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV026",
-      "name": {
-        "local": "Pavilostas",
-        "en": "Pavilostas",
-        "slug": "pavilostas-lv026"
-      },
-      "code": {
-        "id": "LV026",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV027",
-      "name": {
-        "local": "Iecavas",
-        "en": "Iecavas",
-        "slug": "iecavas-lv027"
-      },
-      "code": {
-        "id": "LV027",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV028",
-      "name": {
-        "local": "Ozolnieku",
-        "en": "Ozolnieku",
-        "slug": "ozolnieku-lv028"
-      },
-      "code": {
-        "id": "LV028",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV029",
-      "name": {
-        "local": "Olaines",
-        "en": "Olaines",
-        "slug": "olaines-lv029"
-      },
-      "code": {
-        "id": "LV029",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV030",
-      "name": {
-        "local": "Jaunpils",
-        "en": "Jaunpils",
-        "slug": "jaunpils-lv030"
-      },
-      "code": {
-        "id": "LV030",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV031",
-      "name": {
-        "local": "Dobeles",
-        "en": "Dobeles",
-        "slug": "dobeles-lv031"
-      },
-      "code": {
-        "id": "LV031",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV032",
-      "name": {
-        "local": "Preilu",
-        "en": "Preilu",
-        "slug": "preilu-lv032"
-      },
-      "code": {
-        "id": "LV032",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV033",
-      "name": {
-        "local": "Saldus",
-        "en": "Saldus",
-        "slug": "saldus-lv033"
-      },
-      "code": {
-        "id": "LV033",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV034",
-      "name": {
-        "local": "Vecumnieku",
-        "en": "Vecumnieku",
-        "slug": "vecumnieku-lv034"
-      },
-      "code": {
-        "id": "LV034",
-        "iso": null
-      },
-      "locality": [
-        {
-          "id": "LV034L001",
-          "name": {
-            "local": "BeibeÅ¾i",
-            "en": "BeibeÅ¾i",
-            "slug": "beibea-i-lv034l001"
-          },
-          "code": {
-            "id": "LV034L001",
-            "iso": null
-          }
-        }
-      ]
-    },
-    {
-      "id": "LV035",
-      "name": {
-        "local": "Livanu",
-        "en": "Livanu",
-        "slug": "livanu-lv035"
-      },
-      "code": {
-        "id": "LV035",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV036",
-      "name": {
-        "local": "Jaunjelgavas",
-        "en": "Jaunjelgavas",
-        "slug": "jaunjelgavas-lv036"
-      },
-      "code": {
-        "id": "LV036",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV037",
-      "name": {
-        "local": "Salas",
-        "en": "Salas",
-        "slug": "salas-lv037"
-      },
-      "code": {
-        "id": "LV037",
-        "iso": null
-      },
-      "locality": [
-        {
-          "id": "LV037L001",
-          "name": {
-            "local": "Krustpils",
-            "en": "Krustpils",
-            "slug": "krustpils-lv037l001"
-          },
-          "code": {
-            "id": "LV037L001",
-            "iso": null
-          }
-        }
-      ]
-    },
-    {
-      "id": "LV038",
-      "name": {
-        "local": "Baldones",
-        "en": "Baldones",
-        "slug": "baldones-lv038"
-      },
-      "code": {
-        "id": "LV038",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV039",
-      "name": {
-        "local": "Alsungas",
-        "en": "Alsungas",
-        "slug": "alsungas-lv039"
-      },
-      "code": {
-        "id": "LV039",
-        "iso": null
-      },
-      "locality": [
-        {
-          "id": "LV039L001",
-          "name": {
-            "local": "JÅ«rkalne",
-            "en": "JÅ«rkalne",
-            "slug": "ja-rkalne-lv039l001"
-          },
-          "code": {
-            "id": "LV039L001",
-            "iso": null
-          }
-        }
-      ]
-    },
-    {
-      "id": "LV040",
-      "name": {
-        "local": "Aizkraukles",
-        "en": "Aizkraukles",
-        "slug": "aizkraukles-lv040"
-      },
-      "code": {
-        "id": "LV040",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV041",
-      "name": {
-        "local": "Jelgavas",
-        "en": "Jelgavas",
-        "slug": "jelgavas-lv041"
-      },
-      "code": {
-        "id": "LV041",
-        "iso": null
-      },
-      "locality": [
-        {
-          "id": "LV041L001",
-          "name": {
-            "local": "TÄ«reÄ¼i",
-            "en": "TÄ«reÄ¼i",
-            "slug": "ta-rea-i-lv041l001"
-          },
-          "code": {
-            "id": "LV041L001",
-            "iso": null
-          }
-        }
-      ]
-    },
-    {
-      "id": "LV042",
-      "name": {
-        "local": "Skriveru",
-        "en": "Skriveru",
-        "slug": "skriveru-lv042"
-      },
-      "code": {
-        "id": "LV042",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV043",
-      "name": {
-        "local": "Riebinu",
-        "en": "Riebinu",
-        "slug": "riebinu-lv043"
-      },
-      "code": {
-        "id": "LV043",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV044",
-      "name": {
-        "local": "Zilupes",
-        "en": "Zilupes",
-        "slug": "zilupes-lv044"
-      },
-      "code": {
-        "id": "LV044",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV045",
-      "name": {
-        "local": "Krustpils",
-        "en": "Krustpils",
-        "slug": "krustpils-lv045"
-      },
-      "code": {
-        "id": "LV045",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV046",
-      "name": {
-        "local": "Lielvardes",
-        "en": "Lielvardes",
-        "slug": "lielvardes-lv046"
-      },
-      "code": {
-        "id": "LV046",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV047",
-      "name": {
-        "local": "Kekavas",
-        "en": "Kekavas",
-        "slug": "kekavas-lv047"
-      },
-      "code": {
-        "id": "LV047",
-        "iso": null
-      },
-      "locality": [
-        {
-          "id": "LV047L001",
-          "name": {
-            "local": "Balozi",
-            "en": "Balozi",
-            "slug": "balozi-lv047l001"
-          },
-          "code": {
-            "id": "LV047L001",
-            "iso": null
-          }
-        }
-      ]
-    },
-    {
-      "id": "LV048",
-      "name": {
-        "local": "Rezekne",
-        "en": "Rezekne",
-        "slug": "rezekne-lv048"
-      },
-      "code": {
-        "id": "LV048",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV049",
-      "name": {
-        "local": "Marupes",
-        "en": "Marupes",
-        "slug": "marupes-lv049"
-      },
-      "code": {
-        "id": "LV049",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV050",
-      "name": {
-        "local": "Keguma",
-        "en": "Keguma",
-        "slug": "keguma-lv050"
-      },
-      "code": {
-        "id": "LV050",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV051",
-      "name": {
-        "local": "Salaspils",
-        "en": "Salaspils",
-        "slug": "salaspils-lv051"
-      },
-      "code": {
-        "id": "LV051",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV052",
-      "name": {
-        "local": "IkÅ¡kiles",
-        "en": "IkÅ¡kiles",
-        "slug": "ika-kiles-lv052"
-      },
-      "code": {
-        "id": "LV052",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV053",
-      "name": {
-        "local": "Kokneses",
-        "en": "Kokneses",
-        "slug": "kokneses-lv053"
-      },
-      "code": {
-        "id": "LV053",
-        "iso": null
-      },
-      "locality": [
-        {
-          "id": "LV053L001",
-          "name": {
-            "local": "Koknese",
-            "en": "Koknese",
-            "slug": "koknese-lv053l001"
-          },
-          "code": {
-            "id": "LV053L001",
-            "iso": null
-          }
-        }
-      ]
-    },
-    {
-      "id": "LV054",
-      "name": {
-        "local": "Babites",
-        "en": "Babites",
-        "slug": "babites-lv054"
-      },
-      "code": {
-        "id": "LV054",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV055",
-      "name": {
-        "local": "Jurmala",
+        "local": "Jūrmala",
         "en": "Jurmala",
-        "slug": "jurmala-lv055"
+        "slug": "jurmala-lv03"
       },
       "code": {
-        "id": "LV055",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV056",
-      "name": {
-        "local": "Stopinu",
-        "en": "Stopinu",
-        "slug": "stopinu-lv056"
-      },
-      "code": {
-        "id": "LV056",
+        "id": "LV03",
         "iso": null
       },
       "locality": [
         {
-          "id": "LV056L001",
-          "name": {
-            "local": "Upeslejas",
-            "en": "Upeslejas",
-            "slug": "upeslejas-lv056l001"
-          },
-          "code": {
-            "id": "LV056L001",
-            "iso": null
-          }
-        }
-      ]
-    },
-    {
-      "id": "LV057",
-      "name": {
-        "local": "Ludzas",
-        "en": "Ludzas",
-        "slug": "ludzas-lv057"
-      },
-      "code": {
-        "id": "LV057",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV058",
-      "name": {
-        "local": "Kuldigas",
-        "en": "Kuldigas",
-        "slug": "kuldigas-lv058"
-      },
-      "code": {
-        "id": "LV058",
-        "iso": null
-      },
-      "locality": [
-        {
-          "id": "LV058L001",
-          "name": {
-            "local": "Ä’dole",
-            "en": "Ä’dole",
-            "slug": "a-dole-lv058l001"
-          },
-          "code": {
-            "id": "LV058L001",
-            "iso": null
-          }
-        },
-        {
-          "id": "LV058L002",
-          "name": {
-            "local": "Usma",
-            "en": "Usma",
-            "slug": "usma-lv058l002"
-          },
-          "code": {
-            "id": "LV058L002",
-            "iso": null
-          }
-        }
-      ]
-    },
-    {
-      "id": "LV059",
-      "name": {
-        "local": "Vilanu",
-        "en": "Vilanu",
-        "slug": "vilanu-lv059"
-      },
-      "code": {
-        "id": "LV059",
-        "iso": null
-      },
-      "locality": [
-        {
-          "id": "LV059L001",
-          "name": {
-            "local": "VilÌ§Ä�ni",
-            "en": "VilÌ§Ä�ni",
-            "slug": "vili-a-ni-lv059l001"
-          },
-          "code": {
-            "id": "LV059L001",
-            "iso": null
-          }
-        }
-      ]
-    },
-    {
-      "id": "LV060",
-      "name": {
-        "local": "Varaklanu",
-        "en": "Varaklanu",
-        "slug": "varaklanu-lv060"
-      },
-      "code": {
-        "id": "LV060",
-        "iso": null
-      },
-      "locality": [
-        {
-          "id": "LV060L001",
-          "name": {
-            "local": "VaraklÌ§Ä�ni",
-            "en": "VaraklÌ§Ä�ni",
-            "slug": "varakli-a-ni-lv060l001"
-          },
-          "code": {
-            "id": "LV060L001",
-            "iso": null
-          }
-        }
-      ]
-    },
-    {
-      "id": "LV061",
-      "name": {
-        "local": "Plavinu",
-        "en": "Plavinu",
-        "slug": "plavinu-lv061"
-      },
-      "code": {
-        "id": "LV061",
-        "iso": null
-      },
-      "locality": [
-        {
-          "id": "LV061L001",
-          "name": {
-            "local": "PlÌ§avinÌ§as",
-            "en": "PlÌ§avinÌ§as",
-            "slug": "pli-avini-as-lv061l001"
-          },
-          "code": {
-            "id": "LV061L001",
-            "iso": null
-          }
-        }
-      ]
-    },
-    {
-      "id": "LV062",
-      "name": {
-        "local": "Kandavas",
-        "en": "Kandavas",
-        "slug": "kandavas-lv062"
-      },
-      "code": {
-        "id": "LV062",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV063",
-      "name": {
-        "local": "Riga",
-        "en": "Riga",
-        "slug": "riga-lv063"
-      },
-      "code": {
-        "id": "LV063",
-        "iso": null
-      },
-      "locality": [
-        {
-          "id": "LV063L001",
-          "name": {
-            "local": "Jaunciems",
-            "en": "Jaunciems",
-            "slug": "jaunciems-lv063l001"
-          },
-          "code": {
-            "id": "LV063L001",
-            "iso": null
-          }
-        },
-        {
-          "id": "LV063L002",
-          "name": {
-            "local": "Riga",
-            "en": "Riga",
-            "slug": "riga-lv063l002"
-          },
-          "code": {
-            "id": "LV063L002",
-            "iso": null
-          }
-        }
-      ]
-    },
-    {
-      "id": "LV064",
-      "name": {
-        "local": "RopaÅ¾u",
-        "en": "RopaÅ¾u",
-        "slug": "ropaa-u-lv064"
-      },
-      "code": {
-        "id": "LV064",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV065",
-      "name": {
-        "local": "Garkalnes",
-        "en": "Garkalnes",
-        "slug": "garkalnes-lv065"
-      },
-      "code": {
-        "id": "LV065",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV066",
-      "name": {
-        "local": "Ogres",
-        "en": "Ogres",
-        "slug": "ogres-lv066"
-      },
-      "code": {
-        "id": "LV066",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV067",
-      "name": {
-        "local": "Tukuma",
-        "en": "Tukuma",
-        "slug": "tukuma-lv067"
-      },
-      "code": {
-        "id": "LV067",
-        "iso": null
-      },
-      "locality": [
-        {
-          "id": "LV067L001",
-          "name": {
-            "local": "SÄ“me",
-            "en": "SÄ“me",
-            "slug": "sa-me-lv067l001"
-          },
-          "code": {
-            "id": "LV067L001",
-            "iso": null
-          }
-        }
-      ]
-    },
-    {
-      "id": "LV068",
-      "name": {
-        "local": "Erglu",
-        "en": "Erglu",
-        "slug": "erglu-lv068"
-      },
-      "code": {
-        "id": "LV068",
-        "iso": null
-      },
-      "locality": [
-        {
-          "id": "LV068L001",
-          "name": {
-            "local": "Ä’rglÌ§i",
-            "en": "Ä’rglÌ§i",
-            "slug": "a-rgli-i-lv068l001"
-          },
-          "code": {
-            "id": "LV068L001",
-            "iso": null
-          }
-        }
-      ]
-    },
-    {
-      "id": "LV069",
-      "name": {
-        "local": "Ciblas",
-        "en": "Ciblas",
-        "slug": "ciblas-lv069"
-      },
-      "code": {
-        "id": "LV069",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV070",
-      "name": {
-        "local": "Rezeknes",
-        "en": "Rezeknes",
-        "slug": "rezeknes-lv070"
-      },
-      "code": {
-        "id": "LV070",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV071",
-      "name": {
-        "local": "Malpils",
-        "en": "Malpils",
-        "slug": "malpils-lv071"
-      },
-      "code": {
-        "id": "LV071",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV072",
-      "name": {
-        "local": "Engures",
-        "en": "Engures",
-        "slug": "engures-lv072"
-      },
-      "code": {
-        "id": "LV072",
-        "iso": null
-      },
-      "locality": [
-        {
-          "id": "LV072L001",
-          "name": {
-            "local": "Ä¶esterciems",
-            "en": "Ä¶esterciems",
-            "slug": "a-esterciems-lv072l001"
-          },
-          "code": {
-            "id": "LV072L001",
-            "iso": null
-          }
-        },
-        {
-          "id": "LV072L002",
-          "name": {
-            "local": "PlieÅ†ciems",
-            "en": "PlieÅ†ciems",
-            "slug": "pliea-ciems-lv072l002"
-          },
-          "code": {
-            "id": "LV072L002",
-            "iso": null
-          }
-        },
-        {
-          "id": "LV072L003",
-          "name": {
-            "local": "BÄ“rzciems",
-            "en": "BÄ“rzciems",
-            "slug": "ba-rzciems-lv072l003"
-          },
-          "code": {
-            "id": "LV072L003",
-            "iso": null
-          }
-        },
-        {
-          "id": "LV072L004",
-          "name": {
-            "local": "Rauda",
-            "en": "Rauda",
-            "slug": "rauda-lv072l004"
-          },
-          "code": {
-            "id": "LV072L004",
-            "iso": null
-          }
-        },
-        {
-          "id": "LV072L005",
-          "name": {
-            "local": "Milzkalne",
-            "en": "Milzkalne",
-            "slug": "milzkalne-lv072l005"
-          },
-          "code": {
-            "id": "LV072L005",
-            "iso": null
-          }
-        },
-        {
-          "id": "LV072L006",
-          "name": {
-            "local": "SmÄ�rde",
-            "en": "SmÄ�rde",
-            "slug": "sma-rde-lv072l006"
-          },
-          "code": {
-            "id": "LV072L006",
-            "iso": null
-          }
-        },
-        {
-          "id": "LV072L007",
+          "id": "LV03L001",
           "name": {
             "local": "Ragaciems",
             "en": "Ragaciems",
-            "slug": "ragaciems-lv072l007"
+            "slug": "ragaciems-lv03l001"
           },
           "code": {
-            "id": "LV072L007",
+            "id": "LV03L001",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "LV04",
+      "name": {
+        "local": "Liepāja",
+        "en": "Liepaja",
+        "slug": "liepaja-lv04"
+      },
+      "code": {
+        "id": "LV04",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "LV04L001",
+          "name": {
+            "local": "Durbe",
+            "en": "Durbe",
+            "slug": "durbe-lv04l001"
+          },
+          "code": {
+            "id": "LV04L001",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "LV05",
+      "name": {
+        "local": "Rēzekne",
+        "en": "Rezekne",
+        "slug": "rezekne-lv05"
+      },
+      "code": {
+        "id": "LV05",
+        "iso": null
+      },
+      "locality": []
+    },
+    {
+      "id": "LV06",
+      "name": {
+        "local": "Rīga",
+        "en": "Riga",
+        "slug": "riga-lv06"
+      },
+      "code": {
+        "id": "LV06",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "LV06L001",
+          "name": {
+            "local": "Jaunciems",
+            "en": "Jaunciems",
+            "slug": "jaunciems-lv06l001"
+          },
+          "code": {
+            "id": "LV06L001",
             "iso": null
           }
         },
         {
-          "id": "LV072L008",
+          "id": "LV06L002",
           "name": {
-            "local": "ApÅ¡uciems",
-            "en": "ApÅ¡uciems",
-            "slug": "apa-uciems-lv072l008"
+            "local": "Riga",
+            "en": "Riga",
+            "slug": "riga-lv06l002"
           },
           "code": {
-            "id": "LV072L008",
+            "id": "LV06L002",
             "iso": null
           }
-        }
-      ]
-    },
-    {
-      "id": "LV073",
-      "name": {
-        "local": "Carnikavas",
-        "en": "Carnikavas",
-        "slug": "carnikavas-lv073"
-      },
-      "code": {
-        "id": "LV073",
-        "iso": null
-      },
-      "locality": [
+        },
         {
-          "id": "LV073L001",
+          "id": "LV06L003",
+          "name": {
+            "local": "Balozi",
+            "en": "Balozi",
+            "slug": "balozi-lv06l003"
+          },
+          "code": {
+            "id": "LV06L003",
+            "iso": null
+          }
+        },
+        {
+          "id": "LV06L004",
           "name": {
             "local": "Kalngale",
             "en": "Kalngale",
-            "slug": "kalngale-lv073l001"
+            "slug": "kalngale-lv06l004"
           },
           "code": {
-            "id": "LV073L001",
+            "id": "LV06L004",
             "iso": null
           }
         }
       ]
     },
     {
-      "id": "LV074",
-      "name": {
-        "local": "AdaÅ¾u",
-        "en": "AdaÅ¾u",
-        "slug": "adaa-u-lv074"
-      },
-      "code": {
-        "id": "LV074",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV075",
-      "name": {
-        "local": "Incukalna",
-        "en": "Incukalna",
-        "slug": "incukalna-lv075"
-      },
-      "code": {
-        "id": "LV075",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV076",
+      "id": "LV07",
       "name": {
         "local": "Ventspils",
         "en": "Ventspils",
-        "slug": "ventspils-lv076"
+        "slug": "ventspils-lv07"
       },
       "code": {
-        "id": "LV076",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV077",
-      "name": {
-        "local": "Mersraga",
-        "en": "Mersraga",
-        "slug": "mersraga-lv077"
-      },
-      "code": {
-        "id": "LV077",
+        "id": "LV07",
         "iso": null
       },
       "locality": [
         {
-          "id": "LV077L001",
+          "id": "LV07L001",
           "name": {
-            "local": "UpesgrÄ«va",
-            "en": "UpesgrÄ«va",
-            "slug": "upesgra-va-lv077l001"
+            "local": "JÅ«rkalne",
+            "en": "JÅ«rkalne",
+            "slug": "ja-rkalne-lv07l001"
           },
           "code": {
-            "id": "LV077L001",
+            "id": "LV07L001",
             "iso": null
           }
         }
       ]
     },
     {
-      "id": "LV078",
+      "id": "LV08",
       "name": {
-        "local": "Lubanas",
-        "en": "Lubanas",
-        "slug": "lubanas-lv078"
+        "local": "Ādažu novads",
+        "en": "Adazu",
+        "slug": "adazu-lv08"
       },
       "code": {
-        "id": "LV078",
+        "id": "LV08",
         "iso": null
       },
       "locality": []
     },
     {
-      "id": "LV079",
+      "id": "LV09",
       "name": {
-        "local": "Siguldas",
-        "en": "Siguldas",
-        "slug": "siguldas-lv079"
+        "local": "Aizkraukles novads",
+        "en": "Aizkraukles",
+        "slug": "aizkraukles-lv09"
       },
       "code": {
-        "id": "LV079",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV080",
-      "name": {
-        "local": "Karsavas",
-        "en": "Karsavas",
-        "slug": "karsavas-lv080"
-      },
-      "code": {
-        "id": "LV080",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV081",
-      "name": {
-        "local": "Madonas",
-        "en": "Madonas",
-        "slug": "madonas-lv081"
-      },
-      "code": {
-        "id": "LV081",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV082",
-      "name": {
-        "local": "Cesvaines",
-        "en": "Cesvaines",
-        "slug": "cesvaines-lv082"
-      },
-      "code": {
-        "id": "LV082",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV083",
-      "name": {
-        "local": "Ligatnes",
-        "en": "Ligatnes",
-        "slug": "ligatnes-lv083"
-      },
-      "code": {
-        "id": "LV083",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV084",
-      "name": {
-        "local": "Talsu",
-        "en": "Talsu",
-        "slug": "talsu-lv084"
-      },
-      "code": {
-        "id": "LV084",
+        "id": "LV09",
         "iso": null
       },
       "locality": [
         {
-          "id": "LV084L001",
+          "id": "LV09L001",
           "name": {
-            "local": "Ä¶uÄ¼ciems",
-            "en": "Ä¶uÄ¼ciems",
-            "slug": "a-ua-ciems-lv084l001"
+            "local": "Koknese",
+            "en": "Koknese",
+            "slug": "koknese-lv09l001"
           },
           "code": {
-            "id": "LV084L001",
+            "id": "LV09L001",
             "iso": null
           }
         }
       ]
     },
     {
-      "id": "LV085",
+      "id": "LV10",
       "name": {
-        "local": "Sejas",
-        "en": "Sejas",
-        "slug": "sejas-lv085"
+        "local": "Alūksnes novads",
+        "en": "Aluksnes",
+        "slug": "aluksnes-lv10"
       },
       "code": {
-        "id": "LV085",
+        "id": "LV10",
         "iso": null
       },
       "locality": []
     },
     {
-      "id": "LV086",
+      "id": "LV11",
       "name": {
-        "local": "Saulkrastu",
-        "en": "Saulkrastu",
-        "slug": "saulkrastu-lv086"
+        "local": "Augšdaugavas novads",
+        "en": "Augsdaugavas",
+        "slug": "augsdaugavas-lv11"
       },
       "code": {
-        "id": "LV086",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV087",
-      "name": {
-        "local": "Amatas",
-        "en": "Amatas",
-        "slug": "amatas-lv087"
-      },
-      "code": {
-        "id": "LV087",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV088",
-      "name": {
-        "local": "Jaunpiepalgas",
-        "en": "Jaunpiepalgas",
-        "slug": "jaunpiepalgas-lv088"
-      },
-      "code": {
-        "id": "LV088",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV089",
-      "name": {
-        "local": "Baltinavas",
-        "en": "Baltinavas",
-        "slug": "baltinavas-lv089"
-      },
-      "code": {
-        "id": "LV089",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV090",
-      "name": {
-        "local": "Rugaju",
-        "en": "Rugaju",
-        "slug": "rugaju-lv090"
-      },
-      "code": {
-        "id": "LV090",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV091",
-      "name": {
-        "local": "Vecpiebalgas",
-        "en": "Vecpiebalgas",
-        "slug": "vecpiebalgas-lv091"
-      },
-      "code": {
-        "id": "LV091",
+        "id": "LV11",
         "iso": null
       },
       "locality": [
         {
-          "id": "LV091L001",
+          "id": "LV11L001",
           "name": {
-            "local": "Vecpiebalga",
-            "en": "Vecpiebalga",
-            "slug": "vecpiebalga-lv091l001"
+            "local": "Lociki",
+            "en": "Lociki",
+            "slug": "lociki-lv11l001"
           },
           "code": {
-            "id": "LV091L001",
+            "id": "LV11L001",
             "iso": null
           }
         }
       ]
     },
     {
-      "id": "LV092",
+      "id": "LV12",
       "name": {
-        "local": "Cesu",
-        "en": "Cesu",
-        "slug": "cesu-lv092"
-      },
-      "code": {
-        "id": "LV092",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV093",
-      "name": {
-        "local": "Krimuldas",
-        "en": "Krimuldas",
-        "slug": "krimuldas-lv093"
-      },
-      "code": {
-        "id": "LV093",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV094",
-      "name": {
-        "local": "Raunas",
-        "en": "Raunas",
-        "slug": "raunas-lv094"
-      },
-      "code": {
-        "id": "LV094",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV095",
-      "name": {
-        "local": "Rojas",
-        "en": "Rojas",
-        "slug": "rojas-lv095"
-      },
-      "code": {
-        "id": "LV095",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV096",
-      "name": {
-        "local": "Pargaujas",
-        "en": "Pargaujas",
-        "slug": "pargaujas-lv096"
-      },
-      "code": {
-        "id": "LV096",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV097",
-      "name": {
-        "local": "Dundagas",
-        "en": "Dundagas",
-        "slug": "dundagas-lv097"
-      },
-      "code": {
-        "id": "LV097",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV098",
-      "name": {
-        "local": "Priekulu",
-        "en": "Priekulu",
-        "slug": "priekulu-lv098"
-      },
-      "code": {
-        "id": "LV098",
-        "iso": null
-      },
-      "locality": [
-        {
-          "id": "LV098L001",
-          "name": {
-            "local": "PriekulÌ§i",
-            "en": "PriekulÌ§i",
-            "slug": "priekuli-i-lv098l001"
-          },
-          "code": {
-            "id": "LV098L001",
-            "iso": null
-          }
-        }
-      ]
-    },
-    {
-      "id": "LV099",
-      "name": {
-        "local": "Balvu",
+        "local": "Balvu novads",
         "en": "Balvu",
-        "slug": "balvu-lv099"
+        "slug": "balvu-lv12"
       },
       "code": {
-        "id": "LV099",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV100",
-      "name": {
-        "local": "Gulbenes",
-        "en": "Gulbenes",
-        "slug": "gulbenes-lv100"
-      },
-      "code": {
-        "id": "LV100",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV101",
-      "name": {
-        "local": "Valmiera",
-        "en": "Valmiera",
-        "slug": "valmiera-lv101"
-      },
-      "code": {
-        "id": "LV101",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV102",
-      "name": {
-        "local": "Smiltenes",
-        "en": "Smiltenes",
-        "slug": "smiltenes-lv102"
-      },
-      "code": {
-        "id": "LV102",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV103",
-      "name": {
-        "local": "Vilakas",
-        "en": "Vilakas",
-        "slug": "vilakas-lv103"
-      },
-      "code": {
-        "id": "LV103",
+        "id": "LV12",
         "iso": null
       },
       "locality": [
         {
-          "id": "LV103L001",
+          "id": "LV12L001",
           "name": {
             "local": "VilÌ§aka",
             "en": "VilÌ§aka",
-            "slug": "vili-aka-lv103l001"
+            "slug": "vili-aka-lv12l001"
           },
           "code": {
-            "id": "LV103L001",
+            "id": "LV12L001",
             "iso": null
           }
         }
       ]
     },
     {
-      "id": "LV104",
+      "id": "LV13",
       "name": {
-        "local": "Kocenu",
-        "en": "Kocenu",
-        "slug": "kocenu-lv104"
+        "local": "Bauskas novads",
+        "en": "Bauskas",
+        "slug": "bauskas-lv13"
       },
       "code": {
-        "id": "LV104",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV105",
-      "name": {
-        "local": "Beverinas",
-        "en": "Beverinas",
-        "slug": "beverinas-lv105"
-      },
-      "code": {
-        "id": "LV105",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV106",
-      "name": {
-        "local": "LimbaÅ¾u",
-        "en": "LimbaÅ¾u",
-        "slug": "limbaa-u-lv106"
-      },
-      "code": {
-        "id": "LV106",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV107",
-      "name": {
-        "local": "Apes",
-        "en": "Apes",
-        "slug": "apes-lv107"
-      },
-      "code": {
-        "id": "LV107",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV108",
-      "name": {
-        "local": "Strencu",
-        "en": "Strencu",
-        "slug": "strencu-lv108"
-      },
-      "code": {
-        "id": "LV108",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV109",
-      "name": {
-        "local": "Aluksnes",
-        "en": "Aluksnes",
-        "slug": "aluksnes-lv109"
-      },
-      "code": {
-        "id": "LV109",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV110",
-      "name": {
-        "local": "Burtnieku",
-        "en": "Burtnieku",
-        "slug": "burtnieku-lv110"
-      },
-      "code": {
-        "id": "LV110",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV111",
-      "name": {
-        "local": "Salacgrivas",
-        "en": "Salacgrivas",
-        "slug": "salacgrivas-lv111"
-      },
-      "code": {
-        "id": "LV111",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV112",
-      "name": {
-        "local": "Alojas",
-        "en": "Alojas",
-        "slug": "alojas-lv112"
-      },
-      "code": {
-        "id": "LV112",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV113",
-      "name": {
-        "local": "Valkas",
-        "en": "Valkas",
-        "slug": "valkas-lv113"
-      },
-      "code": {
-        "id": "LV113",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV114",
-      "name": {
-        "local": "Nauksenu",
-        "en": "Nauksenu",
-        "slug": "nauksenu-lv114"
-      },
-      "code": {
-        "id": "LV114",
-        "iso": null
-      },
-      "locality": []
-    },
-    {
-      "id": "LV115",
-      "name": {
-        "local": "Mazsalacas",
-        "en": "Mazsalacas",
-        "slug": "mazsalacas-lv115"
-      },
-      "code": {
-        "id": "LV115",
+        "id": "LV13",
         "iso": null
       },
       "locality": [
         {
-          "id": "LV115L001",
+          "id": "LV13L001",
           "name": {
-            "local": "Mazsalace",
-            "en": "Mazsalace",
-            "slug": "mazsalace-lv115l001"
+            "local": "RundÄ�le",
+            "en": "RundÄ�le",
+            "slug": "runda-le-lv13l001"
           },
           "code": {
-            "id": "LV115L001",
+            "id": "LV13L001",
             "iso": null
           }
         }
       ]
     },
     {
-      "id": "LV116",
+      "id": "LV14",
       "name": {
-        "local": "Rujienas",
-        "en": "Rujienas",
-        "slug": "rujienas-lv116"
+        "local": "Cēsu novads",
+        "en": "Cesu",
+        "slug": "cesu-lv14"
       },
       "code": {
-        "id": "LV116",
+        "id": "LV14",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "LV14L001",
+          "name": {
+            "local": "PriekulÌ§i",
+            "en": "PriekulÌ§i",
+            "slug": "priekuli-i-lv14l001"
+          },
+          "code": {
+            "id": "LV14L001",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "LV15",
+      "name": {
+        "local": "Dienvidkurzemes novads",
+        "en": "Dienvidkurzemes",
+        "slug": "dienvidkurzemes-lv15"
+      },
+      "code": {
+        "id": "LV15",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "LV15L001",
+          "name": {
+            "local": "Rucava",
+            "en": "Rucava",
+            "slug": "rucava-lv15l001"
+          },
+          "code": {
+            "id": "LV15L001",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "LV16",
+      "name": {
+        "local": "Dobeles novads",
+        "en": "Dobeles",
+        "slug": "dobeles-lv16"
+      },
+      "code": {
+        "id": "LV16",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "LV16L001",
+          "name": {
+            "local": "TÄ“rvete",
+            "en": "TÄ“rvete",
+            "slug": "ta-rvete-lv16l001"
+          },
+          "code": {
+            "id": "LV16L001",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "LV17",
+      "name": {
+        "local": "Gulbenes novads",
+        "en": "Gulbenes",
+        "slug": "gulbenes-lv17"
+      },
+      "code": {
+        "id": "LV17",
         "iso": null
       },
       "locality": []
+    },
+    {
+      "id": "LV18",
+      "name": {
+        "local": "Jelgavas novads",
+        "en": "Jelgavas",
+        "slug": "jelgavas-lv18"
+      },
+      "code": {
+        "id": "LV18",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "LV18L001",
+          "name": {
+            "local": "TÄ«reÄ¼i",
+            "en": "TÄ«reÄ¼i",
+            "slug": "ta-rea-i-lv18l001"
+          },
+          "code": {
+            "id": "LV18L001",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "LV19",
+      "name": {
+        "local": "Jēkabpils novads",
+        "en": "Jekabpils",
+        "slug": "jekabpils-lv19"
+      },
+      "code": {
+        "id": "LV19",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "LV19L001",
+          "name": {
+            "local": "Ä’rglÌ§i",
+            "en": "Ä’rglÌ§i",
+            "slug": "a-rgli-i-lv19l001"
+          },
+          "code": {
+            "id": "LV19L001",
+            "iso": null
+          }
+        },
+        {
+          "id": "LV19L002",
+          "name": {
+            "local": "PlÌ§avinÌ§as",
+            "en": "PlÌ§avinÌ§as",
+            "slug": "pli-avini-as-lv19l002"
+          },
+          "code": {
+            "id": "LV19L002",
+            "iso": null
+          }
+        },
+        {
+          "id": "LV19L003",
+          "name": {
+            "local": "Krustpils",
+            "en": "Krustpils",
+            "slug": "krustpils-lv19l003"
+          },
+          "code": {
+            "id": "LV19L003",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "LV20",
+      "name": {
+        "local": "Krāslavas novads",
+        "en": "Kraslavas",
+        "slug": "kraslavas-lv20"
+      },
+      "code": {
+        "id": "LV20",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "LV20L001",
+          "name": {
+            "local": "Jaunaglona",
+            "en": "Jaunaglona",
+            "slug": "jaunaglona-lv20l001"
+          },
+          "code": {
+            "id": "LV20L001",
+            "iso": null
+          }
+        },
+        {
+          "id": "LV20L002",
+          "name": {
+            "local": "Paternieki",
+            "en": "Paternieki",
+            "slug": "paternieki-lv20l002"
+          },
+          "code": {
+            "id": "LV20L002",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "LV21",
+      "name": {
+        "local": "Kuldīgas novads",
+        "en": "Kuldigas",
+        "slug": "kuldigas-lv21"
+      },
+      "code": {
+        "id": "LV21",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "LV21L001",
+          "name": {
+            "local": "Ä’dole",
+            "en": "Ä’dole",
+            "slug": "a-dole-lv21l001"
+          },
+          "code": {
+            "id": "LV21L001",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "LV22",
+      "name": {
+        "local": "Ķekavas novads",
+        "en": "Kekavas",
+        "slug": "kekavas-lv22"
+      },
+      "code": {
+        "id": "LV22",
+        "iso": null
+      },
+      "locality": []
+    },
+    {
+      "id": "LV23",
+      "name": {
+        "local": "Limbažu novads",
+        "en": "Limbazu",
+        "slug": "limbazu-lv23"
+      },
+      "code": {
+        "id": "LV23",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "LV23L001",
+          "name": {
+            "local": "Mazsalace",
+            "en": "Mazsalace",
+            "slug": "mazsalace-lv23l001"
+          },
+          "code": {
+            "id": "LV23L001",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "LV24",
+      "name": {
+        "local": "Līvānu novads",
+        "en": "Livanu",
+        "slug": "livanu-lv24"
+      },
+      "code": {
+        "id": "LV24",
+        "iso": null
+      },
+      "locality": []
+    },
+    {
+      "id": "LV25",
+      "name": {
+        "local": "Ludzas novads",
+        "en": "Ludzas",
+        "slug": "ludzas-lv25"
+      },
+      "code": {
+        "id": "LV25",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "LV25L001",
+          "name": {
+            "local": "Terehova",
+            "en": "Terehova",
+            "slug": "terehova-lv25l001"
+          },
+          "code": {
+            "id": "LV25L001",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "LV26",
+      "name": {
+        "local": "Madonas novads",
+        "en": "Madonas",
+        "slug": "madonas-lv26"
+      },
+      "code": {
+        "id": "LV26",
+        "iso": null
+      },
+      "locality": []
+    },
+    {
+      "id": "LV27",
+      "name": {
+        "local": "Mārupes novads",
+        "en": "Marupes",
+        "slug": "marupes-lv27"
+      },
+      "code": {
+        "id": "LV27",
+        "iso": null
+      },
+      "locality": []
+    },
+    {
+      "id": "LV28",
+      "name": {
+        "local": "Ogres novads",
+        "en": "Ogres",
+        "slug": "ogres-lv28"
+      },
+      "code": {
+        "id": "LV28",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "LV28L001",
+          "name": {
+            "local": "BeibeÅ¾i",
+            "en": "BeibeÅ¾i",
+            "slug": "beibea-i-lv28l001"
+          },
+          "code": {
+            "id": "LV28L001",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "LV29",
+      "name": {
+        "local": "Olaines novads",
+        "en": "Olaines",
+        "slug": "olaines-lv29"
+      },
+      "code": {
+        "id": "LV29",
+        "iso": null
+      },
+      "locality": []
+    },
+    {
+      "id": "LV30",
+      "name": {
+        "local": "Preiļu novads",
+        "en": "Preilu",
+        "slug": "preilu-lv30"
+      },
+      "code": {
+        "id": "LV30",
+        "iso": null
+      },
+      "locality": []
+    },
+    {
+      "id": "LV31",
+      "name": {
+        "local": "Rēzeknes novads",
+        "en": "Rezeknes",
+        "slug": "rezeknes-lv31"
+      },
+      "code": {
+        "id": "LV31",
+        "iso": null
+      },
+      "locality": []
+    },
+    {
+      "id": "LV32",
+      "name": {
+        "local": "Ropažu novads",
+        "en": "Ropazu",
+        "slug": "ropazu-lv32"
+      },
+      "code": {
+        "id": "LV32",
+        "iso": null
+      },
+      "locality": []
+    },
+    {
+      "id": "LV33",
+      "name": {
+        "local": "Saldus novads",
+        "en": "Saldus",
+        "slug": "saldus-lv33"
+      },
+      "code": {
+        "id": "LV33",
+        "iso": null
+      },
+      "locality": []
+    },
+    {
+      "id": "LV34",
+      "name": {
+        "local": "Salaspils novads",
+        "en": "Salaspils",
+        "slug": "salaspils-lv34"
+      },
+      "code": {
+        "id": "LV34",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "LV34L001",
+          "name": {
+            "local": "Upeslejas",
+            "en": "Upeslejas",
+            "slug": "upeslejas-lv34l001"
+          },
+          "code": {
+            "id": "LV34L001",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "LV35",
+      "name": {
+        "local": "Saulkrastu novads",
+        "en": "Saulkrastu",
+        "slug": "saulkrastu-lv35"
+      },
+      "code": {
+        "id": "LV35",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "LV35L001",
+          "name": {
+            "local": "Dunte",
+            "en": "Dunte",
+            "slug": "dunte-lv35l001"
+          },
+          "code": {
+            "id": "LV35L001",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "LV36",
+      "name": {
+        "local": "Siguldas novads",
+        "en": "Siguldas",
+        "slug": "siguldas-lv36"
+      },
+      "code": {
+        "id": "LV36",
+        "iso": null
+      },
+      "locality": []
+    },
+    {
+      "id": "LV37",
+      "name": {
+        "local": "Smiltenes novads",
+        "en": "Smiltenes",
+        "slug": "smiltenes-lv37"
+      },
+      "code": {
+        "id": "LV37",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "LV37L001",
+          "name": {
+            "local": "Vecpiebalga",
+            "en": "Vecpiebalga",
+            "slug": "vecpiebalga-lv37l001"
+          },
+          "code": {
+            "id": "LV37L001",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "LV38",
+      "name": {
+        "local": "Talsu novads",
+        "en": "Talsu",
+        "slug": "talsu-lv38"
+      },
+      "code": {
+        "id": "LV38",
+        "iso": null
+      },
+      "locality": []
+    },
+    {
+      "id": "LV39",
+      "name": {
+        "local": "Tukuma novads",
+        "en": "Tukuma",
+        "slug": "tukuma-lv39"
+      },
+      "code": {
+        "id": "LV39",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "LV39L001",
+          "name": {
+            "local": "Ä¶esterciems",
+            "en": "Ä¶esterciems",
+            "slug": "a-esterciems-lv39l001"
+          },
+          "code": {
+            "id": "LV39L001",
+            "iso": null
+          }
+        },
+        {
+          "id": "LV39L002",
+          "name": {
+            "local": "Klapkalnciems",
+            "en": "Klapkalnciems",
+            "slug": "klapkalnciems-lv39l002"
+          },
+          "code": {
+            "id": "LV39L002",
+            "iso": null
+          }
+        },
+        {
+          "id": "LV39L003",
+          "name": {
+            "local": "Lielaisciems",
+            "en": "Lielaisciems",
+            "slug": "lielaisciems-lv39l003"
+          },
+          "code": {
+            "id": "LV39L003",
+            "iso": null
+          }
+        },
+        {
+          "id": "LV39L004",
+          "name": {
+            "local": "PlieÅ†ciems",
+            "en": "PlieÅ†ciems",
+            "slug": "pliea-ciems-lv39l004"
+          },
+          "code": {
+            "id": "LV39L004",
+            "iso": null
+          }
+        },
+        {
+          "id": "LV39L005",
+          "name": {
+            "local": "Dzirciems",
+            "en": "Dzirciems",
+            "slug": "dzirciems-lv39l005"
+          },
+          "code": {
+            "id": "LV39L005",
+            "iso": null
+          }
+        },
+        {
+          "id": "LV39L006",
+          "name": {
+            "local": "AlksnÄ�jciems",
+            "en": "AlksnÄ�jciems",
+            "slug": "alksna-jciems-lv39l006"
+          },
+          "code": {
+            "id": "LV39L006",
+            "iso": null
+          }
+        },
+        {
+          "id": "LV39L007",
+          "name": {
+            "local": "BÄ“rzciems",
+            "en": "BÄ“rzciems",
+            "slug": "ba-rzciems-lv39l007"
+          },
+          "code": {
+            "id": "LV39L007",
+            "iso": null
+          }
+        },
+        {
+          "id": "LV39L008",
+          "name": {
+            "local": "Rauda",
+            "en": "Rauda",
+            "slug": "rauda-lv39l008"
+          },
+          "code": {
+            "id": "LV39L008",
+            "iso": null
+          }
+        },
+        {
+          "id": "LV39L009",
+          "name": {
+            "local": "RideÄ¼i",
+            "en": "RideÄ¼i",
+            "slug": "ridea-i-lv39l009"
+          },
+          "code": {
+            "id": "LV39L009",
+            "iso": null
+          }
+        },
+        {
+          "id": "LV39L010",
+          "name": {
+            "local": "SÄ“me",
+            "en": "SÄ“me",
+            "slug": "sa-me-lv39l010"
+          },
+          "code": {
+            "id": "LV39L010",
+            "iso": null
+          }
+        },
+        {
+          "id": "LV39L011",
+          "name": {
+            "local": "JaunpÄ¼avas",
+            "en": "JaunpÄ¼avas",
+            "slug": "jaunpa-avas-lv39l011"
+          },
+          "code": {
+            "id": "LV39L011",
+            "iso": null
+          }
+        },
+        {
+          "id": "LV39L012",
+          "name": {
+            "local": "Milzkalne",
+            "en": "Milzkalne",
+            "slug": "milzkalne-lv39l012"
+          },
+          "code": {
+            "id": "LV39L012",
+            "iso": null
+          }
+        },
+        {
+          "id": "LV39L013",
+          "name": {
+            "local": "Dzedri",
+            "en": "Dzedri",
+            "slug": "dzedri-lv39l013"
+          },
+          "code": {
+            "id": "LV39L013",
+            "iso": null
+          }
+        },
+        {
+          "id": "LV39L014",
+          "name": {
+            "local": "SmÄ�rde",
+            "en": "SmÄ�rde",
+            "slug": "sma-rde-lv39l014"
+          },
+          "code": {
+            "id": "LV39L014",
+            "iso": null
+          }
+        },
+        {
+          "id": "LV39L015",
+          "name": {
+            "local": "Vilkasala",
+            "en": "Vilkasala",
+            "slug": "vilkasala-lv39l015"
+          },
+          "code": {
+            "id": "LV39L015",
+            "iso": null
+          }
+        },
+        {
+          "id": "LV39L016",
+          "name": {
+            "local": "Brizule",
+            "en": "Brizule",
+            "slug": "brizule-lv39l016"
+          },
+          "code": {
+            "id": "LV39L016",
+            "iso": null
+          }
+        },
+        {
+          "id": "LV39L017",
+          "name": {
+            "local": "Ä¶uÄ¼ciems",
+            "en": "Ä¶uÄ¼ciems",
+            "slug": "a-ua-ciems-lv39l017"
+          },
+          "code": {
+            "id": "LV39L017",
+            "iso": null
+          }
+        },
+        {
+          "id": "LV39L018",
+          "name": {
+            "local": "Rindzele",
+            "en": "Rindzele",
+            "slug": "rindzele-lv39l018"
+          },
+          "code": {
+            "id": "LV39L018",
+            "iso": null
+          }
+        },
+        {
+          "id": "LV39L019",
+          "name": {
+            "local": "Ä¶ipatciems",
+            "en": "Ä¶ipatciems",
+            "slug": "a-ipatciems-lv39l019"
+          },
+          "code": {
+            "id": "LV39L019",
+            "iso": null
+          }
+        },
+        {
+          "id": "LV39L020",
+          "name": {
+            "local": "CÄ“rkste",
+            "en": "CÄ“rkste",
+            "slug": "ca-rkste-lv39l020"
+          },
+          "code": {
+            "id": "LV39L020",
+            "iso": null
+          }
+        },
+        {
+          "id": "LV39L021",
+          "name": {
+            "local": "Kaive",
+            "en": "Kaive",
+            "slug": "kaive-lv39l021"
+          },
+          "code": {
+            "id": "LV39L021",
+            "iso": null
+          }
+        },
+        {
+          "id": "LV39L022",
+          "name": {
+            "local": "Vecmokas",
+            "en": "Vecmokas",
+            "slug": "vecmokas-lv39l022"
+          },
+          "code": {
+            "id": "LV39L022",
+            "iso": null
+          }
+        },
+        {
+          "id": "LV39L023",
+          "name": {
+            "local": "Abragciems",
+            "en": "Abragciems",
+            "slug": "abragciems-lv39l023"
+          },
+          "code": {
+            "id": "LV39L023",
+            "iso": null
+          }
+        },
+        {
+          "id": "LV39L024",
+          "name": {
+            "local": "UpesgrÄ«va",
+            "en": "UpesgrÄ«va",
+            "slug": "upesgra-va-lv39l024"
+          },
+          "code": {
+            "id": "LV39L024",
+            "iso": null
+          }
+        },
+        {
+          "id": "LV39L025",
+          "name": {
+            "local": "ApÅ¡uciems",
+            "en": "ApÅ¡uciems",
+            "slug": "apa-uciems-lv39l025"
+          },
+          "code": {
+            "id": "LV39L025",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "LV40",
+      "name": {
+        "local": "Valkas novads",
+        "en": "Valkas",
+        "slug": "valkas-lv40"
+      },
+      "code": {
+        "id": "LV40",
+        "iso": null
+      },
+      "locality": []
+    },
+    {
+      "id": "LV41",
+      "name": {
+        "local": "Valmieras novads",
+        "en": "Valmieras",
+        "slug": "valmieras-lv41"
+      },
+      "code": {
+        "id": "LV41",
+        "iso": null
+      },
+      "locality": []
+    },
+    {
+      "id": "LV42",
+      "name": {
+        "local": "Varakļānu novads",
+        "en": "Varaklanu",
+        "slug": "varaklanu-lv42"
+      },
+      "code": {
+        "id": "LV42",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "LV42L001",
+          "name": {
+            "local": "VaraklÌ§Ä�ni",
+            "en": "VaraklÌ§Ä�ni",
+            "slug": "varakli-a-ni-lv42l001"
+          },
+          "code": {
+            "id": "LV42L001",
+            "iso": null
+          }
+        },
+        {
+          "id": "LV42L002",
+          "name": {
+            "local": "VilÌ§Ä�ni",
+            "en": "VilÌ§Ä�ni",
+            "slug": "vili-a-ni-lv42l002"
+          },
+          "code": {
+            "id": "LV42L002",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "LV43",
+      "name": {
+        "local": "Ventspils novads",
+        "en": "Ventspils",
+        "slug": "ventspils-lv43"
+      },
+      "code": {
+        "id": "LV43",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "LV43L001",
+          "name": {
+            "local": "Usma",
+            "en": "Usma",
+            "slug": "usma-lv43l001"
+          },
+          "code": {
+            "id": "LV43L001",
+            "iso": null
+          }
+        }
+      ]
     }
   ]
 }

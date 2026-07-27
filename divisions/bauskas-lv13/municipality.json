@@ -1,0 +1,33 @@
+{
+  "id": "LV13",
+  "level": 1,
+  "level_name": {
+    "local": "Novads/Valstspilsēta",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Bauskas novads",
+    "en": "Bauskas",
+    "slug": "bauskas-lv13"
+  },
+  "code": {
+    "id": "LV13",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.408",
+    "lon": "24.195"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/bauskas-lv13/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

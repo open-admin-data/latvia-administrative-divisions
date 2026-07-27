@@ -1,0 +1,33 @@
+{
+  "id": "LV14",
+  "level": 1,
+  "level_name": {
+    "local": "Novads/Valstspilsēta",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cēsu novads",
+    "en": "Cesu",
+    "slug": "cesu-lv14"
+  },
+  "code": {
+    "id": "LV14",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "57.312",
+    "lon": "25.273"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/cesu-lv14/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

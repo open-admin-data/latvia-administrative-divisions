@@ -1,0 +1,33 @@
+{
+  "id": "LV06",
+  "level": 1,
+  "level_name": {
+    "local": "Novads/Valstspilsēta",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Rīga",
+    "en": "Riga",
+    "slug": "riga-lv06"
+  },
+  "code": {
+    "id": "LV06",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.949",
+    "lon": "24.106"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/riga-lv06/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

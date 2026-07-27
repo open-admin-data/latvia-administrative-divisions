@@ -1,0 +1,45 @@
+{
+  "id": "LV43L001",
+  "level": 2,
+  "level_name": {
+    "local": "Apdzīvota vieta",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Usma",
+    "en": "Usma",
+    "slug": "usma-lv43l001"
+  },
+  "code": {
+    "id": "LV43L001",
+    "iso": null
+  },
+  "parent": {
+    "id": "LV43",
+    "level": 1,
+    "name": {
+      "local": "Ventspils novads",
+      "en": "Ventspils",
+      "slug": "ventspils-lv43"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LV43",
+      "level": 1,
+      "name": {
+        "local": "Ventspils novads",
+        "en": "Ventspils",
+        "slug": "ventspils-lv43"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "57.218",
+    "lon": "22.155"
+  },
+  "metadata": {},
+  "source": {}
+}

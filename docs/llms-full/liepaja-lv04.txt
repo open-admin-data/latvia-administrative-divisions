@@ -1,0 +1,14 @@
+# Liepaja — Latvia Administrative Divisions
+
+> 1 localitys
+> Code: LV04
+> Coordinates: 56.505, 21.011
+> Last updated: 2026-07-27. License: CC-BY-4.0.
+
+## Localitys
+
+### Durbe
+
+Code: LV04L001, Coordinates: 56.589, 21.37
+
+

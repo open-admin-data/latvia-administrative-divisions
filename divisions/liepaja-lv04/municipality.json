@@ -1,0 +1,33 @@
+{
+  "id": "LV04",
+  "level": 1,
+  "level_name": {
+    "local": "Novads/Valstspilsēta",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Liepāja",
+    "en": "Liepaja",
+    "slug": "liepaja-lv04"
+  },
+  "code": {
+    "id": "LV04",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.505",
+    "lon": "21.011"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/liepaja-lv04/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

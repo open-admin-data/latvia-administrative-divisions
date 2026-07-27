@@ -1,0 +1,1127 @@
+[
+  {
+    "id": "LV39L001",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ä¶esterciems",
+      "en": "Ä¶esterciems",
+      "slug": "a-esterciems-lv39l001"
+    },
+    "code": {
+      "id": "LV39L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV39",
+      "level": 1,
+      "name": {
+        "local": "Tukuma novads",
+        "en": "Tukuma",
+        "slug": "tukuma-lv39"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV39",
+        "level": 1,
+        "name": {
+          "local": "Tukuma novads",
+          "en": "Tukuma",
+          "slug": "tukuma-lv39"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "57.115",
+      "lon": "23.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LV39L019",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ä¶ipatciems",
+      "en": "Ä¶ipatciems",
+      "slug": "a-ipatciems-lv39l019"
+    },
+    "code": {
+      "id": "LV39L019",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV39",
+      "level": 1,
+      "name": {
+        "local": "Tukuma novads",
+        "en": "Tukuma",
+        "slug": "tukuma-lv39"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV39",
+        "level": 1,
+        "name": {
+          "local": "Tukuma novads",
+          "en": "Tukuma",
+          "slug": "tukuma-lv39"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "57.333",
+      "lon": "23.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LV39L017",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ä¶uÄ¼ciems",
+      "en": "Ä¶uÄ¼ciems",
+      "slug": "a-ua-ciems-lv39l017"
+    },
+    "code": {
+      "id": "LV39L017",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV39",
+      "level": 1,
+      "name": {
+        "local": "Tukuma novads",
+        "en": "Tukuma",
+        "slug": "tukuma-lv39"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV39",
+        "level": 1,
+        "name": {
+          "local": "Tukuma novads",
+          "en": "Tukuma",
+          "slug": "tukuma-lv39"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "57.266",
+      "lon": "23.032"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LV39L023",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Abragciems",
+      "en": "Abragciems",
+      "slug": "abragciems-lv39l023"
+    },
+    "code": {
+      "id": "LV39L023",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV39",
+      "level": 1,
+      "name": {
+        "local": "Tukuma novads",
+        "en": "Tukuma",
+        "slug": "tukuma-lv39"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV39",
+        "level": 1,
+        "name": {
+          "local": "Tukuma novads",
+          "en": "Tukuma",
+          "slug": "tukuma-lv39"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "57.203",
+      "lon": "23.204"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LV39L006",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "AlksnÄ�jciems",
+      "en": "AlksnÄ�jciems",
+      "slug": "alksna-jciems-lv39l006"
+    },
+    "code": {
+      "id": "LV39L006",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV39",
+      "level": 1,
+      "name": {
+        "local": "Tukuma novads",
+        "en": "Tukuma",
+        "slug": "tukuma-lv39"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV39",
+        "level": 1,
+        "name": {
+          "local": "Tukuma novads",
+          "en": "Tukuma",
+          "slug": "tukuma-lv39"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "57.314",
+      "lon": "23.031"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LV39L025",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ApÅ¡uciems",
+      "en": "ApÅ¡uciems",
+      "slug": "apa-uciems-lv39l025"
+    },
+    "code": {
+      "id": "LV39L025",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV39",
+      "level": 1,
+      "name": {
+        "local": "Tukuma novads",
+        "en": "Tukuma",
+        "slug": "tukuma-lv39"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV39",
+        "level": 1,
+        "name": {
+          "local": "Tukuma novads",
+          "en": "Tukuma",
+          "slug": "tukuma-lv39"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "57.062",
+      "lon": "23.306"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LV39L007",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "BÄ“rzciems",
+      "en": "BÄ“rzciems",
+      "slug": "ba-rzciems-lv39l007"
+    },
+    "code": {
+      "id": "LV39L007",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV39",
+      "level": 1,
+      "name": {
+        "local": "Tukuma novads",
+        "en": "Tukuma",
+        "slug": "tukuma-lv39"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV39",
+        "level": 1,
+        "name": {
+          "local": "Tukuma novads",
+          "en": "Tukuma",
+          "slug": "tukuma-lv39"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "57.246",
+      "lon": "23.174"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LV39L016",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Brizule",
+      "en": "Brizule",
+      "slug": "brizule-lv39l016"
+    },
+    "code": {
+      "id": "LV39L016",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV39",
+      "level": 1,
+      "name": {
+        "local": "Tukuma novads",
+        "en": "Tukuma",
+        "slug": "tukuma-lv39"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV39",
+        "level": 1,
+        "name": {
+          "local": "Tukuma novads",
+          "en": "Tukuma",
+          "slug": "tukuma-lv39"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "57.091",
+      "lon": "23.088"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LV39L020",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "CÄ“rkste",
+      "en": "CÄ“rkste",
+      "slug": "ca-rkste-lv39l020"
+    },
+    "code": {
+      "id": "LV39L020",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV39",
+      "level": 1,
+      "name": {
+        "local": "Tukuma novads",
+        "en": "Tukuma",
+        "slug": "tukuma-lv39"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV39",
+        "level": 1,
+        "name": {
+          "local": "Tukuma novads",
+          "en": "Tukuma",
+          "slug": "tukuma-lv39"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "57.029",
+      "lon": "23.252"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LV39L013",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Dzedri",
+      "en": "Dzedri",
+      "slug": "dzedri-lv39l013"
+    },
+    "code": {
+      "id": "LV39L013",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV39",
+      "level": 1,
+      "name": {
+        "local": "Tukuma novads",
+        "en": "Tukuma",
+        "slug": "tukuma-lv39"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV39",
+        "level": 1,
+        "name": {
+          "local": "Tukuma novads",
+          "en": "Tukuma",
+          "slug": "tukuma-lv39"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "57.25",
+      "lon": "23.036"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LV39L005",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Dzirciems",
+      "en": "Dzirciems",
+      "slug": "dzirciems-lv39l005"
+    },
+    "code": {
+      "id": "LV39L005",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV39",
+      "level": 1,
+      "name": {
+        "local": "Tukuma novads",
+        "en": "Tukuma",
+        "slug": "tukuma-lv39"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV39",
+        "level": 1,
+        "name": {
+          "local": "Tukuma novads",
+          "en": "Tukuma",
+          "slug": "tukuma-lv39"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "57.121",
+      "lon": "23.013"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LV39L011",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "JaunpÄ¼avas",
+      "en": "JaunpÄ¼avas",
+      "slug": "jaunpa-avas-lv39l011"
+    },
+    "code": {
+      "id": "LV39L011",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV39",
+      "level": 1,
+      "name": {
+        "local": "Tukuma novads",
+        "en": "Tukuma",
+        "slug": "tukuma-lv39"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV39",
+        "level": 1,
+        "name": {
+          "local": "Tukuma novads",
+          "en": "Tukuma",
+          "slug": "tukuma-lv39"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "57.206",
+      "lon": "23.055"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LV39L021",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Kaive",
+      "en": "Kaive",
+      "slug": "kaive-lv39l021"
+    },
+    "code": {
+      "id": "LV39L021",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV39",
+      "level": 1,
+      "name": {
+        "local": "Tukuma novads",
+        "en": "Tukuma",
+        "slug": "tukuma-lv39"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV39",
+        "level": 1,
+        "name": {
+          "local": "Tukuma novads",
+          "en": "Tukuma",
+          "slug": "tukuma-lv39"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "57.061",
+      "lon": "23.027"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LV39L002",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Klapkalnciems",
+      "en": "Klapkalnciems",
+      "slug": "klapkalnciems-lv39l002"
+    },
+    "code": {
+      "id": "LV39L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV39",
+      "level": 1,
+      "name": {
+        "local": "Tukuma novads",
+        "en": "Tukuma",
+        "slug": "tukuma-lv39"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV39",
+        "level": 1,
+        "name": {
+          "local": "Tukuma novads",
+          "en": "Tukuma",
+          "slug": "tukuma-lv39"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "57.041",
+      "lon": "23.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LV39L003",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Lielaisciems",
+      "en": "Lielaisciems",
+      "slug": "lielaisciems-lv39l003"
+    },
+    "code": {
+      "id": "LV39L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV39",
+      "level": 1,
+      "name": {
+        "local": "Tukuma novads",
+        "en": "Tukuma",
+        "slug": "tukuma-lv39"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV39",
+        "level": 1,
+        "name": {
+          "local": "Tukuma novads",
+          "en": "Tukuma",
+          "slug": "tukuma-lv39"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "57.011",
+      "lon": "23.276"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LV39L012",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Milzkalne",
+      "en": "Milzkalne",
+      "slug": "milzkalne-lv39l012"
+    },
+    "code": {
+      "id": "LV39L012",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV39",
+      "level": 1,
+      "name": {
+        "local": "Tukuma novads",
+        "en": "Tukuma",
+        "slug": "tukuma-lv39"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV39",
+        "level": 1,
+        "name": {
+          "local": "Tukuma novads",
+          "en": "Tukuma",
+          "slug": "tukuma-lv39"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "56.978",
+      "lon": "23.226"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LV39L004",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "PlieÅ†ciems",
+      "en": "PlieÅ†ciems",
+      "slug": "pliea-ciems-lv39l004"
+    },
+    "code": {
+      "id": "LV39L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV39",
+      "level": 1,
+      "name": {
+        "local": "Tukuma novads",
+        "en": "Tukuma",
+        "slug": "tukuma-lv39"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV39",
+        "level": 1,
+        "name": {
+          "local": "Tukuma novads",
+          "en": "Tukuma",
+          "slug": "tukuma-lv39"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "57.083",
+      "lon": "23.264"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LV39L008",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Rauda",
+      "en": "Rauda",
+      "slug": "rauda-lv39l008"
+    },
+    "code": {
+      "id": "LV39L008",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV39",
+      "level": 1,
+      "name": {
+        "local": "Tukuma novads",
+        "en": "Tukuma",
+        "slug": "tukuma-lv39"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV39",
+        "level": 1,
+        "name": {
+          "local": "Tukuma novads",
+          "en": "Tukuma",
+          "slug": "tukuma-lv39"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "57.009",
+      "lon": "23.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LV39L009",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "RideÄ¼i",
+      "en": "RideÄ¼i",
+      "slug": "ridea-i-lv39l009"
+    },
+    "code": {
+      "id": "LV39L009",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV39",
+      "level": 1,
+      "name": {
+        "local": "Tukuma novads",
+        "en": "Tukuma",
+        "slug": "tukuma-lv39"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV39",
+        "level": 1,
+        "name": {
+          "local": "Tukuma novads",
+          "en": "Tukuma",
+          "slug": "tukuma-lv39"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "57.137",
+      "lon": "23.101"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LV39L018",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Rindzele",
+      "en": "Rindzele",
+      "slug": "rindzele-lv39l018"
+    },
+    "code": {
+      "id": "LV39L018",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV39",
+      "level": 1,
+      "name": {
+        "local": "Tukuma novads",
+        "en": "Tukuma",
+        "slug": "tukuma-lv39"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV39",
+        "level": 1,
+        "name": {
+          "local": "Tukuma novads",
+          "en": "Tukuma",
+          "slug": "tukuma-lv39"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "57.141",
+      "lon": "23.049"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LV39L010",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "SÄ“me",
+      "en": "SÄ“me",
+      "slug": "sa-me-lv39l010"
+    },
+    "code": {
+      "id": "LV39L010",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV39",
+      "level": 1,
+      "name": {
+        "local": "Tukuma novads",
+        "en": "Tukuma",
+        "slug": "tukuma-lv39"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV39",
+        "level": 1,
+        "name": {
+          "local": "Tukuma novads",
+          "en": "Tukuma",
+          "slug": "tukuma-lv39"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "57.042",
+      "lon": "23.128"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LV39L014",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "SmÄ�rde",
+      "en": "SmÄ�rde",
+      "slug": "sma-rde-lv39l014"
+    },
+    "code": {
+      "id": "LV39L014",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV39",
+      "level": 1,
+      "name": {
+        "local": "Tukuma novads",
+        "en": "Tukuma",
+        "slug": "tukuma-lv39"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV39",
+        "level": 1,
+        "name": {
+          "local": "Tukuma novads",
+          "en": "Tukuma",
+          "slug": "tukuma-lv39"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "56.954",
+      "lon": "23.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LV39L024",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "UpesgrÄ«va",
+      "en": "UpesgrÄ«va",
+      "slug": "upesgra-va-lv39l024"
+    },
+    "code": {
+      "id": "LV39L024",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV39",
+      "level": 1,
+      "name": {
+        "local": "Tukuma novads",
+        "en": "Tukuma",
+        "slug": "tukuma-lv39"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV39",
+        "level": 1,
+        "name": {
+          "local": "Tukuma novads",
+          "en": "Tukuma",
+          "slug": "tukuma-lv39"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "57.386",
+      "lon": "23.014"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LV39L022",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Vecmokas",
+      "en": "Vecmokas",
+      "slug": "vecmokas-lv39l022"
+    },
+    "code": {
+      "id": "LV39L022",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV39",
+      "level": 1,
+      "name": {
+        "local": "Tukuma novads",
+        "en": "Tukuma",
+        "slug": "tukuma-lv39"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV39",
+        "level": 1,
+        "name": {
+          "local": "Tukuma novads",
+          "en": "Tukuma",
+          "slug": "tukuma-lv39"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "57.001",
+      "lon": "23.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LV39L015",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Vilkasala",
+      "en": "Vilkasala",
+      "slug": "vilkasala-lv39l015"
+    },
+    "code": {
+      "id": "LV39L015",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV39",
+      "level": 1,
+      "name": {
+        "local": "Tukuma novads",
+        "en": "Tukuma",
+        "slug": "tukuma-lv39"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV39",
+        "level": 1,
+        "name": {
+          "local": "Tukuma novads",
+          "en": "Tukuma",
+          "slug": "tukuma-lv39"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "57.033",
+      "lon": "23.011"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

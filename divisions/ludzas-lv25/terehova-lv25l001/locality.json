@@ -1,0 +1,45 @@
+{
+  "id": "LV25L001",
+  "level": 2,
+  "level_name": {
+    "local": "Apdzīvota vieta",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Terehova",
+    "en": "Terehova",
+    "slug": "terehova-lv25l001"
+  },
+  "code": {
+    "id": "LV25L001",
+    "iso": null
+  },
+  "parent": {
+    "id": "LV25",
+    "level": 1,
+    "name": {
+      "local": "Ludzas novads",
+      "en": "Ludzas",
+      "slug": "ludzas-lv25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LV25",
+      "level": 1,
+      "name": {
+        "local": "Ludzas novads",
+        "en": "Ludzas",
+        "slug": "ludzas-lv25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.353",
+    "lon": "28.186"
+  },
+  "metadata": {},
+  "source": {}
+}

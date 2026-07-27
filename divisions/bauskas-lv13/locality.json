@@ -1,0 +1,47 @@
+[
+  {
+    "id": "LV13L001",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "RundÄ�le",
+      "en": "RundÄ�le",
+      "slug": "runda-le-lv13l001"
+    },
+    "code": {
+      "id": "LV13L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV13",
+      "level": 1,
+      "name": {
+        "local": "Bauskas novads",
+        "en": "Bauskas",
+        "slug": "bauskas-lv13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV13",
+        "level": 1,
+        "name": {
+          "local": "Bauskas novads",
+          "en": "Bauskas",
+          "slug": "bauskas-lv13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "56.427",
+      "lon": "23.985"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,33 @@
+{
+  "id": "LV19",
+  "level": 1,
+  "level_name": {
+    "local": "Novads/Valstspilsēta",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Jēkabpils novads",
+    "en": "Jekabpils",
+    "slug": "jekabpils-lv19"
+  },
+  "code": {
+    "id": "LV19",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.5",
+    "lon": "25.858"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/jekabpils-lv19/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

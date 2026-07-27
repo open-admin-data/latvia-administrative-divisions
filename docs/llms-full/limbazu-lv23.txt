@@ -1,0 +1,14 @@
+# Limbazu — Latvia Administrative Divisions
+
+> 1 localitys
+> Code: LV23
+> Coordinates: 57.513, 24.717
+> Last updated: 2026-07-27. License: CC-BY-4.0.
+
+## Localitys
+
+### Mazsalace
+
+Code: LV23L001, Coordinates: 57.863, 25.055
+
+
