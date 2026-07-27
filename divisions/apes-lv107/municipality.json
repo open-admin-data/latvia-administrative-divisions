@@ -1,0 +1,33 @@
+{
+  "id": "LV107",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Apes",
+    "en": "Apes",
+    "slug": "apes-lv107"
+  },
+  "code": {
+    "id": "LV107",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "57.472",
+    "lon": "26.446"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/apes-lv107/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "LV099",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Balvu",
+    "en": "Balvu",
+    "slug": "balvu-lv099"
+  },
+  "code": {
+    "id": "LV099",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "57.149",
+    "lon": "27.292"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/balvu-lv099/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

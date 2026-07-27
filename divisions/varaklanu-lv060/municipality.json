@@ -1,0 +1,33 @@
+{
+  "id": "LV060",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Varaklanu",
+    "en": "Varaklanu",
+    "slug": "varaklanu-lv060"
+  },
+  "code": {
+    "id": "LV060",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.627",
+    "lon": "26.666"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/varaklanu-lv060/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

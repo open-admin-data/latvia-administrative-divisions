@@ -1,0 +1,33 @@
+{
+  "id": "LV011",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Kraslavas",
+    "en": "Kraslavas",
+    "slug": "kraslavas-lv011"
+  },
+  "code": {
+    "id": "LV011",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "55.913",
+    "lon": "27.287"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/kraslavas-lv011/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

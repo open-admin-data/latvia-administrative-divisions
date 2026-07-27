@@ -1,0 +1,33 @@
+{
+  "id": "LV066",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ogres",
+    "en": "Ogres",
+    "slug": "ogres-lv066"
+  },
+  "code": {
+    "id": "LV066",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.823",
+    "lon": "25.182"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/ogres-lv066/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

@@ -1,0 +1,14 @@
+# Vilanu — Latvia Administrative Divisions
+
+> 1 localitys
+> Code: LV059
+> Coordinates: 56.557, 26.893
+> Last updated: 2026-07-27. License: CC-BY-4.0.
+
+## Localitys
+
+### VilÌ§Ä�ni
+
+Code: LV059L001, Coordinates: 56.553, 26.924
+
+

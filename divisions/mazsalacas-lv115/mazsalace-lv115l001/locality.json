@@ -1,0 +1,45 @@
+{
+  "id": "LV115L001",
+  "level": 2,
+  "level_name": {
+    "local": "Apdzīvota vieta",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Mazsalace",
+    "en": "Mazsalace",
+    "slug": "mazsalace-lv115l001"
+  },
+  "code": {
+    "id": "LV115L001",
+    "iso": null
+  },
+  "parent": {
+    "id": "LV115",
+    "level": 1,
+    "name": {
+      "local": "Mazsalacas",
+      "en": "Mazsalacas",
+      "slug": "mazsalacas-lv115"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LV115",
+      "level": 1,
+      "name": {
+        "local": "Mazsalacas",
+        "en": "Mazsalacas",
+        "slug": "mazsalacas-lv115"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "57.863",
+    "lon": "25.055"
+  },
+  "metadata": {},
+  "source": {}
+}

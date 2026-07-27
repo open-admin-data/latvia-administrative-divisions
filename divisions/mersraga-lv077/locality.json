@@ -1,0 +1,47 @@
+[
+  {
+    "id": "LV077L001",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "UpesgrÄ«va",
+      "en": "UpesgrÄ«va",
+      "slug": "upesgra-va-lv077l001"
+    },
+    "code": {
+      "id": "LV077L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV077",
+      "level": 1,
+      "name": {
+        "local": "Mersraga",
+        "en": "Mersraga",
+        "slug": "mersraga-lv077"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV077",
+        "level": 1,
+        "name": {
+          "local": "Mersraga",
+          "en": "Mersraga",
+          "slug": "mersraga-lv077"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "57.386",
+      "lon": "23.014"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

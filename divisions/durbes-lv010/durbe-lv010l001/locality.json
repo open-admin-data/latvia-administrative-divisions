@@ -1,0 +1,45 @@
+{
+  "id": "LV010L001",
+  "level": 2,
+  "level_name": {
+    "local": "Apdzīvota vieta",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Durbe",
+    "en": "Durbe",
+    "slug": "durbe-lv010l001"
+  },
+  "code": {
+    "id": "LV010L001",
+    "iso": null
+  },
+  "parent": {
+    "id": "LV010",
+    "level": 1,
+    "name": {
+      "local": "Durbes",
+      "en": "Durbes",
+      "slug": "durbes-lv010"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LV010",
+      "level": 1,
+      "name": {
+        "local": "Durbes",
+        "en": "Durbes",
+        "slug": "durbes-lv010"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.589",
+    "lon": "21.37"
+  },
+  "metadata": {},
+  "source": {}
+}

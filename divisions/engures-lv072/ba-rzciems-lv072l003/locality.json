@@ -1,0 +1,45 @@
+{
+  "id": "LV072L003",
+  "level": 2,
+  "level_name": {
+    "local": "Apdzīvota vieta",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "BÄ“rzciems",
+    "en": "BÄ“rzciems",
+    "slug": "ba-rzciems-lv072l003"
+  },
+  "code": {
+    "id": "LV072L003",
+    "iso": null
+  },
+  "parent": {
+    "id": "LV072",
+    "level": 1,
+    "name": {
+      "local": "Engures",
+      "en": "Engures",
+      "slug": "engures-lv072"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LV072",
+      "level": 1,
+      "name": {
+        "local": "Engures",
+        "en": "Engures",
+        "slug": "engures-lv072"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "57.246",
+    "lon": "23.174"
+  },
+  "metadata": {},
+  "source": {}
+}

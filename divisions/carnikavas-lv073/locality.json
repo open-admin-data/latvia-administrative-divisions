@@ -1,0 +1,47 @@
+[
+  {
+    "id": "LV073L001",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Kalngale",
+      "en": "Kalngale",
+      "slug": "kalngale-lv073l001"
+    },
+    "code": {
+      "id": "LV073L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV073",
+      "level": 1,
+      "name": {
+        "local": "Carnikavas",
+        "en": "Carnikavas",
+        "slug": "carnikavas-lv073"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV073",
+        "level": 1,
+        "name": {
+          "local": "Carnikavas",
+          "en": "Carnikavas",
+          "slug": "carnikavas-lv073"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "57.081",
+      "lon": "24.159"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

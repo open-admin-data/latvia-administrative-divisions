@@ -1,0 +1,14 @@
+# Varaklanu — Latvia Administrative Divisions
+
+> 1 localitys
+> Code: LV060
+> Coordinates: 56.627, 26.666
+> Last updated: 2026-07-27. License: CC-BY-4.0.
+
+## Localitys
+
+### VaraklÌ§Ä�ni
+
+Code: LV060L001, Coordinates: 56.608, 26.754
+
+

@@ -1,0 +1,45 @@
+{
+  "id": "LV037L001",
+  "level": 2,
+  "level_name": {
+    "local": "Apdzīvota vieta",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Krustpils",
+    "en": "Krustpils",
+    "slug": "krustpils-lv037l001"
+  },
+  "code": {
+    "id": "LV037L001",
+    "iso": null
+  },
+  "parent": {
+    "id": "LV037",
+    "level": 1,
+    "name": {
+      "local": "Salas",
+      "en": "Salas",
+      "slug": "salas-lv037"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LV037",
+      "level": 1,
+      "name": {
+        "local": "Salas",
+        "en": "Salas",
+        "slug": "salas-lv037"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.511",
+    "lon": "25.861"
+  },
+  "metadata": {},
+  "source": {}
+}

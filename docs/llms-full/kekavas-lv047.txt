@@ -1,0 +1,14 @@
+# Kekavas — Latvia Administrative Divisions
+
+> 1 localitys
+> Code: LV047
+> Coordinates: 56.792, 24.193
+> Last updated: 2026-07-27. License: CC-BY-4.0.
+
+## Localitys
+
+### Balozi
+
+Code: LV047L001, Coordinates: 56.876, 24.119
+
+

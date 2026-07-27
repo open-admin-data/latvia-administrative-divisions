@@ -1,0 +1,9 @@
+# Jekabpils — Latvia Administrative Divisions
+
+> 0 localitys
+> Code: LV024
+> Coordinates: 56.306, 25.993
+> Last updated: 2026-07-27. License: CC-BY-4.0.
+
+## Localitys
+

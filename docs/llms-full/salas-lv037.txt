@@ -1,0 +1,14 @@
+# Salas — Latvia Administrative Divisions
+
+> 1 localitys
+> Code: LV037
+> Coordinates: 56.475, 25.703
+> Last updated: 2026-07-27. License: CC-BY-4.0.
+
+## Localitys
+
+### Krustpils
+
+Code: LV037L001, Coordinates: 56.511, 25.861
+
+

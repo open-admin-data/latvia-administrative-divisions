@@ -1,0 +1,33 @@
+{
+  "id": "LV073",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Carnikavas",
+    "en": "Carnikavas",
+    "slug": "carnikavas-lv073"
+  },
+  "code": {
+    "id": "LV073",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "57.103",
+    "lon": "24.229"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/carnikavas-lv073/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

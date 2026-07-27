@@ -1,0 +1,19 @@
+# Daugavpils — Latvia Administrative Divisions
+
+> 2 localitys
+> Code: LV003
+> Coordinates: 55.876, 26.527
+> Last updated: 2026-07-27. License: CC-BY-4.0.
+
+## Localitys
+
+### KalkÅ«ni
+
+Code: LV003L002, Coordinates: 55.835, 26.471
+
+
+### Lociki
+
+Code: LV003L001, Coordinates: 55.937, 26.644
+
+

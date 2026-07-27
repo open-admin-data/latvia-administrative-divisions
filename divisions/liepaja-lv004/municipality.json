@@ -1,0 +1,33 @@
+{
+  "id": "LV004",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Liepaja",
+    "en": "Liepaja",
+    "slug": "liepaja-lv004"
+  },
+  "code": {
+    "id": "LV004",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.547",
+    "lon": "21.035"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/liepaja-lv004/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

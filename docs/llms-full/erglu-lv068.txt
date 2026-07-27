@@ -1,0 +1,14 @@
+# Erglu — Latvia Administrative Divisions
+
+> 1 localitys
+> Code: LV068
+> Coordinates: 56.88, 25.638
+> Last updated: 2026-07-27. License: CC-BY-4.0.
+
+## Localitys
+
+### Ä’rglÌ§i
+
+Code: LV068L001, Coordinates: 56.898, 25.637
+
+

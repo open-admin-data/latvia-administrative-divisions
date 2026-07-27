@@ -1,0 +1,33 @@
+{
+  "id": "LV087",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Amatas",
+    "en": "Amatas",
+    "slug": "amatas-lv087"
+  },
+  "code": {
+    "id": "LV087",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "57.1",
+    "lon": "25.298"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/amatas-lv087/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

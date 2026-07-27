@@ -1,0 +1,14 @@
+# Priekulu — Latvia Administrative Divisions
+
+> 1 localitys
+> Code: LV098
+> Coordinates: 57.373, 25.453
+> Last updated: 2026-07-27. License: CC-BY-4.0.
+
+## Localitys
+
+### PriekulÌ§i
+
+Code: LV098L001, Coordinates: 57.315, 25.361
+
+

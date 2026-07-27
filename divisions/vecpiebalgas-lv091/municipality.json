@@ -1,0 +1,33 @@
+{
+  "id": "LV091",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Vecpiebalgas",
+    "en": "Vecpiebalgas",
+    "slug": "vecpiebalgas-lv091"
+  },
+  "code": {
+    "id": "LV091",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "57.097",
+    "lon": "25.7"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/vecpiebalgas-lv091/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

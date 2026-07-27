@@ -1,0 +1,33 @@
+{
+  "id": "LV018",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Neretas",
+    "en": "Neretas",
+    "slug": "neretas-lv018"
+  },
+  "code": {
+    "id": "LV018",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.295",
+    "lon": "25.173"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/neretas-lv018/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

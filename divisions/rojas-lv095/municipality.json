@@ -1,0 +1,33 @@
+{
+  "id": "LV095",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Rojas",
+    "en": "Rojas",
+    "slug": "rojas-lv095"
+  },
+  "code": {
+    "id": "LV095",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "57.496",
+    "lon": "22.738"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/rojas-lv095/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

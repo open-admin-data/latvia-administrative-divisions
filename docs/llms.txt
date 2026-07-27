@@ -1,0 +1,282 @@
+# Latvia Administrative Divisions
+
+> Open dataset of Latvia's administrative hierarchy:
+> 116 municipalitys, 38 localitys.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total municipalitys: 116
+- Total localitys: 38
+- Coordinates: included (all levels)
+- Last updated: 2026-07-27
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All municipalitys (JSON)](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/data/all-municipality.json)
+- [All localitys (JSON)](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/data/all-locality.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/data/schema.json)
+
+## Browse by Municipality
+
+- [Rucavas](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/rucavas-lv001/) — 1 localitys
+- [Nicas](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/nicas-lv002/) — 0 localitys
+- [Daugavpils](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/daugavpils-lv003/) — 2 localitys
+- [Liepaja](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/liepaja-lv004/) — 0 localitys
+- [Priekules](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/priekules-lv005/) — 0 localitys
+- [Vainodes](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/vainodes-lv006/) — 0 localitys
+- [Grobinas](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/grobinas-lv007/) — 0 localitys
+- [Ilukstes](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/ilukstes-lv008/) — 0 localitys
+- [Aknistes](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/aknistes-lv009/) — 0 localitys
+- [Durbes](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/durbes-lv010/) — 1 localitys
+- [Kraslavas](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/kraslavas-lv011/) — 0 localitys
+- [Tervetes](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/tervetes-lv012/) — 1 localitys
+- [Auces](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/auces-lv013/) — 0 localitys
+- [Rundales](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/rundales-lv014/) — 1 localitys
+- [Bauskas](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/bauskas-lv015/) — 0 localitys
+- [Aglonas](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/aglonas-lv016/) — 1 localitys
+- [Varkavas](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/varkavas-lv017/) — 0 localitys
+- [Neretas](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/neretas-lv018/) — 0 localitys
+- [Aizputes](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/aizputes-lv019/) — 0 localitys
+- [Skrundas](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/skrundas-lv020/) — 0 localitys
+- [Viesites](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/viesites-lv021/) — 0 localitys
+- [Jelgava](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/jelgava-lv022/) — 0 localitys
+- [Brocenu](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/brocenu-lv023/) — 0 localitys
+- [Jekabpils](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/jekabpils-lv024/) — 0 localitys
+- [Dagdas](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/dagdas-lv025/) — 0 localitys
+- [Pavilostas](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/pavilostas-lv026/) — 0 localitys
+- [Iecavas](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/iecavas-lv027/) — 0 localitys
+- [Ozolnieku](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/ozolnieku-lv028/) — 0 localitys
+- [Olaines](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/olaines-lv029/) — 0 localitys
+- [Jaunpils](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/jaunpils-lv030/) — 0 localitys
+- [Dobeles](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/dobeles-lv031/) — 0 localitys
+- [Preilu](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/preilu-lv032/) — 0 localitys
+- [Saldus](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/saldus-lv033/) — 0 localitys
+- [Vecumnieku](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/vecumnieku-lv034/) — 1 localitys
+- [Livanu](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/livanu-lv035/) — 0 localitys
+- [Jaunjelgavas](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/jaunjelgavas-lv036/) — 0 localitys
+- [Salas](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/salas-lv037/) — 1 localitys
+- [Baldones](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/baldones-lv038/) — 0 localitys
+- [Alsungas](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/alsungas-lv039/) — 1 localitys
+- [Aizkraukles](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/aizkraukles-lv040/) — 0 localitys
+- [Jelgavas](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/jelgavas-lv041/) — 1 localitys
+- [Skriveru](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/skriveru-lv042/) — 0 localitys
+- [Riebinu](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/riebinu-lv043/) — 0 localitys
+- [Zilupes](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/zilupes-lv044/) — 0 localitys
+- [Krustpils](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/krustpils-lv045/) — 0 localitys
+- [Lielvardes](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/lielvardes-lv046/) — 0 localitys
+- [Kekavas](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/kekavas-lv047/) — 1 localitys
+- [Rezekne](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/rezekne-lv048/) — 0 localitys
+- [Marupes](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/marupes-lv049/) — 0 localitys
+- [Keguma](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/keguma-lv050/) — 0 localitys
+- [Salaspils](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/salaspils-lv051/) — 0 localitys
+- [IkÅ¡kiles](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/ika-kiles-lv052/) — 0 localitys
+- [Kokneses](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/kokneses-lv053/) — 1 localitys
+- [Babites](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/babites-lv054/) — 0 localitys
+- [Jurmala](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/jurmala-lv055/) — 0 localitys
+- [Stopinu](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/stopinu-lv056/) — 1 localitys
+- [Ludzas](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/ludzas-lv057/) — 0 localitys
+- [Kuldigas](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/kuldigas-lv058/) — 2 localitys
+- [Vilanu](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/vilanu-lv059/) — 1 localitys
+- [Varaklanu](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/varaklanu-lv060/) — 1 localitys
+- [Plavinu](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/plavinu-lv061/) — 1 localitys
+- [Kandavas](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/kandavas-lv062/) — 0 localitys
+- [Riga](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/riga-lv063/) — 2 localitys
+- [RopaÅ¾u](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/ropaa-u-lv064/) — 0 localitys
+- [Garkalnes](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/garkalnes-lv065/) — 0 localitys
+- [Ogres](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/ogres-lv066/) — 0 localitys
+- [Tukuma](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/tukuma-lv067/) — 1 localitys
+- [Erglu](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/erglu-lv068/) — 1 localitys
+- [Ciblas](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/ciblas-lv069/) — 0 localitys
+- [Rezeknes](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/rezeknes-lv070/) — 0 localitys
+- [Malpils](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/malpils-lv071/) — 0 localitys
+- [Engures](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/engures-lv072/) — 8 localitys
+- [Carnikavas](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/carnikavas-lv073/) — 1 localitys
+- [AdaÅ¾u](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/adaa-u-lv074/) — 0 localitys
+- [Incukalna](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/incukalna-lv075/) — 0 localitys
+- [Ventspils](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/ventspils-lv076/) — 0 localitys
+- [Mersraga](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/mersraga-lv077/) — 1 localitys
+- [Lubanas](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/lubanas-lv078/) — 0 localitys
+- [Siguldas](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/siguldas-lv079/) — 0 localitys
+- [Karsavas](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/karsavas-lv080/) — 0 localitys
+- [Madonas](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/madonas-lv081/) — 0 localitys
+- [Cesvaines](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/cesvaines-lv082/) — 0 localitys
+- [Ligatnes](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/ligatnes-lv083/) — 0 localitys
+- [Talsu](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/talsu-lv084/) — 1 localitys
+- [Sejas](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/sejas-lv085/) — 0 localitys
+- [Saulkrastu](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/saulkrastu-lv086/) — 0 localitys
+- [Amatas](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/amatas-lv087/) — 0 localitys
+- [Jaunpiepalgas](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/jaunpiepalgas-lv088/) — 0 localitys
+- [Baltinavas](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/baltinavas-lv089/) — 0 localitys
+- [Rugaju](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/rugaju-lv090/) — 0 localitys
+- [Vecpiebalgas](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/vecpiebalgas-lv091/) — 1 localitys
+- [Cesu](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/cesu-lv092/) — 0 localitys
+- [Krimuldas](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/krimuldas-lv093/) — 0 localitys
+- [Raunas](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/raunas-lv094/) — 0 localitys
+- [Rojas](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/rojas-lv095/) — 0 localitys
+- [Pargaujas](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/pargaujas-lv096/) — 0 localitys
+- [Dundagas](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/dundagas-lv097/) — 0 localitys
+- [Priekulu](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/priekulu-lv098/) — 1 localitys
+- [Balvu](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/balvu-lv099/) — 0 localitys
+- [Gulbenes](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/gulbenes-lv100/) — 0 localitys
+- [Valmiera](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/valmiera-lv101/) — 0 localitys
+- [Smiltenes](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/smiltenes-lv102/) — 0 localitys
+- [Vilakas](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/vilakas-lv103/) — 1 localitys
+- [Kocenu](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/kocenu-lv104/) — 0 localitys
+- [Beverinas](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/beverinas-lv105/) — 0 localitys
+- [LimbaÅ¾u](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/limbaa-u-lv106/) — 0 localitys
+- [Apes](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/apes-lv107/) — 0 localitys
+- [Strencu](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/strencu-lv108/) — 0 localitys
+- [Aluksnes](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/aluksnes-lv109/) — 0 localitys
+- [Burtnieku](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/burtnieku-lv110/) — 0 localitys
+- [Salacgrivas](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/salacgrivas-lv111/) — 0 localitys
+- [Alojas](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/alojas-lv112/) — 0 localitys
+- [Valkas](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/valkas-lv113/) — 0 localitys
+- [Nauksenu](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/nauksenu-lv114/) — 0 localitys
+- [Mazsalacas](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/mazsalacas-lv115/) — 1 localitys
+- [Rujienas](https://github.com/open-admin-data/latvia-administrative-divisions/tree/main/divisions/rujienas-lv116/) — 0 localitys
+
+## Per-Municipality Full Data
+
+- [Rucavas](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/rucavas-lv001.txt)
+- [Nicas](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/nicas-lv002.txt)
+- [Daugavpils](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/daugavpils-lv003.txt)
+- [Liepaja](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/liepaja-lv004.txt)
+- [Priekules](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/priekules-lv005.txt)
+- [Vainodes](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/vainodes-lv006.txt)
+- [Grobinas](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/grobinas-lv007.txt)
+- [Ilukstes](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/ilukstes-lv008.txt)
+- [Aknistes](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/aknistes-lv009.txt)
+- [Durbes](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/durbes-lv010.txt)
+- [Kraslavas](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/kraslavas-lv011.txt)
+- [Tervetes](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/tervetes-lv012.txt)
+- [Auces](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/auces-lv013.txt)
+- [Rundales](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/rundales-lv014.txt)
+- [Bauskas](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/bauskas-lv015.txt)
+- [Aglonas](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/aglonas-lv016.txt)
+- [Varkavas](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/varkavas-lv017.txt)
+- [Neretas](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/neretas-lv018.txt)
+- [Aizputes](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/aizputes-lv019.txt)
+- [Skrundas](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/skrundas-lv020.txt)
+- [Viesites](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/viesites-lv021.txt)
+- [Jelgava](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/jelgava-lv022.txt)
+- [Brocenu](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/brocenu-lv023.txt)
+- [Jekabpils](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/jekabpils-lv024.txt)
+- [Dagdas](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/dagdas-lv025.txt)
+- [Pavilostas](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/pavilostas-lv026.txt)
+- [Iecavas](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/iecavas-lv027.txt)
+- [Ozolnieku](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/ozolnieku-lv028.txt)
+- [Olaines](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/olaines-lv029.txt)
+- [Jaunpils](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/jaunpils-lv030.txt)
+- [Dobeles](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/dobeles-lv031.txt)
+- [Preilu](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/preilu-lv032.txt)
+- [Saldus](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/saldus-lv033.txt)
+- [Vecumnieku](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/vecumnieku-lv034.txt)
+- [Livanu](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/livanu-lv035.txt)
+- [Jaunjelgavas](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/jaunjelgavas-lv036.txt)
+- [Salas](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/salas-lv037.txt)
+- [Baldones](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/baldones-lv038.txt)
+- [Alsungas](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/alsungas-lv039.txt)
+- [Aizkraukles](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/aizkraukles-lv040.txt)
+- [Jelgavas](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/jelgavas-lv041.txt)
+- [Skriveru](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/skriveru-lv042.txt)
+- [Riebinu](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/riebinu-lv043.txt)
+- [Zilupes](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/zilupes-lv044.txt)
+- [Krustpils](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/krustpils-lv045.txt)
+- [Lielvardes](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/lielvardes-lv046.txt)
+- [Kekavas](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/kekavas-lv047.txt)
+- [Rezekne](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/rezekne-lv048.txt)
+- [Marupes](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/marupes-lv049.txt)
+- [Keguma](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/keguma-lv050.txt)
+- [Salaspils](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/salaspils-lv051.txt)
+- [IkÅ¡kiles](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/ika-kiles-lv052.txt)
+- [Kokneses](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/kokneses-lv053.txt)
+- [Babites](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/babites-lv054.txt)
+- [Jurmala](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/jurmala-lv055.txt)
+- [Stopinu](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/stopinu-lv056.txt)
+- [Ludzas](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/ludzas-lv057.txt)
+- [Kuldigas](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/kuldigas-lv058.txt)
+- [Vilanu](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/vilanu-lv059.txt)
+- [Varaklanu](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/varaklanu-lv060.txt)
+- [Plavinu](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/plavinu-lv061.txt)
+- [Kandavas](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/kandavas-lv062.txt)
+- [Riga](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/riga-lv063.txt)
+- [RopaÅ¾u](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/ropaa-u-lv064.txt)
+- [Garkalnes](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/garkalnes-lv065.txt)
+- [Ogres](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/ogres-lv066.txt)
+- [Tukuma](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/tukuma-lv067.txt)
+- [Erglu](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/erglu-lv068.txt)
+- [Ciblas](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/ciblas-lv069.txt)
+- [Rezeknes](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/rezeknes-lv070.txt)
+- [Malpils](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/malpils-lv071.txt)
+- [Engures](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/engures-lv072.txt)
+- [Carnikavas](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/carnikavas-lv073.txt)
+- [AdaÅ¾u](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/adaa-u-lv074.txt)
+- [Incukalna](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/incukalna-lv075.txt)
+- [Ventspils](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/ventspils-lv076.txt)
+- [Mersraga](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/mersraga-lv077.txt)
+- [Lubanas](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/lubanas-lv078.txt)
+- [Siguldas](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/siguldas-lv079.txt)
+- [Karsavas](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/karsavas-lv080.txt)
+- [Madonas](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/madonas-lv081.txt)
+- [Cesvaines](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/cesvaines-lv082.txt)
+- [Ligatnes](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/ligatnes-lv083.txt)
+- [Talsu](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/talsu-lv084.txt)
+- [Sejas](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/sejas-lv085.txt)
+- [Saulkrastu](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/saulkrastu-lv086.txt)
+- [Amatas](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/amatas-lv087.txt)
+- [Jaunpiepalgas](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/jaunpiepalgas-lv088.txt)
+- [Baltinavas](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/baltinavas-lv089.txt)
+- [Rugaju](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/rugaju-lv090.txt)
+- [Vecpiebalgas](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/vecpiebalgas-lv091.txt)
+- [Cesu](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/cesu-lv092.txt)
+- [Krimuldas](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/krimuldas-lv093.txt)
+- [Raunas](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/raunas-lv094.txt)
+- [Rojas](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/rojas-lv095.txt)
+- [Pargaujas](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/pargaujas-lv096.txt)
+- [Dundagas](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/dundagas-lv097.txt)
+- [Priekulu](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/priekulu-lv098.txt)
+- [Balvu](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/balvu-lv099.txt)
+- [Gulbenes](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/gulbenes-lv100.txt)
+- [Valmiera](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/valmiera-lv101.txt)
+- [Smiltenes](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/smiltenes-lv102.txt)
+- [Vilakas](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/vilakas-lv103.txt)
+- [Kocenu](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/kocenu-lv104.txt)
+- [Beverinas](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/beverinas-lv105.txt)
+- [LimbaÅ¾u](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/limbaa-u-lv106.txt)
+- [Apes](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/apes-lv107.txt)
+- [Strencu](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/strencu-lv108.txt)
+- [Aluksnes](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/aluksnes-lv109.txt)
+- [Burtnieku](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/burtnieku-lv110.txt)
+- [Salacgrivas](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/salacgrivas-lv111.txt)
+- [Alojas](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/alojas-lv112.txt)
+- [Valkas](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/valkas-lv113.txt)
+- [Nauksenu](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/nauksenu-lv114.txt)
+- [Mazsalacas](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/mazsalacas-lv115.txt)
+- [Rujienas](https://raw.githubusercontent.com/open-admin-data/latvia-administrative-divisions/main/docs/llms-full/rujienas-lv116.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (municipality), 2 (locality)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+Latvia Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/latvia-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "LV059L001",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "VilÌ§Ä�ni",
+      "en": "VilÌ§Ä�ni",
+      "slug": "vili-a-ni-lv059l001"
+    },
+    "code": {
+      "id": "LV059L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV059",
+      "level": 1,
+      "name": {
+        "local": "Vilanu",
+        "en": "Vilanu",
+        "slug": "vilanu-lv059"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV059",
+        "level": 1,
+        "name": {
+          "local": "Vilanu",
+          "en": "Vilanu",
+          "slug": "vilanu-lv059"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "56.553",
+      "lon": "26.924"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,33 @@
+{
+  "id": "LV017",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Varkavas",
+    "en": "Varkavas",
+    "slug": "varkavas-lv017"
+  },
+  "code": {
+    "id": "LV017",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.221",
+    "lon": "26.519"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/varkavas-lv017/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

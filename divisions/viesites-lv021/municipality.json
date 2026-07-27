@@ -1,0 +1,33 @@
+{
+  "id": "LV021",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Viesites",
+    "en": "Viesites",
+    "slug": "viesites-lv021"
+  },
+  "code": {
+    "id": "LV021",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.294",
+    "lon": "25.537"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/viesites-lv021/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

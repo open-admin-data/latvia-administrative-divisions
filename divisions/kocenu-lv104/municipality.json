@@ -1,0 +1,33 @@
+{
+  "id": "LV104",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Kocenu",
+    "en": "Kocenu",
+    "slug": "kocenu-lv104"
+  },
+  "code": {
+    "id": "LV104",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "57.545",
+    "lon": "25.209"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/kocenu-lv104/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

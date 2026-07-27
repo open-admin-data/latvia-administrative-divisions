@@ -1,0 +1,33 @@
+{
+  "id": "LV072",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Engures",
+    "en": "Engures",
+    "slug": "engures-lv072"
+  },
+  "code": {
+    "id": "LV072",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.999",
+    "lon": "23.283"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/engures-lv072/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

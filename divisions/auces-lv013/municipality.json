@@ -1,0 +1,33 @@
+{
+  "id": "LV013",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Auces",
+    "en": "Auces",
+    "slug": "auces-lv013"
+  },
+  "code": {
+    "id": "LV013",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.496",
+    "lon": "23.003"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/auces-lv013/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

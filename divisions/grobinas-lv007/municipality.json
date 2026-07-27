@@ -1,0 +1,33 @@
+{
+  "id": "LV007",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Grobinas",
+    "en": "Grobinas",
+    "slug": "grobinas-lv007"
+  },
+  "code": {
+    "id": "LV007",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.426",
+    "lon": "21.308"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/grobinas-lv007/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

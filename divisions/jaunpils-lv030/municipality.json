@@ -1,0 +1,33 @@
+{
+  "id": "LV030",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Jaunpils",
+    "en": "Jaunpils",
+    "slug": "jaunpils-lv030"
+  },
+  "code": {
+    "id": "LV030",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.756",
+    "lon": "22.938"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/jaunpils-lv030/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

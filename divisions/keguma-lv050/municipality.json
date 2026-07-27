@@ -1,0 +1,33 @@
+{
+  "id": "LV050",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Keguma",
+    "en": "Keguma",
+    "slug": "keguma-lv050"
+  },
+  "code": {
+    "id": "LV050",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.639",
+    "lon": "24.769"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/keguma-lv050/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

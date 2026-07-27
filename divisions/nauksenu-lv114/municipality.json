@@ -1,0 +1,33 @@
+{
+  "id": "LV114",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Nauksenu",
+    "en": "Nauksenu",
+    "slug": "nauksenu-lv114"
+  },
+  "code": {
+    "id": "LV114",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "57.923",
+    "lon": "25.459"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/nauksenu-lv114/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "LV082",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cesvaines",
+    "en": "Cesvaines",
+    "slug": "cesvaines-lv082"
+  },
+  "code": {
+    "id": "LV082",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "57.011",
+    "lon": "26.277"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/cesvaines-lv082/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "LV090",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Rugaju",
+    "en": "Rugaju",
+    "slug": "rugaju-lv090"
+  },
+  "code": {
+    "id": "LV090",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.972",
+    "lon": "27.117"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/rugaju-lv090/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

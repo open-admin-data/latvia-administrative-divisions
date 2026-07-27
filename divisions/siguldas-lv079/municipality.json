@@ -1,0 +1,33 @@
+{
+  "id": "LV079",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Siguldas",
+    "en": "Siguldas",
+    "slug": "siguldas-lv079"
+  },
+  "code": {
+    "id": "LV079",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "57.051",
+    "lon": "24.825"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/siguldas-lv079/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

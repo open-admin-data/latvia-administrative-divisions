@@ -1,0 +1,33 @@
+{
+  "id": "LV052",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "IkÅ¡kiles",
+    "en": "IkÅ¡kiles",
+    "slug": "ika-kiles-lv052"
+  },
+  "code": {
+    "id": "LV052",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.86",
+    "lon": "24.586"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/ika-kiles-lv052/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

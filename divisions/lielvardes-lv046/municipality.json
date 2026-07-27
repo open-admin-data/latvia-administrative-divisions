@@ -1,0 +1,33 @@
+{
+  "id": "LV046",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Lielvardes",
+    "en": "Lielvardes",
+    "slug": "lielvardes-lv046"
+  },
+  "code": {
+    "id": "LV046",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.727",
+    "lon": "24.953"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/lielvardes-lv046/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

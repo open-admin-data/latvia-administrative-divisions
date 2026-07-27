@@ -1,0 +1,33 @@
+{
+  "id": "LV047",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Kekavas",
+    "en": "Kekavas",
+    "slug": "kekavas-lv047"
+  },
+  "code": {
+    "id": "LV047",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.792",
+    "lon": "24.193"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/kekavas-lv047/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

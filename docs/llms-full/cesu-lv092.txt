@@ -1,0 +1,9 @@
+# Cesu — Latvia Administrative Divisions
+
+> 0 localitys
+> Code: LV092
+> Coordinates: 57.244, 25.415
+> Last updated: 2026-07-27. License: CC-BY-4.0.
+
+## Localitys
+

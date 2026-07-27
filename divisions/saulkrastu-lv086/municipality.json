@@ -1,0 +1,33 @@
+{
+  "id": "LV086",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Saulkrastu",
+    "en": "Saulkrastu",
+    "slug": "saulkrastu-lv086"
+  },
+  "code": {
+    "id": "LV086",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "57.257",
+    "lon": "24.433"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/saulkrastu-lv086/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

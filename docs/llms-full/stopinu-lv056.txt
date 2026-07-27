@@ -1,0 +1,14 @@
+# Stopinu — Latvia Administrative Divisions
+
+> 1 localitys
+> Code: LV056
+> Coordinates: 56.944, 24.326
+> Last updated: 2026-07-27. License: CC-BY-4.0.
+
+## Localitys
+
+### Upeslejas
+
+Code: LV056L001, Coordinates: 56.924, 24.386
+
+

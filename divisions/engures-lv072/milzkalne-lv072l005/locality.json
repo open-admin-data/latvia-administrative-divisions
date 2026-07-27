@@ -1,0 +1,45 @@
+{
+  "id": "LV072L005",
+  "level": 2,
+  "level_name": {
+    "local": "Apdzīvota vieta",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Milzkalne",
+    "en": "Milzkalne",
+    "slug": "milzkalne-lv072l005"
+  },
+  "code": {
+    "id": "LV072L005",
+    "iso": null
+  },
+  "parent": {
+    "id": "LV072",
+    "level": 1,
+    "name": {
+      "local": "Engures",
+      "en": "Engures",
+      "slug": "engures-lv072"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LV072",
+      "level": 1,
+      "name": {
+        "local": "Engures",
+        "en": "Engures",
+        "slug": "engures-lv072"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.978",
+    "lon": "23.226"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,33 @@
+{
+  "id": "LV115",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Mazsalacas",
+    "en": "Mazsalacas",
+    "slug": "mazsalacas-lv115"
+  },
+  "code": {
+    "id": "LV115",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "57.913",
+    "lon": "25.037"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/mazsalacas-lv115/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

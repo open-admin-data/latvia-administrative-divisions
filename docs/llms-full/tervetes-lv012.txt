@@ -1,0 +1,14 @@
+# Tervetes — Latvia Administrative Divisions
+
+> 1 localitys
+> Code: LV012
+> Coordinates: 56.434, 23.369
+> Last updated: 2026-07-27. License: CC-BY-4.0.
+
+## Localitys
+
+### TÄ“rvete
+
+Code: LV012L001, Coordinates: 56.48, 23.389
+
+

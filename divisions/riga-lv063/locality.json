@@ -1,0 +1,92 @@
+[
+  {
+    "id": "LV063L001",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Jaunciems",
+      "en": "Jaunciems",
+      "slug": "jaunciems-lv063l001"
+    },
+    "code": {
+      "id": "LV063L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV063",
+      "level": 1,
+      "name": {
+        "local": "Riga",
+        "en": "Riga",
+        "slug": "riga-lv063"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV063",
+        "level": 1,
+        "name": {
+          "local": "Riga",
+          "en": "Riga",
+          "slug": "riga-lv063"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "57.039",
+      "lon": "24.174"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LV063L002",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Riga",
+      "en": "Riga",
+      "slug": "riga-lv063l002"
+    },
+    "code": {
+      "id": "LV063L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV063",
+      "level": 1,
+      "name": {
+        "local": "Riga",
+        "en": "Riga",
+        "slug": "riga-lv063"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV063",
+        "level": 1,
+        "name": {
+          "local": "Riga",
+          "en": "Riga",
+          "slug": "riga-lv063"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "56.946",
+      "lon": "24.106"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

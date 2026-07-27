@@ -1,0 +1,33 @@
+{
+  "id": "LV032",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Preilu",
+    "en": "Preilu",
+    "slug": "preilu-lv032"
+  },
+  "code": {
+    "id": "LV032",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.174",
+    "lon": "26.742"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/preilu-lv032/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

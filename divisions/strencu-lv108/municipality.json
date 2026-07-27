@@ -1,0 +1,33 @@
+{
+  "id": "LV108",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Strencu",
+    "en": "Strencu",
+    "slug": "strencu-lv108"
+  },
+  "code": {
+    "id": "LV108",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "57.647",
+    "lon": "25.784"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/strencu-lv108/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

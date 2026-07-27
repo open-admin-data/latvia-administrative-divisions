@@ -1,0 +1,14 @@
+# Mersraga — Latvia Administrative Divisions
+
+> 1 localitys
+> Code: LV077
+> Coordinates: 57.339, 23.042
+> Last updated: 2026-07-27. License: CC-BY-4.0.
+
+## Localitys
+
+### UpesgrÄ«va
+
+Code: LV077L001, Coordinates: 57.386, 23.014
+
+

@@ -1,0 +1,33 @@
+{
+  "id": "LV006",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Vainodes",
+    "en": "Vainodes",
+    "slug": "vainodes-lv006"
+  },
+  "code": {
+    "id": "LV006",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.447",
+    "lon": "21.831"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/vainodes-lv006/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

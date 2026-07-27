@@ -1,0 +1,33 @@
+{
+  "id": "LV016",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Aglonas",
+    "en": "Aglonas",
+    "slug": "aglonas-lv016"
+  },
+  "code": {
+    "id": "LV016",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.084",
+    "lon": "27.066"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/aglonas-lv016/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

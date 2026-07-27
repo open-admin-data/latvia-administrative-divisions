@@ -1,0 +1,33 @@
+{
+  "id": "LV048",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Rezekne",
+    "en": "Rezekne",
+    "slug": "rezekne-lv048"
+  },
+  "code": {
+    "id": "LV048",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.511",
+    "lon": "27.339"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/rezekne-lv048/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "LV038",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Baldones",
+    "en": "Baldones",
+    "slug": "baldones-lv038"
+  },
+  "code": {
+    "id": "LV038",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.732",
+    "lon": "24.376"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/baldones-lv038/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

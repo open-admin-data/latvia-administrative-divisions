@@ -1,0 +1,33 @@
+{
+  "id": "LV037",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Salas",
+    "en": "Salas",
+    "slug": "salas-lv037"
+  },
+  "code": {
+    "id": "LV037",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.475",
+    "lon": "25.703"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/salas-lv037/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

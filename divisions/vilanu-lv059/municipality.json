@@ -1,0 +1,33 @@
+{
+  "id": "LV059",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Vilanu",
+    "en": "Vilanu",
+    "slug": "vilanu-lv059"
+  },
+  "code": {
+    "id": "LV059",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.557",
+    "lon": "26.893"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/vilanu-lv059/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

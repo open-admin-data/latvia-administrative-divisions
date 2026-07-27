@@ -1,0 +1,45 @@
+{
+  "id": "LV072L007",
+  "level": 2,
+  "level_name": {
+    "local": "Apdzīvota vieta",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Ragaciems",
+    "en": "Ragaciems",
+    "slug": "ragaciems-lv072l007"
+  },
+  "code": {
+    "id": "LV072L007",
+    "iso": null
+  },
+  "parent": {
+    "id": "LV072",
+    "level": 1,
+    "name": {
+      "local": "Engures",
+      "en": "Engures",
+      "slug": "engures-lv072"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LV072",
+      "level": 1,
+      "name": {
+        "local": "Engures",
+        "en": "Engures",
+        "slug": "engures-lv072"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "57.024",
+    "lon": "23.494"
+  },
+  "metadata": {},
+  "source": {}
+}

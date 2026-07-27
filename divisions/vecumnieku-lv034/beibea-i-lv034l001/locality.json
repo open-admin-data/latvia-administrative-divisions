@@ -1,0 +1,45 @@
+{
+  "id": "LV034L001",
+  "level": 2,
+  "level_name": {
+    "local": "Apdzīvota vieta",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "BeibeÅ¾i",
+    "en": "BeibeÅ¾i",
+    "slug": "beibea-i-lv034l001"
+  },
+  "code": {
+    "id": "LV034L001",
+    "iso": null
+  },
+  "parent": {
+    "id": "LV034",
+    "level": 1,
+    "name": {
+      "local": "Vecumnieku",
+      "en": "Vecumnieku",
+      "slug": "vecumnieku-lv034"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LV034",
+      "level": 1,
+      "name": {
+        "local": "Vecumnieku",
+        "en": "Vecumnieku",
+        "slug": "vecumnieku-lv034"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.588",
+    "lon": "24.449"
+  },
+  "metadata": {},
+  "source": {}
+}

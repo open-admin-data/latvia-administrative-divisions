@@ -1,0 +1,33 @@
+{
+  "id": "LV053",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Kokneses",
+    "en": "Kokneses",
+    "slug": "kokneses-lv053"
+  },
+  "code": {
+    "id": "LV053",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.705",
+    "lon": "25.485"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/kokneses-lv053/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

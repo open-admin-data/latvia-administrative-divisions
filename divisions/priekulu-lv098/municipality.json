@@ -1,0 +1,33 @@
+{
+  "id": "LV098",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Priekulu",
+    "en": "Priekulu",
+    "slug": "priekulu-lv098"
+  },
+  "code": {
+    "id": "LV098",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "57.373",
+    "lon": "25.453"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/priekulu-lv098/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

@@ -1,0 +1,22 @@
+# Brocenu
+
+[Home](../../) > **Brocenu**
+
+Brocenu is a municipality in Latvia.
+
+## Overview
+
+| Item | Details |
+|------|---------|
+| Localitys | 0 |
+| Code | LV023 |
+| Coordinates | 56.717, 22.657 |
+
+## Data Files
+
+- [municipality.json](municipality.json) — Municipality metadata
+- [locality.json](locality.json) — All localitys (JSON)
+- [locality.csv](locality.csv) — CSV format
+
+---
+

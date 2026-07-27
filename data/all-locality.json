@@ -1,0 +1,1712 @@
+[
+  {
+    "id": "LV003L001",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Lociki",
+      "en": "Lociki",
+      "slug": "lociki-lv003l001"
+    },
+    "code": {
+      "id": "LV003L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV003",
+      "level": 1,
+      "name": {
+        "local": "Daugavpils",
+        "en": "Daugavpils",
+        "slug": "daugavpils-lv003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV003",
+        "level": 1,
+        "name": {
+          "local": "Daugavpils",
+          "en": "Daugavpils",
+          "slug": "daugavpils-lv003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.937",
+      "lon": "26.644"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LV003L002",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "KalkÅ«ni",
+      "en": "KalkÅ«ni",
+      "slug": "kalka-ni-lv003l002"
+    },
+    "code": {
+      "id": "LV003L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV003",
+      "level": 1,
+      "name": {
+        "local": "Daugavpils",
+        "en": "Daugavpils",
+        "slug": "daugavpils-lv003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV003",
+        "level": 1,
+        "name": {
+          "local": "Daugavpils",
+          "en": "Daugavpils",
+          "slug": "daugavpils-lv003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "55.835",
+      "lon": "26.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LV053L001",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Koknese",
+      "en": "Koknese",
+      "slug": "koknese-lv053l001"
+    },
+    "code": {
+      "id": "LV053L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV053",
+      "level": 1,
+      "name": {
+        "local": "Kokneses",
+        "en": "Kokneses",
+        "slug": "kokneses-lv053"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV053",
+        "level": 1,
+        "name": {
+          "local": "Kokneses",
+          "en": "Kokneses",
+          "slug": "kokneses-lv053"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "56.662",
+      "lon": "25.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LV056L001",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Upeslejas",
+      "en": "Upeslejas",
+      "slug": "upeslejas-lv056l001"
+    },
+    "code": {
+      "id": "LV056L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV056",
+      "level": 1,
+      "name": {
+        "local": "Stopinu",
+        "en": "Stopinu",
+        "slug": "stopinu-lv056"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV056",
+        "level": 1,
+        "name": {
+          "local": "Stopinu",
+          "en": "Stopinu",
+          "slug": "stopinu-lv056"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "56.924",
+      "lon": "24.386"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LV063L001",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Jaunciems",
+      "en": "Jaunciems",
+      "slug": "jaunciems-lv063l001"
+    },
+    "code": {
+      "id": "LV063L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV063",
+      "level": 1,
+      "name": {
+        "local": "Riga",
+        "en": "Riga",
+        "slug": "riga-lv063"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV063",
+        "level": 1,
+        "name": {
+          "local": "Riga",
+          "en": "Riga",
+          "slug": "riga-lv063"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "57.039",
+      "lon": "24.174"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LV010L001",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Durbe",
+      "en": "Durbe",
+      "slug": "durbe-lv010l001"
+    },
+    "code": {
+      "id": "LV010L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV010",
+      "level": 1,
+      "name": {
+        "local": "Durbes",
+        "en": "Durbes",
+        "slug": "durbes-lv010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV010",
+        "level": 1,
+        "name": {
+          "local": "Durbes",
+          "en": "Durbes",
+          "slug": "durbes-lv010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "56.589",
+      "lon": "21.37"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LV072L001",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ä¶esterciems",
+      "en": "Ä¶esterciems",
+      "slug": "a-esterciems-lv072l001"
+    },
+    "code": {
+      "id": "LV072L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV072",
+      "level": 1,
+      "name": {
+        "local": "Engures",
+        "en": "Engures",
+        "slug": "engures-lv072"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV072",
+        "level": 1,
+        "name": {
+          "local": "Engures",
+          "en": "Engures",
+          "slug": "engures-lv072"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "57.115",
+      "lon": "23.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LV063L002",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Riga",
+      "en": "Riga",
+      "slug": "riga-lv063l002"
+    },
+    "code": {
+      "id": "LV063L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV063",
+      "level": 1,
+      "name": {
+        "local": "Riga",
+        "en": "Riga",
+        "slug": "riga-lv063"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV063",
+        "level": 1,
+        "name": {
+          "local": "Riga",
+          "en": "Riga",
+          "slug": "riga-lv063"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "56.946",
+      "lon": "24.106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LV034L001",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "BeibeÅ¾i",
+      "en": "BeibeÅ¾i",
+      "slug": "beibea-i-lv034l001"
+    },
+    "code": {
+      "id": "LV034L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV034",
+      "level": 1,
+      "name": {
+        "local": "Vecumnieku",
+        "en": "Vecumnieku",
+        "slug": "vecumnieku-lv034"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV034",
+        "level": 1,
+        "name": {
+          "local": "Vecumnieku",
+          "en": "Vecumnieku",
+          "slug": "vecumnieku-lv034"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "56.588",
+      "lon": "24.449"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LV068L001",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ä’rglÌ§i",
+      "en": "Ä’rglÌ§i",
+      "slug": "a-rgli-i-lv068l001"
+    },
+    "code": {
+      "id": "LV068L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV068",
+      "level": 1,
+      "name": {
+        "local": "Erglu",
+        "en": "Erglu",
+        "slug": "erglu-lv068"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV068",
+        "level": 1,
+        "name": {
+          "local": "Erglu",
+          "en": "Erglu",
+          "slug": "erglu-lv068"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "56.898",
+      "lon": "25.637"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LV103L001",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "VilÌ§aka",
+      "en": "VilÌ§aka",
+      "slug": "vili-aka-lv103l001"
+    },
+    "code": {
+      "id": "LV103L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV103",
+      "level": 1,
+      "name": {
+        "local": "Vilakas",
+        "en": "Vilakas",
+        "slug": "vilakas-lv103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV103",
+        "level": 1,
+        "name": {
+          "local": "Vilakas",
+          "en": "Vilakas",
+          "slug": "vilakas-lv103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "57.185",
+      "lon": "27.672"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LV039L001",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "JÅ«rkalne",
+      "en": "JÅ«rkalne",
+      "slug": "ja-rkalne-lv039l001"
+    },
+    "code": {
+      "id": "LV039L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV039",
+      "level": 1,
+      "name": {
+        "local": "Alsungas",
+        "en": "Alsungas",
+        "slug": "alsungas-lv039"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV039",
+        "level": 1,
+        "name": {
+          "local": "Alsungas",
+          "en": "Alsungas",
+          "slug": "alsungas-lv039"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "57.009",
+      "lon": "21.394"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LV047L001",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Balozi",
+      "en": "Balozi",
+      "slug": "balozi-lv047l001"
+    },
+    "code": {
+      "id": "LV047L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV047",
+      "level": 1,
+      "name": {
+        "local": "Kekavas",
+        "en": "Kekavas",
+        "slug": "kekavas-lv047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV047",
+        "level": 1,
+        "name": {
+          "local": "Kekavas",
+          "en": "Kekavas",
+          "slug": "kekavas-lv047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "56.876",
+      "lon": "24.119"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LV072L002",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "PlieÅ†ciems",
+      "en": "PlieÅ†ciems",
+      "slug": "pliea-ciems-lv072l002"
+    },
+    "code": {
+      "id": "LV072L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV072",
+      "level": 1,
+      "name": {
+        "local": "Engures",
+        "en": "Engures",
+        "slug": "engures-lv072"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV072",
+        "level": 1,
+        "name": {
+          "local": "Engures",
+          "en": "Engures",
+          "slug": "engures-lv072"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "57.083",
+      "lon": "23.264"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LV072L003",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "BÄ“rzciems",
+      "en": "BÄ“rzciems",
+      "slug": "ba-rzciems-lv072l003"
+    },
+    "code": {
+      "id": "LV072L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV072",
+      "level": 1,
+      "name": {
+        "local": "Engures",
+        "en": "Engures",
+        "slug": "engures-lv072"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV072",
+        "level": 1,
+        "name": {
+          "local": "Engures",
+          "en": "Engures",
+          "slug": "engures-lv072"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "57.246",
+      "lon": "23.174"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LV072L004",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Rauda",
+      "en": "Rauda",
+      "slug": "rauda-lv072l004"
+    },
+    "code": {
+      "id": "LV072L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV072",
+      "level": 1,
+      "name": {
+        "local": "Engures",
+        "en": "Engures",
+        "slug": "engures-lv072"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV072",
+        "level": 1,
+        "name": {
+          "local": "Engures",
+          "en": "Engures",
+          "slug": "engures-lv072"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "57.009",
+      "lon": "23.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LV067L001",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "SÄ“me",
+      "en": "SÄ“me",
+      "slug": "sa-me-lv067l001"
+    },
+    "code": {
+      "id": "LV067L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV067",
+      "level": 1,
+      "name": {
+        "local": "Tukuma",
+        "en": "Tukuma",
+        "slug": "tukuma-lv067"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV067",
+        "level": 1,
+        "name": {
+          "local": "Tukuma",
+          "en": "Tukuma",
+          "slug": "tukuma-lv067"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "57.042",
+      "lon": "23.128"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LV060L001",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "VaraklÌ§Ä�ni",
+      "en": "VaraklÌ§Ä�ni",
+      "slug": "varakli-a-ni-lv060l001"
+    },
+    "code": {
+      "id": "LV060L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV060",
+      "level": 1,
+      "name": {
+        "local": "Varaklanu",
+        "en": "Varaklanu",
+        "slug": "varaklanu-lv060"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV060",
+        "level": 1,
+        "name": {
+          "local": "Varaklanu",
+          "en": "Varaklanu",
+          "slug": "varaklanu-lv060"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "56.608",
+      "lon": "26.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LV059L001",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "VilÌ§Ä�ni",
+      "en": "VilÌ§Ä�ni",
+      "slug": "vili-a-ni-lv059l001"
+    },
+    "code": {
+      "id": "LV059L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV059",
+      "level": 1,
+      "name": {
+        "local": "Vilanu",
+        "en": "Vilanu",
+        "slug": "vilanu-lv059"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV059",
+        "level": 1,
+        "name": {
+          "local": "Vilanu",
+          "en": "Vilanu",
+          "slug": "vilanu-lv059"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "56.553",
+      "lon": "26.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LV073L001",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Kalngale",
+      "en": "Kalngale",
+      "slug": "kalngale-lv073l001"
+    },
+    "code": {
+      "id": "LV073L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV073",
+      "level": 1,
+      "name": {
+        "local": "Carnikavas",
+        "en": "Carnikavas",
+        "slug": "carnikavas-lv073"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV073",
+        "level": 1,
+        "name": {
+          "local": "Carnikavas",
+          "en": "Carnikavas",
+          "slug": "carnikavas-lv073"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "57.081",
+      "lon": "24.159"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LV072L005",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Milzkalne",
+      "en": "Milzkalne",
+      "slug": "milzkalne-lv072l005"
+    },
+    "code": {
+      "id": "LV072L005",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV072",
+      "level": 1,
+      "name": {
+        "local": "Engures",
+        "en": "Engures",
+        "slug": "engures-lv072"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV072",
+        "level": 1,
+        "name": {
+          "local": "Engures",
+          "en": "Engures",
+          "slug": "engures-lv072"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "56.978",
+      "lon": "23.226"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LV072L006",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "SmÄ�rde",
+      "en": "SmÄ�rde",
+      "slug": "sma-rde-lv072l006"
+    },
+    "code": {
+      "id": "LV072L006",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV072",
+      "level": 1,
+      "name": {
+        "local": "Engures",
+        "en": "Engures",
+        "slug": "engures-lv072"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV072",
+        "level": 1,
+        "name": {
+          "local": "Engures",
+          "en": "Engures",
+          "slug": "engures-lv072"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "56.954",
+      "lon": "23.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LV084L001",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ä¶uÄ¼ciems",
+      "en": "Ä¶uÄ¼ciems",
+      "slug": "a-ua-ciems-lv084l001"
+    },
+    "code": {
+      "id": "LV084L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV084",
+      "level": 1,
+      "name": {
+        "local": "Talsu",
+        "en": "Talsu",
+        "slug": "talsu-lv084"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV084",
+        "level": 1,
+        "name": {
+          "local": "Talsu",
+          "en": "Talsu",
+          "slug": "talsu-lv084"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "57.266",
+      "lon": "23.032"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LV014L001",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "RundÄ�le",
+      "en": "RundÄ�le",
+      "slug": "runda-le-lv014l001"
+    },
+    "code": {
+      "id": "LV014L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV014",
+      "level": 1,
+      "name": {
+        "local": "Rundales",
+        "en": "Rundales",
+        "slug": "rundales-lv014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV014",
+        "level": 1,
+        "name": {
+          "local": "Rundales",
+          "en": "Rundales",
+          "slug": "rundales-lv014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "56.427",
+      "lon": "23.985"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LV012L001",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "TÄ“rvete",
+      "en": "TÄ“rvete",
+      "slug": "ta-rvete-lv012l001"
+    },
+    "code": {
+      "id": "LV012L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV012",
+      "level": 1,
+      "name": {
+        "local": "Tervetes",
+        "en": "Tervetes",
+        "slug": "tervetes-lv012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV012",
+        "level": 1,
+        "name": {
+          "local": "Tervetes",
+          "en": "Tervetes",
+          "slug": "tervetes-lv012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "56.48",
+      "lon": "23.389"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LV061L001",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "PlÌ§avinÌ§as",
+      "en": "PlÌ§avinÌ§as",
+      "slug": "pli-avini-as-lv061l001"
+    },
+    "code": {
+      "id": "LV061L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV061",
+      "level": 1,
+      "name": {
+        "local": "Plavinu",
+        "en": "Plavinu",
+        "slug": "plavinu-lv061"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV061",
+        "level": 1,
+        "name": {
+          "local": "Plavinu",
+          "en": "Plavinu",
+          "slug": "plavinu-lv061"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "56.618",
+      "lon": "25.726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LV098L001",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "PriekulÌ§i",
+      "en": "PriekulÌ§i",
+      "slug": "priekuli-i-lv098l001"
+    },
+    "code": {
+      "id": "LV098L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV098",
+      "level": 1,
+      "name": {
+        "local": "Priekulu",
+        "en": "Priekulu",
+        "slug": "priekulu-lv098"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV098",
+        "level": 1,
+        "name": {
+          "local": "Priekulu",
+          "en": "Priekulu",
+          "slug": "priekulu-lv098"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "57.315",
+      "lon": "25.361"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LV058L001",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ä’dole",
+      "en": "Ä’dole",
+      "slug": "a-dole-lv058l001"
+    },
+    "code": {
+      "id": "LV058L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV058",
+      "level": 1,
+      "name": {
+        "local": "Kuldigas",
+        "en": "Kuldigas",
+        "slug": "kuldigas-lv058"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV058",
+        "level": 1,
+        "name": {
+          "local": "Kuldigas",
+          "en": "Kuldigas",
+          "slug": "kuldigas-lv058"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "57.021",
+      "lon": "21.691"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LV077L001",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "UpesgrÄ«va",
+      "en": "UpesgrÄ«va",
+      "slug": "upesgra-va-lv077l001"
+    },
+    "code": {
+      "id": "LV077L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV077",
+      "level": 1,
+      "name": {
+        "local": "Mersraga",
+        "en": "Mersraga",
+        "slug": "mersraga-lv077"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV077",
+        "level": 1,
+        "name": {
+          "local": "Mersraga",
+          "en": "Mersraga",
+          "slug": "mersraga-lv077"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "57.386",
+      "lon": "23.014"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LV115L001",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mazsalace",
+      "en": "Mazsalace",
+      "slug": "mazsalace-lv115l001"
+    },
+    "code": {
+      "id": "LV115L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV115",
+      "level": 1,
+      "name": {
+        "local": "Mazsalacas",
+        "en": "Mazsalacas",
+        "slug": "mazsalacas-lv115"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV115",
+        "level": 1,
+        "name": {
+          "local": "Mazsalacas",
+          "en": "Mazsalacas",
+          "slug": "mazsalacas-lv115"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "57.863",
+      "lon": "25.055"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LV041L001",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "TÄ«reÄ¼i",
+      "en": "TÄ«reÄ¼i",
+      "slug": "ta-rea-i-lv041l001"
+    },
+    "code": {
+      "id": "LV041L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV041",
+      "level": 1,
+      "name": {
+        "local": "Jelgavas",
+        "en": "Jelgavas",
+        "slug": "jelgavas-lv041"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV041",
+        "level": 1,
+        "name": {
+          "local": "Jelgavas",
+          "en": "Jelgavas",
+          "slug": "jelgavas-lv041"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "56.84",
+      "lon": "23.589"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LV072L007",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ragaciems",
+      "en": "Ragaciems",
+      "slug": "ragaciems-lv072l007"
+    },
+    "code": {
+      "id": "LV072L007",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV072",
+      "level": 1,
+      "name": {
+        "local": "Engures",
+        "en": "Engures",
+        "slug": "engures-lv072"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV072",
+        "level": 1,
+        "name": {
+          "local": "Engures",
+          "en": "Engures",
+          "slug": "engures-lv072"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "57.024",
+      "lon": "23.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LV072L008",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ApÅ¡uciems",
+      "en": "ApÅ¡uciems",
+      "slug": "apa-uciems-lv072l008"
+    },
+    "code": {
+      "id": "LV072L008",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV072",
+      "level": 1,
+      "name": {
+        "local": "Engures",
+        "en": "Engures",
+        "slug": "engures-lv072"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV072",
+        "level": 1,
+        "name": {
+          "local": "Engures",
+          "en": "Engures",
+          "slug": "engures-lv072"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "57.062",
+      "lon": "23.306"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LV091L001",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Vecpiebalga",
+      "en": "Vecpiebalga",
+      "slug": "vecpiebalga-lv091l001"
+    },
+    "code": {
+      "id": "LV091L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV091",
+      "level": 1,
+      "name": {
+        "local": "Vecpiebalgas",
+        "en": "Vecpiebalgas",
+        "slug": "vecpiebalgas-lv091"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV091",
+        "level": 1,
+        "name": {
+          "local": "Vecpiebalgas",
+          "en": "Vecpiebalgas",
+          "slug": "vecpiebalgas-lv091"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "57.061",
+      "lon": "25.816"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LV037L001",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Krustpils",
+      "en": "Krustpils",
+      "slug": "krustpils-lv037l001"
+    },
+    "code": {
+      "id": "LV037L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV037",
+      "level": 1,
+      "name": {
+        "local": "Salas",
+        "en": "Salas",
+        "slug": "salas-lv037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV037",
+        "level": 1,
+        "name": {
+          "local": "Salas",
+          "en": "Salas",
+          "slug": "salas-lv037"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "56.511",
+      "lon": "25.861"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LV016L001",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Jaunaglona",
+      "en": "Jaunaglona",
+      "slug": "jaunaglona-lv016l001"
+    },
+    "code": {
+      "id": "LV016L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV016",
+      "level": 1,
+      "name": {
+        "local": "Aglonas",
+        "en": "Aglonas",
+        "slug": "aglonas-lv016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV016",
+        "level": 1,
+        "name": {
+          "local": "Aglonas",
+          "en": "Aglonas",
+          "slug": "aglonas-lv016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "56.161",
+      "lon": "27.007"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LV001L001",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Rucava",
+      "en": "Rucava",
+      "slug": "rucava-lv001l001"
+    },
+    "code": {
+      "id": "LV001L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV001",
+      "level": 1,
+      "name": {
+        "local": "Rucavas",
+        "en": "Rucavas",
+        "slug": "rucavas-lv001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV001",
+        "level": 1,
+        "name": {
+          "local": "Rucavas",
+          "en": "Rucavas",
+          "slug": "rucavas-lv001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "56.163",
+      "lon": "21.162"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LV058L002",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Usma",
+      "en": "Usma",
+      "slug": "usma-lv058l002"
+    },
+    "code": {
+      "id": "LV058L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV058",
+      "level": 1,
+      "name": {
+        "local": "Kuldigas",
+        "en": "Kuldigas",
+        "slug": "kuldigas-lv058"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV058",
+        "level": 1,
+        "name": {
+          "local": "Kuldigas",
+          "en": "Kuldigas",
+          "slug": "kuldigas-lv058"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "57.218",
+      "lon": "22.155"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

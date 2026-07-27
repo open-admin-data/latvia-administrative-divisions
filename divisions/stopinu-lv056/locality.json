@@ -1,0 +1,47 @@
+[
+  {
+    "id": "LV056L001",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Upeslejas",
+      "en": "Upeslejas",
+      "slug": "upeslejas-lv056l001"
+    },
+    "code": {
+      "id": "LV056L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV056",
+      "level": 1,
+      "name": {
+        "local": "Stopinu",
+        "en": "Stopinu",
+        "slug": "stopinu-lv056"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV056",
+        "level": 1,
+        "name": {
+          "local": "Stopinu",
+          "en": "Stopinu",
+          "slug": "stopinu-lv056"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "56.924",
+      "lon": "24.386"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

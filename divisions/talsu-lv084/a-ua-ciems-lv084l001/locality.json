@@ -1,0 +1,45 @@
+{
+  "id": "LV084L001",
+  "level": 2,
+  "level_name": {
+    "local": "Apdzīvota vieta",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Ä¶uÄ¼ciems",
+    "en": "Ä¶uÄ¼ciems",
+    "slug": "a-ua-ciems-lv084l001"
+  },
+  "code": {
+    "id": "LV084L001",
+    "iso": null
+  },
+  "parent": {
+    "id": "LV084",
+    "level": 1,
+    "name": {
+      "local": "Talsu",
+      "en": "Talsu",
+      "slug": "talsu-lv084"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LV084",
+      "level": 1,
+      "name": {
+        "local": "Talsu",
+        "en": "Talsu",
+        "slug": "talsu-lv084"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "57.266",
+    "lon": "23.032"
+  },
+  "metadata": {},
+  "source": {}
+}

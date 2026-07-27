@@ -1,0 +1,33 @@
+{
+  "id": "LV003",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Daugavpils",
+    "en": "Daugavpils",
+    "slug": "daugavpils-lv003"
+  },
+  "code": {
+    "id": "LV003",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "55.876",
+    "lon": "26.527"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/daugavpils-lv003/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

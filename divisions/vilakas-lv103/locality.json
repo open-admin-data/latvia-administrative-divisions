@@ -1,0 +1,47 @@
+[
+  {
+    "id": "LV103L001",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "VilÌ§aka",
+      "en": "VilÌ§aka",
+      "slug": "vili-aka-lv103l001"
+    },
+    "code": {
+      "id": "LV103L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV103",
+      "level": 1,
+      "name": {
+        "local": "Vilakas",
+        "en": "Vilakas",
+        "slug": "vilakas-lv103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV103",
+        "level": 1,
+        "name": {
+          "local": "Vilakas",
+          "en": "Vilakas",
+          "slug": "vilakas-lv103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "57.185",
+      "lon": "27.672"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,33 @@
+{
+  "id": "LV077",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Mersraga",
+    "en": "Mersraga",
+    "slug": "mersraga-lv077"
+  },
+  "code": {
+    "id": "LV077",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "57.339",
+    "lon": "23.042"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/mersraga-lv077/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "LV031",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Dobeles",
+    "en": "Dobeles",
+    "slug": "dobeles-lv031"
+  },
+  "code": {
+    "id": "LV031",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.593",
+    "lon": "23.221"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/dobeles-lv031/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

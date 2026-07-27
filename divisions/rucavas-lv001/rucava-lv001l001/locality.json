@@ -1,0 +1,45 @@
+{
+  "id": "LV001L001",
+  "level": 2,
+  "level_name": {
+    "local": "Apdzīvota vieta",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Rucava",
+    "en": "Rucava",
+    "slug": "rucava-lv001l001"
+  },
+  "code": {
+    "id": "LV001L001",
+    "iso": null
+  },
+  "parent": {
+    "id": "LV001",
+    "level": 1,
+    "name": {
+      "local": "Rucavas",
+      "en": "Rucavas",
+      "slug": "rucavas-lv001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LV001",
+      "level": 1,
+      "name": {
+        "local": "Rucavas",
+        "en": "Rucavas",
+        "slug": "rucavas-lv001"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.163",
+    "lon": "21.162"
+  },
+  "metadata": {},
+  "source": {}
+}

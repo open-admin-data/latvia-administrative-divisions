@@ -1,0 +1,33 @@
+{
+  "id": "LV045",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Krustpils",
+    "en": "Krustpils",
+    "slug": "krustpils-lv045"
+  },
+  "code": {
+    "id": "LV045",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.538",
+    "lon": "26.129"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/krustpils-lv045/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

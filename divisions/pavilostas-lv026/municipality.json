@@ -1,0 +1,33 @@
+{
+  "id": "LV026",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Pavilostas",
+    "en": "Pavilostas",
+    "slug": "pavilostas-lv026"
+  },
+  "code": {
+    "id": "LV026",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.793",
+    "lon": "21.171"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/pavilostas-lv026/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

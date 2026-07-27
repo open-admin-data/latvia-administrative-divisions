@@ -1,0 +1,33 @@
+{
+  "id": "LV064",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "RopaÅ¾u",
+    "en": "RopaÅ¾u",
+    "slug": "ropaa-u-lv064"
+  },
+  "code": {
+    "id": "LV064",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.975",
+    "lon": "24.597"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/ropaa-u-lv064/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

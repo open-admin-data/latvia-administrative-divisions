@@ -1,0 +1,14 @@
+# Aglonas — Latvia Administrative Divisions
+
+> 1 localitys
+> Code: LV016
+> Coordinates: 56.084, 27.066
+> Last updated: 2026-07-27. License: CC-BY-4.0.
+
+## Localitys
+
+### Jaunaglona
+
+Code: LV016L001, Coordinates: 56.161, 27.007
+
+

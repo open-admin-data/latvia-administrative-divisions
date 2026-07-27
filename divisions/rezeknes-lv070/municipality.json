@@ -1,0 +1,33 @@
+{
+  "id": "LV070",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Rezeknes",
+    "en": "Rezeknes",
+    "slug": "rezeknes-lv070"
+  },
+  "code": {
+    "id": "LV070",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.63",
+    "lon": "27.179"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/rezeknes-lv070/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

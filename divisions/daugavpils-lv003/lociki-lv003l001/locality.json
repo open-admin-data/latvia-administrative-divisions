@@ -1,0 +1,45 @@
+{
+  "id": "LV003L001",
+  "level": 2,
+  "level_name": {
+    "local": "Apdzīvota vieta",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Lociki",
+    "en": "Lociki",
+    "slug": "lociki-lv003l001"
+  },
+  "code": {
+    "id": "LV003L001",
+    "iso": null
+  },
+  "parent": {
+    "id": "LV003",
+    "level": 1,
+    "name": {
+      "local": "Daugavpils",
+      "en": "Daugavpils",
+      "slug": "daugavpils-lv003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LV003",
+      "level": 1,
+      "name": {
+        "local": "Daugavpils",
+        "en": "Daugavpils",
+        "slug": "daugavpils-lv003"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "55.937",
+    "lon": "26.644"
+  },
+  "metadata": {},
+  "source": {}
+}

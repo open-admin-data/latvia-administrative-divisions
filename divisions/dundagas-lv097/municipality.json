@@ -1,0 +1,33 @@
+{
+  "id": "LV097",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Dundagas",
+    "en": "Dundagas",
+    "slug": "dundagas-lv097"
+  },
+  "code": {
+    "id": "LV097",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "57.567",
+    "lon": "22.4"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/dundagas-lv097/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

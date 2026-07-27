@@ -1,0 +1,14 @@
+# Tukuma — Latvia Administrative Divisions
+
+> 1 localitys
+> Code: LV067
+> Coordinates: 57.018, 23.025
+> Last updated: 2026-07-27. License: CC-BY-4.0.
+
+## Localitys
+
+### SÄ“me
+
+Code: LV067L001, Coordinates: 57.042, 23.128
+
+

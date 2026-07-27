@@ -1,0 +1,45 @@
+{
+  "id": "LV016L001",
+  "level": 2,
+  "level_name": {
+    "local": "Apdzīvota vieta",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Jaunaglona",
+    "en": "Jaunaglona",
+    "slug": "jaunaglona-lv016l001"
+  },
+  "code": {
+    "id": "LV016L001",
+    "iso": null
+  },
+  "parent": {
+    "id": "LV016",
+    "level": 1,
+    "name": {
+      "local": "Aglonas",
+      "en": "Aglonas",
+      "slug": "aglonas-lv016"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LV016",
+      "level": 1,
+      "name": {
+        "local": "Aglonas",
+        "en": "Aglonas",
+        "slug": "aglonas-lv016"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.161",
+    "lon": "27.007"
+  },
+  "metadata": {},
+  "source": {}
+}

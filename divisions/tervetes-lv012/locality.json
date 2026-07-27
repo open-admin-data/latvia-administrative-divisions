@@ -1,0 +1,47 @@
+[
+  {
+    "id": "LV012L001",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "TÄ“rvete",
+      "en": "TÄ“rvete",
+      "slug": "ta-rvete-lv012l001"
+    },
+    "code": {
+      "id": "LV012L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV012",
+      "level": 1,
+      "name": {
+        "local": "Tervetes",
+        "en": "Tervetes",
+        "slug": "tervetes-lv012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV012",
+        "level": 1,
+        "name": {
+          "local": "Tervetes",
+          "en": "Tervetes",
+          "slug": "tervetes-lv012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "56.48",
+      "lon": "23.389"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

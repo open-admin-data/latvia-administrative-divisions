@@ -1,0 +1,47 @@
+[
+  {
+    "id": "LV053L001",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Koknese",
+      "en": "Koknese",
+      "slug": "koknese-lv053l001"
+    },
+    "code": {
+      "id": "LV053L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV053",
+      "level": 1,
+      "name": {
+        "local": "Kokneses",
+        "en": "Kokneses",
+        "slug": "kokneses-lv053"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV053",
+        "level": 1,
+        "name": {
+          "local": "Kokneses",
+          "en": "Kokneses",
+          "slug": "kokneses-lv053"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "56.662",
+      "lon": "25.424"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,14 @@
+# Mazsalacas — Latvia Administrative Divisions
+
+> 1 localitys
+> Code: LV115
+> Coordinates: 57.913, 25.037
+> Last updated: 2026-07-27. License: CC-BY-4.0.
+
+## Localitys
+
+### Mazsalace
+
+Code: LV115L001, Coordinates: 57.863, 25.055
+
+

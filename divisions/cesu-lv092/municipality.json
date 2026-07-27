@@ -1,0 +1,33 @@
+{
+  "id": "LV092",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cesu",
+    "en": "Cesu",
+    "slug": "cesu-lv092"
+  },
+  "code": {
+    "id": "LV092",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "57.244",
+    "lon": "25.415"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/cesu-lv092/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

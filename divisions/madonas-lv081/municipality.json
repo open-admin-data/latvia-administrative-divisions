@@ -1,0 +1,33 @@
+{
+  "id": "LV081",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Madonas",
+    "en": "Madonas",
+    "slug": "madonas-lv081"
+  },
+  "code": {
+    "id": "LV081",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.777",
+    "lon": "26.275"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/madonas-lv081/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

@@ -1,0 +1,14 @@
+# Vecpiebalgas — Latvia Administrative Divisions
+
+> 1 localitys
+> Code: LV091
+> Coordinates: 57.097, 25.7
+> Last updated: 2026-07-27. License: CC-BY-4.0.
+
+## Localitys
+
+### Vecpiebalga
+
+Code: LV091L001, Coordinates: 57.061, 25.816
+
+

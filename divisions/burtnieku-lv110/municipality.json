@@ -1,0 +1,33 @@
+{
+  "id": "LV110",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Burtnieku",
+    "en": "Burtnieku",
+    "slug": "burtnieku-lv110"
+  },
+  "code": {
+    "id": "LV110",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "57.685",
+    "lon": "25.38"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/burtnieku-lv110/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

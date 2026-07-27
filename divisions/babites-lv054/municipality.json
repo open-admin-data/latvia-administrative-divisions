@@ -1,0 +1,33 @@
+{
+  "id": "LV054",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Babites",
+    "en": "Babites",
+    "slug": "babites-lv054"
+  },
+  "code": {
+    "id": "LV054",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.886",
+    "lon": "23.769"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/babites-lv054/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

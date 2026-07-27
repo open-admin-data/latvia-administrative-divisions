@@ -1,0 +1,47 @@
+[
+  {
+    "id": "LV060L001",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "VaraklÌ§Ä�ni",
+      "en": "VaraklÌ§Ä�ni",
+      "slug": "varakli-a-ni-lv060l001"
+    },
+    "code": {
+      "id": "LV060L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV060",
+      "level": 1,
+      "name": {
+        "local": "Varaklanu",
+        "en": "Varaklanu",
+        "slug": "varaklanu-lv060"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV060",
+        "level": 1,
+        "name": {
+          "local": "Varaklanu",
+          "en": "Varaklanu",
+          "slug": "varaklanu-lv060"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "56.608",
+      "lon": "26.754"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

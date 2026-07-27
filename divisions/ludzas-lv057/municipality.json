@@ -1,0 +1,33 @@
+{
+  "id": "LV057",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ludzas",
+    "en": "Ludzas",
+    "slug": "ludzas-lv057"
+  },
+  "code": {
+    "id": "LV057",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.406",
+    "lon": "27.828"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/ludzas-lv057/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

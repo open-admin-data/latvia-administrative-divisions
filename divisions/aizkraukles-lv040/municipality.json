@@ -1,0 +1,33 @@
+{
+  "id": "LV040",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Aizkraukles",
+    "en": "Aizkraukles",
+    "slug": "aizkraukles-lv040"
+  },
+  "code": {
+    "id": "LV040",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.635",
+    "lon": "25.24"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/aizkraukles-lv040/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

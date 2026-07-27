@@ -1,0 +1,19 @@
+# Riga — Latvia Administrative Divisions
+
+> 2 localitys
+> Code: LV063
+> Coordinates: 56.987, 24.103
+> Last updated: 2026-07-27. License: CC-BY-4.0.
+
+## Localitys
+
+### Jaunciems
+
+Code: LV063L001, Coordinates: 57.039, 24.174
+
+
+### Riga
+
+Code: LV063L002, Coordinates: 56.946, 24.106
+
+

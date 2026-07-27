@@ -1,0 +1,9 @@
+# Saulkrastu — Latvia Administrative Divisions
+
+> 0 localitys
+> Code: LV086
+> Coordinates: 57.257, 24.433
+> Last updated: 2026-07-27. License: CC-BY-4.0.
+
+## Localitys
+

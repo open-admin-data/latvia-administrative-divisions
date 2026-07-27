@@ -1,0 +1,33 @@
+{
+  "id": "LV103",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Vilakas",
+    "en": "Vilakas",
+    "slug": "vilakas-lv103"
+  },
+  "code": {
+    "id": "LV103",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "57.194",
+    "lon": "27.658"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/vilakas-lv103/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

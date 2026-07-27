@@ -1,0 +1,45 @@
+{
+  "id": "LV039L001",
+  "level": 2,
+  "level_name": {
+    "local": "Apdzīvota vieta",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "JÅ«rkalne",
+    "en": "JÅ«rkalne",
+    "slug": "ja-rkalne-lv039l001"
+  },
+  "code": {
+    "id": "LV039L001",
+    "iso": null
+  },
+  "parent": {
+    "id": "LV039",
+    "level": 1,
+    "name": {
+      "local": "Alsungas",
+      "en": "Alsungas",
+      "slug": "alsungas-lv039"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LV039",
+      "level": 1,
+      "name": {
+        "local": "Alsungas",
+        "en": "Alsungas",
+        "slug": "alsungas-lv039"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "57.009",
+    "lon": "21.394"
+  },
+  "metadata": {},
+  "source": {}
+}

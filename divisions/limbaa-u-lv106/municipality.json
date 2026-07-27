@@ -1,0 +1,33 @@
+{
+  "id": "LV106",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "LimbaÅ¾u",
+    "en": "LimbaÅ¾u",
+    "slug": "limbaa-u-lv106"
+  },
+  "code": {
+    "id": "LV106",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "57.567",
+    "lon": "24.719"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/limbaa-u-lv106/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

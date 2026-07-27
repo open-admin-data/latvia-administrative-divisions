@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite as below"
+type: dataset
+authors:
+  - name: "jakkrapongt"
+title: "Latvia Administrative Divisions Dataset"
+version: "2026.07"
+date-released: "2026-07-27"
+url: "https://github.com/open-admin-data/latvia-administrative-divisions"
+repository-code: "https://github.com/open-admin-data/latvia-administrative-divisions"
+license: CC-BY-4.0
+keywords:
+  - latvia
+  - administrative-divisions
+  - geography
+  - open-data
+  - dataset
+  - multilingual
+abstract: >
+  Open dataset of Latvia's administrative hierarchy:
+  116 municipalitys, 38 localitys.
+  Bilingual with coordinates and postal codes where available.

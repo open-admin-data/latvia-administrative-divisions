@@ -1,0 +1,45 @@
+{
+  "id": "LV003L002",
+  "level": 2,
+  "level_name": {
+    "local": "Apdzīvota vieta",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "KalkÅ«ni",
+    "en": "KalkÅ«ni",
+    "slug": "kalka-ni-lv003l002"
+  },
+  "code": {
+    "id": "LV003L002",
+    "iso": null
+  },
+  "parent": {
+    "id": "LV003",
+    "level": 1,
+    "name": {
+      "local": "Daugavpils",
+      "en": "Daugavpils",
+      "slug": "daugavpils-lv003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LV003",
+      "level": 1,
+      "name": {
+        "local": "Daugavpils",
+        "en": "Daugavpils",
+        "slug": "daugavpils-lv003"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "55.835",
+    "lon": "26.471"
+  },
+  "metadata": {},
+  "source": {}
+}

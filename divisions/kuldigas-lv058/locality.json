@@ -1,0 +1,92 @@
+[
+  {
+    "id": "LV058L001",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ä’dole",
+      "en": "Ä’dole",
+      "slug": "a-dole-lv058l001"
+    },
+    "code": {
+      "id": "LV058L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV058",
+      "level": 1,
+      "name": {
+        "local": "Kuldigas",
+        "en": "Kuldigas",
+        "slug": "kuldigas-lv058"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV058",
+        "level": 1,
+        "name": {
+          "local": "Kuldigas",
+          "en": "Kuldigas",
+          "slug": "kuldigas-lv058"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "57.021",
+      "lon": "21.691"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LV058L002",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Usma",
+      "en": "Usma",
+      "slug": "usma-lv058l002"
+    },
+    "code": {
+      "id": "LV058L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV058",
+      "level": 1,
+      "name": {
+        "local": "Kuldigas",
+        "en": "Kuldigas",
+        "slug": "kuldigas-lv058"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV058",
+        "level": 1,
+        "name": {
+          "local": "Kuldigas",
+          "en": "Kuldigas",
+          "slug": "kuldigas-lv058"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "57.218",
+      "lon": "22.155"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

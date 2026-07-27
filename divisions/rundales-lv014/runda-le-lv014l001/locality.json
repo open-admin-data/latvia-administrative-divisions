@@ -1,0 +1,45 @@
+{
+  "id": "LV014L001",
+  "level": 2,
+  "level_name": {
+    "local": "Apdzīvota vieta",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "RundÄ�le",
+    "en": "RundÄ�le",
+    "slug": "runda-le-lv014l001"
+  },
+  "code": {
+    "id": "LV014L001",
+    "iso": null
+  },
+  "parent": {
+    "id": "LV014",
+    "level": 1,
+    "name": {
+      "local": "Rundales",
+      "en": "Rundales",
+      "slug": "rundales-lv014"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LV014",
+      "level": 1,
+      "name": {
+        "local": "Rundales",
+        "en": "Rundales",
+        "slug": "rundales-lv014"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.427",
+    "lon": "23.985"
+  },
+  "metadata": {},
+  "source": {}
+}

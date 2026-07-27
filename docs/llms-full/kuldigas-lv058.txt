@@ -1,0 +1,19 @@
+# Kuldigas — Latvia Administrative Divisions
+
+> 2 localitys
+> Code: LV058
+> Coordinates: 56.955, 21.938
+> Last updated: 2026-07-27. License: CC-BY-4.0.
+
+## Localitys
+
+### Ä’dole
+
+Code: LV058L001, Coordinates: 57.021, 21.691
+
+
+### Usma
+
+Code: LV058L002, Coordinates: 57.218, 22.155
+
+

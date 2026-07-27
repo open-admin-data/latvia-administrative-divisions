@@ -1,0 +1,33 @@
+{
+  "id": "LV112",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Alojas",
+    "en": "Alojas",
+    "slug": "alojas-lv112"
+  },
+  "code": {
+    "id": "LV112",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "57.833",
+    "lon": "24.775"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/alojas-lv112/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

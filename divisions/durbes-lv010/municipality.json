@@ -1,0 +1,33 @@
+{
+  "id": "LV010",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Durbes",
+    "en": "Durbes",
+    "slug": "durbes-lv010"
+  },
+  "code": {
+    "id": "LV010",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.607",
+    "lon": "21.367"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/durbes-lv010/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

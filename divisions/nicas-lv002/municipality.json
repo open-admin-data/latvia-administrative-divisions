@@ -1,0 +1,33 @@
+{
+  "id": "LV002",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Nicas",
+    "en": "Nicas",
+    "slug": "nicas-lv002"
+  },
+  "code": {
+    "id": "LV002",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.351",
+    "lon": "21.088"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/nicas-lv002/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

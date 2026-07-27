@@ -1,0 +1,45 @@
+{
+  "id": "LV091L001",
+  "level": 2,
+  "level_name": {
+    "local": "Apdzīvota vieta",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Vecpiebalga",
+    "en": "Vecpiebalga",
+    "slug": "vecpiebalga-lv091l001"
+  },
+  "code": {
+    "id": "LV091L001",
+    "iso": null
+  },
+  "parent": {
+    "id": "LV091",
+    "level": 1,
+    "name": {
+      "local": "Vecpiebalgas",
+      "en": "Vecpiebalgas",
+      "slug": "vecpiebalgas-lv091"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LV091",
+      "level": 1,
+      "name": {
+        "local": "Vecpiebalgas",
+        "en": "Vecpiebalgas",
+        "slug": "vecpiebalgas-lv091"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "57.061",
+    "lon": "25.816"
+  },
+  "metadata": {},
+  "source": {}
+}

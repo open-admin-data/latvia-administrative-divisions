@@ -1,0 +1,33 @@
+{
+  "id": "LV044",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Zilupes",
+    "en": "Zilupes",
+    "slug": "zilupes-lv044"
+  },
+  "code": {
+    "id": "LV044",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.341",
+    "lon": "28.088"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/zilupes-lv044/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

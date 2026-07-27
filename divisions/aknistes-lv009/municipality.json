@@ -1,0 +1,33 @@
+{
+  "id": "LV009",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Aknistes",
+    "en": "Aknistes",
+    "slug": "aknistes-lv009"
+  },
+  "code": {
+    "id": "LV009",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.159",
+    "lon": "25.775"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/aknistes-lv009/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

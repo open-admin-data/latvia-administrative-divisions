@@ -1,0 +1,33 @@
+{
+  "id": "LV034",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Vecumnieku",
+    "en": "Vecumnieku",
+    "slug": "vecumnieku-lv034"
+  },
+  "code": {
+    "id": "LV034",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.601",
+    "lon": "24.487"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/vecumnieku-lv034/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

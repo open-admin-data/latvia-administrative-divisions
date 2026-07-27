@@ -1,0 +1,33 @@
+{
+  "id": "LV076",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ventspils",
+    "en": "Ventspils",
+    "slug": "ventspils-lv076"
+  },
+  "code": {
+    "id": "LV076",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "57.404",
+    "lon": "21.597"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/ventspils-lv076/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

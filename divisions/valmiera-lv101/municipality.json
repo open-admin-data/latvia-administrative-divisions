@@ -1,0 +1,33 @@
+{
+  "id": "LV101",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Valmiera",
+    "en": "Valmiera",
+    "slug": "valmiera-lv101"
+  },
+  "code": {
+    "id": "LV101",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "57.532",
+    "lon": "25.41"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/valmiera-lv101/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

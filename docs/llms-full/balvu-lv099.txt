@@ -1,0 +1,9 @@
+# Balvu — Latvia Administrative Divisions
+
+> 0 localitys
+> Code: LV099
+> Coordinates: 57.149, 27.292
+> Last updated: 2026-07-27. License: CC-BY-4.0.
+
+## Localitys
+

@@ -1,0 +1,33 @@
+{
+  "id": "LV027",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Iecavas",
+    "en": "Iecavas",
+    "slug": "iecavas-lv027"
+  },
+  "code": {
+    "id": "LV027",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.602",
+    "lon": "24.223"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/iecavas-lv027/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

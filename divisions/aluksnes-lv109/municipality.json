@@ -1,0 +1,33 @@
+{
+  "id": "LV109",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Aluksnes",
+    "en": "Aluksnes",
+    "slug": "aluksnes-lv109"
+  },
+  "code": {
+    "id": "LV109",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "57.394",
+    "lon": "27.161"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/aluksnes-lv109/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

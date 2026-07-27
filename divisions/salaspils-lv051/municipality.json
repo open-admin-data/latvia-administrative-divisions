@@ -1,0 +1,33 @@
+{
+  "id": "LV051",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Salaspils",
+    "en": "Salaspils",
+    "slug": "salaspils-lv051"
+  },
+  "code": {
+    "id": "LV051",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.878",
+    "lon": "24.393"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/salaspils-lv051/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

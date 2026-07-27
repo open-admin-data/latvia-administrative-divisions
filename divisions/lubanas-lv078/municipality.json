@@ -1,0 +1,33 @@
+{
+  "id": "LV078",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Lubanas",
+    "en": "Lubanas",
+    "slug": "lubanas-lv078"
+  },
+  "code": {
+    "id": "LV078",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.937",
+    "lon": "26.764"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/lubanas-lv078/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

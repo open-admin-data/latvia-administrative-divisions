@@ -1,0 +1,45 @@
+{
+  "id": "LV098L001",
+  "level": 2,
+  "level_name": {
+    "local": "Apdzīvota vieta",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "PriekulÌ§i",
+    "en": "PriekulÌ§i",
+    "slug": "priekuli-i-lv098l001"
+  },
+  "code": {
+    "id": "LV098L001",
+    "iso": null
+  },
+  "parent": {
+    "id": "LV098",
+    "level": 1,
+    "name": {
+      "local": "Priekulu",
+      "en": "Priekulu",
+      "slug": "priekulu-lv098"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LV098",
+      "level": 1,
+      "name": {
+        "local": "Priekulu",
+        "en": "Priekulu",
+        "slug": "priekulu-lv098"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "57.315",
+    "lon": "25.361"
+  },
+  "metadata": {},
+  "source": {}
+}

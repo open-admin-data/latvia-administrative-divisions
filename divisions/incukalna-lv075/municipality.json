@@ -1,0 +1,33 @@
+{
+  "id": "LV075",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Incukalna",
+    "en": "Incukalna",
+    "slug": "incukalna-lv075"
+  },
+  "code": {
+    "id": "LV075",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "57.098",
+    "lon": "24.623"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/incukalna-lv075/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

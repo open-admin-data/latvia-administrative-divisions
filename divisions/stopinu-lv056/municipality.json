@@ -1,0 +1,33 @@
+{
+  "id": "LV056",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Stopinu",
+    "en": "Stopinu",
+    "slug": "stopinu-lv056"
+  },
+  "code": {
+    "id": "LV056",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.944",
+    "lon": "24.326"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/stopinu-lv056/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

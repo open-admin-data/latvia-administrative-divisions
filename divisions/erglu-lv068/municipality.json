@@ -1,0 +1,33 @@
+{
+  "id": "LV068",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Erglu",
+    "en": "Erglu",
+    "slug": "erglu-lv068"
+  },
+  "code": {
+    "id": "LV068",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.88",
+    "lon": "25.638"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/erglu-lv068/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

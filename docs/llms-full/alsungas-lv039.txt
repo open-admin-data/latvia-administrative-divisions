@@ -1,0 +1,14 @@
+# Alsungas — Latvia Administrative Divisions
+
+> 1 localitys
+> Code: LV039
+> Coordinates: 56.99, 21.553
+> Last updated: 2026-07-27. License: CC-BY-4.0.
+
+## Localitys
+
+### JÅ«rkalne
+
+Code: LV039L001, Coordinates: 57.009, 21.394
+
+

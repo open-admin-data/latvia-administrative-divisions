@@ -1,0 +1,33 @@
+{
+  "id": "LV033",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Saldus",
+    "en": "Saldus",
+    "slug": "saldus-lv033"
+  },
+  "code": {
+    "id": "LV033",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.601",
+    "lon": "22.338"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/saldus-lv033/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

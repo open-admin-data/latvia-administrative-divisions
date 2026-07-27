@@ -1,0 +1,33 @@
+{
+  "id": "LV063",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Riga",
+    "en": "Riga",
+    "slug": "riga-lv063"
+  },
+  "code": {
+    "id": "LV063",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.987",
+    "lon": "24.103"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/riga-lv063/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

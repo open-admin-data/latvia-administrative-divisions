@@ -1,0 +1,33 @@
+{
+  "id": "LV036",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Jaunjelgavas",
+    "en": "Jaunjelgavas",
+    "slug": "jaunjelgavas-lv036"
+  },
+  "code": {
+    "id": "LV036",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.518",
+    "lon": "25.392"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/jaunjelgavas-lv036/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

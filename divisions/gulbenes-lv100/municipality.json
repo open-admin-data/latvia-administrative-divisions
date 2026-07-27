@@ -1,0 +1,33 @@
+{
+  "id": "LV100",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Gulbenes",
+    "en": "Gulbenes",
+    "slug": "gulbenes-lv100"
+  },
+  "code": {
+    "id": "LV100",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "57.154",
+    "lon": "26.64"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/gulbenes-lv100/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

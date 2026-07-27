@@ -1,0 +1,45 @@
+{
+  "id": "LV041L001",
+  "level": 2,
+  "level_name": {
+    "local": "Apdzīvota vieta",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "TÄ«reÄ¼i",
+    "en": "TÄ«reÄ¼i",
+    "slug": "ta-rea-i-lv041l001"
+  },
+  "code": {
+    "id": "LV041L001",
+    "iso": null
+  },
+  "parent": {
+    "id": "LV041",
+    "level": 1,
+    "name": {
+      "local": "Jelgavas",
+      "en": "Jelgavas",
+      "slug": "jelgavas-lv041"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LV041",
+      "level": 1,
+      "name": {
+        "local": "Jelgavas",
+        "en": "Jelgavas",
+        "slug": "jelgavas-lv041"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.84",
+    "lon": "23.589"
+  },
+  "metadata": {},
+  "source": {}
+}

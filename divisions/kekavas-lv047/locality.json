@@ -1,0 +1,47 @@
+[
+  {
+    "id": "LV047L001",
+    "level": 2,
+    "level_name": {
+      "local": "Apdzīvota vieta",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Balozi",
+      "en": "Balozi",
+      "slug": "balozi-lv047l001"
+    },
+    "code": {
+      "id": "LV047L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "LV047",
+      "level": 1,
+      "name": {
+        "local": "Kekavas",
+        "en": "Kekavas",
+        "slug": "kekavas-lv047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LV047",
+        "level": 1,
+        "name": {
+          "local": "Kekavas",
+          "en": "Kekavas",
+          "slug": "kekavas-lv047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "56.876",
+      "lon": "24.119"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "LV072L006",
+  "level": 2,
+  "level_name": {
+    "local": "Apdzīvota vieta",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "SmÄ�rde",
+    "en": "SmÄ�rde",
+    "slug": "sma-rde-lv072l006"
+  },
+  "code": {
+    "id": "LV072L006",
+    "iso": null
+  },
+  "parent": {
+    "id": "LV072",
+    "level": 1,
+    "name": {
+      "local": "Engures",
+      "en": "Engures",
+      "slug": "engures-lv072"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LV072",
+      "level": 1,
+      "name": {
+        "local": "Engures",
+        "en": "Engures",
+        "slug": "engures-lv072"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.954",
+    "lon": "23.337"
+  },
+  "metadata": {},
+  "source": {}
+}

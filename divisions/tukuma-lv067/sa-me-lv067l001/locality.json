@@ -1,0 +1,45 @@
+{
+  "id": "LV067L001",
+  "level": 2,
+  "level_name": {
+    "local": "Apdzīvota vieta",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "SÄ“me",
+    "en": "SÄ“me",
+    "slug": "sa-me-lv067l001"
+  },
+  "code": {
+    "id": "LV067L001",
+    "iso": null
+  },
+  "parent": {
+    "id": "LV067",
+    "level": 1,
+    "name": {
+      "local": "Tukuma",
+      "en": "Tukuma",
+      "slug": "tukuma-lv067"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LV067",
+      "level": 1,
+      "name": {
+        "local": "Tukuma",
+        "en": "Tukuma",
+        "slug": "tukuma-lv067"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "57.042",
+    "lon": "23.128"
+  },
+  "metadata": {},
+  "source": {}
+}

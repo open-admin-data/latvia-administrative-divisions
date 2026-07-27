@@ -1,0 +1,14 @@
+# Vecumnieku — Latvia Administrative Divisions
+
+> 1 localitys
+> Code: LV034
+> Coordinates: 56.601, 24.487
+> Last updated: 2026-07-27. License: CC-BY-4.0.
+
+## Localitys
+
+### BeibeÅ¾i
+
+Code: LV034L001, Coordinates: 56.588, 24.449
+
+

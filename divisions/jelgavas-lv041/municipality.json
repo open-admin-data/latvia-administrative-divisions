@@ -1,0 +1,33 @@
+{
+  "id": "LV041",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Jelgavas",
+    "en": "Jelgavas",
+    "slug": "jelgavas-lv041"
+  },
+  "code": {
+    "id": "LV041",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.49",
+    "lon": "23.596"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/jelgavas-lv041/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

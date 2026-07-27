@@ -1,0 +1,14 @@
+# Carnikavas — Latvia Administrative Divisions
+
+> 1 localitys
+> Code: LV073
+> Coordinates: 57.103, 24.229
+> Last updated: 2026-07-27. License: CC-BY-4.0.
+
+## Localitys
+
+### Kalngale
+
+Code: LV073L001, Coordinates: 57.081, 24.159
+
+

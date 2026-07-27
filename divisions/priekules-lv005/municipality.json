@@ -1,0 +1,33 @@
+{
+  "id": "LV005",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Priekules",
+    "en": "Priekules",
+    "slug": "priekules-lv005"
+  },
+  "code": {
+    "id": "LV005",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.429",
+    "lon": "21.561"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/priekules-lv005/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "LV058",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Kuldigas",
+    "en": "Kuldigas",
+    "slug": "kuldigas-lv058"
+  },
+  "code": {
+    "id": "LV058",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.955",
+    "lon": "21.938"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/kuldigas-lv058/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

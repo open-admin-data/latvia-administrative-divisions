@@ -1,0 +1,45 @@
+{
+  "id": "LV061L001",
+  "level": 2,
+  "level_name": {
+    "local": "Apdzīvota vieta",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "PlÌ§avinÌ§as",
+    "en": "PlÌ§avinÌ§as",
+    "slug": "pli-avini-as-lv061l001"
+  },
+  "code": {
+    "id": "LV061L001",
+    "iso": null
+  },
+  "parent": {
+    "id": "LV061",
+    "level": 1,
+    "name": {
+      "local": "Plavinu",
+      "en": "Plavinu",
+      "slug": "plavinu-lv061"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LV061",
+      "level": 1,
+      "name": {
+        "local": "Plavinu",
+        "en": "Plavinu",
+        "slug": "plavinu-lv061"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.618",
+    "lon": "25.726"
+  },
+  "metadata": {},
+  "source": {}
+}

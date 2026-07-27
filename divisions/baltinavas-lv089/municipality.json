@@ -1,0 +1,33 @@
+{
+  "id": "LV089",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Baltinavas",
+    "en": "Baltinavas",
+    "slug": "baltinavas-lv089"
+  },
+  "code": {
+    "id": "LV089",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.905",
+    "lon": "27.613"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/baltinavas-lv089/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

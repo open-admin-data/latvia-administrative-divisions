@@ -1,0 +1,33 @@
+{
+  "id": "LV093",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Krimuldas",
+    "en": "Krimuldas",
+    "slug": "krimuldas-lv093"
+  },
+  "code": {
+    "id": "LV093",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "57.279",
+    "lon": "24.804"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/krimuldas-lv093/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

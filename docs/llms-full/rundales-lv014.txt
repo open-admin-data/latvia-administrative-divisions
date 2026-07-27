@@ -1,0 +1,14 @@
+# Rundales — Latvia Administrative Divisions
+
+> 1 localitys
+> Code: LV014
+> Coordinates: 56.409, 23.972
+> Last updated: 2026-07-27. License: CC-BY-4.0.
+
+## Localitys
+
+### RundÄ�le
+
+Code: LV014L001, Coordinates: 56.427, 23.985
+
+

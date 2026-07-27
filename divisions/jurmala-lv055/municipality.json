@@ -1,0 +1,33 @@
+{
+  "id": "LV055",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Jurmala",
+    "en": "Jurmala",
+    "slug": "jurmala-lv055"
+  },
+  "code": {
+    "id": "LV055",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.949",
+    "lon": "23.586"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/jurmala-lv055/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

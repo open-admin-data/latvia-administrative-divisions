@@ -1,0 +1,33 @@
+{
+  "id": "LV085",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Sejas",
+    "en": "Sejas",
+    "slug": "sejas-lv085"
+  },
+  "code": {
+    "id": "LV085",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "57.206",
+    "lon": "24.547"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/sejas-lv085/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

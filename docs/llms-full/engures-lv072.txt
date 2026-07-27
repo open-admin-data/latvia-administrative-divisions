@@ -1,0 +1,49 @@
+# Engures — Latvia Administrative Divisions
+
+> 8 localitys
+> Code: LV072
+> Coordinates: 56.999, 23.283
+> Last updated: 2026-07-27. License: CC-BY-4.0.
+
+## Localitys
+
+### Ä¶esterciems
+
+Code: LV072L001, Coordinates: 57.115, 23.231
+
+
+### ApÅ¡uciems
+
+Code: LV072L008, Coordinates: 57.062, 23.306
+
+
+### BÄ“rzciems
+
+Code: LV072L003, Coordinates: 57.246, 23.174
+
+
+### Milzkalne
+
+Code: LV072L005, Coordinates: 56.978, 23.226
+
+
+### PlieÅ†ciems
+
+Code: LV072L002, Coordinates: 57.083, 23.264
+
+
+### Ragaciems
+
+Code: LV072L007, Coordinates: 57.024, 23.494
+
+
+### Rauda
+
+Code: LV072L004, Coordinates: 57.009, 23.181
+
+
+### SmÄ�rde
+
+Code: LV072L006, Coordinates: 56.954, 23.337
+
+

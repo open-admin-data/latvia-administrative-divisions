@@ -1,0 +1,14 @@
+# Vilakas — Latvia Administrative Divisions
+
+> 1 localitys
+> Code: LV103
+> Coordinates: 57.194, 27.658
+> Last updated: 2026-07-27. License: CC-BY-4.0.
+
+## Localitys
+
+### VilÌ§aka
+
+Code: LV103L001, Coordinates: 57.185, 27.672
+
+

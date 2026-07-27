@@ -1,0 +1,33 @@
+{
+  "id": "LV012",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tervetes",
+    "en": "Tervetes",
+    "slug": "tervetes-lv012"
+  },
+  "code": {
+    "id": "LV012",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.434",
+    "lon": "23.369"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/tervetes-lv012/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "LV015",
+  "level": 1,
+  "level_name": {
+    "local": "Novads",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Bauskas",
+    "en": "Bauskas",
+    "slug": "bauskas-lv015"
+  },
+  "code": {
+    "id": "LV015",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "56.42",
+    "lon": "24.335"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lv/municipalities/bauskas-lv015/",
+    "api": "https://openadmindata.org/api/lv/"
+  }
+}
