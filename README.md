@@ -11,9 +11,10 @@
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-07-27 |
+| Last Updated | 2026-08-19 |
 | Website | [openadmindata.org/lv](https://openadmindata.org/lv/) |
 | API | [openadmindata.org/api/lv](https://openadmindata.org/api/lv/) |
+| National Anthem | [🎵 Listen & Download Latvia National Anthem MP3](https://onlygames.me/national-anthems/lv/) |
 
 ## Browse by Municipality
 

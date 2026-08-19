@@ -3,7 +3,7 @@
 > 1 localitys
 > Code: LV35
 > Coordinates: 57.258, 24.407
-> Last updated: 2026-07-27. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Localitys
 

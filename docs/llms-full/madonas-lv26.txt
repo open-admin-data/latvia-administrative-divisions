@@ -3,7 +3,7 @@
 > 0 localitys
 > Code: LV26
 > Coordinates: 56.854, 26.218
-> Last updated: 2026-07-27. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Localitys
 

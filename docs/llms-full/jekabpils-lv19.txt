@@ -3,7 +3,7 @@
 > 3 localitys
 > Code: LV19
 > Coordinates: 56.5, 25.858
-> Last updated: 2026-07-27. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Localitys
 
