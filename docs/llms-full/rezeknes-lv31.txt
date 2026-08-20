@@ -3,7 +3,7 @@
 > 0 localitys
 > Code: LV31
 > Coordinates: 56.51, 27.334
-> Last updated: 2026-08-19. License: CC-BY-4.0.
+> Last updated: 2026-08-20. License: CC-BY-4.0.
 
 ## Localitys
 
